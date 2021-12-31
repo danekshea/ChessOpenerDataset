@@ -1,0 +1,7 @@
+{
+    "tokenid": 1999,
+    "eco": "E12/76",
+    "name": "Queen's Indian: Petrosian System: Main Line",
+    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.e3 Be7 8.Bb5+ c6 9.Bd3 O-O 10.e4 Nxc3 11.bxc3 c5 12.O-O cxd4 1/2",
+    "FEN": "rn1q1rk1/pb2bppp/1p2p3/8/3pP3/P1PB1N2/5PPP/R1BQ1RK1 w - - 0 13"
+}

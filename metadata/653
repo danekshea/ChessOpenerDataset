@@ -1,0 +1,7 @@
+{
+    "tokenid": 653,
+    "eco": "B20/05",
+    "name": "Sicilian: Neo-King's Indian Attack",
+    "pgn": "1.e4 c5 2.d3 Nc6 3.g3 d5 4.Nd2 Nf6 5.Bg2 e5 1/2",
+    "FEN": "r1bqkb1r/pp3ppp/2n2n2/2ppp3/4P3/3P2P1/PPPN1PBP/R1BQK1NR w KQkq e6 0 6"
+}

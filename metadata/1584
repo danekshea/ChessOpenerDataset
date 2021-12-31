@@ -1,0 +1,7 @@
+{
+    "tokenid": 1584,
+    "eco": "D04",
+    "name": "Queen's Pawn Game: Cobo Variation",
+    "pgn": "1.d4 Nf6 2.Nf3 d5 3.e3 g6 4.Bd3 Bg7 5.Nbd2 O-O 6.O-O 1/2",
+    "FEN": "rnbq1rk1/ppp1ppbp/5np1/3p4/3P4/3BPN2/PPPN1PPP/R1BQ1RK1 b - - 5 6"
+}

@@ -1,0 +1,7 @@
+{
+    "tokenid": 99,
+    "eco": "A07",
+    "name": "Reti: King's Indian Attack (...e5)",
+    "pgn": "1.g3 e5 2.Bg2 d5 3.d3 Nc6 4.Nf3 Bg4 1/2",
+    "FEN": "r2qkbnr/ppp2ppp/2n5/3pp3/6b1/3P1NP1/PPP1PPBP/RNBQK2R w KQkq - 3 5"
+}

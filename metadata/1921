@@ -1,0 +1,7 @@
+{
+    "tokenid": 1921,
+    "eco": "D93/16",
+    "name": "Gruenfeld with Bf4 e3: ...c5 Main Line",
+    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.e3 c5 7.dxc5 Qa5 8.Rc1 dxc4 9.Bxc4 Qxc5 10.Bb3 Nc6 11.O-O Qa5 1/2",
+    "FEN": "r1b2rk1/pp2ppbp/2n2np1/q7/5B2/1BN1PN2/PP3PPP/2RQ1RK1 w - - 4 12"
+}

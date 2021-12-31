@@ -1,0 +1,7 @@
+{
+    "tokenid": 812,
+    "eco": "B50",
+    "name": "Sicilian: Closed Fianchetto (with d3)",
+    "pgn": "1.e4 c5 2.Nf3 d6 3.d3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O e6 7.Nbd2 Nge7 8.Re1 O-O 9.a4 1/2",
+    "FEN": "r1bq1rk1/pp2npbp/2npp1p1/2p5/P3P3/3P1NP1/1PPN1PBP/R1BQR1K1 b - a3 0 9"
+}

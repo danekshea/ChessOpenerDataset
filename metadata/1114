@@ -1,0 +1,7 @@
+{
+    "tokenid": 1114,
+    "eco": "C24/02",
+    "name": "Bishop's Opening: 3.d3 d5",
+    "pgn": "1.e4 e5 2.Bc4 Nf6 3.d3 d5 4.exd5 Nxd5 5.Nf3 Nc6 6.O-O Bg4 7.Re1 Be7 1/2",
+    "FEN": "r2qk2r/ppp1bppp/2n5/3np3/2B3b1/3P1N2/PPP2PPP/RNBQR1K1 w kq - 6 8"
+}

@@ -1,0 +1,7 @@
+{
+    "tokenid": 926,
+    "eco": "B83/09",
+    "name": "Sicilian: Modern Scheveningen: Main Line (with Kh1)",
+    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.Be3 Nf6 7.f4 Be7 8.Be2 O-O 9.O-O Bd7 10.Kh1 Nxd4 11.Bxd4 Bc6 12.Bd3 1/2",
+    "FEN": "r2q1rk1/pp2bppp/2bppn2/8/3BPP2/2NB4/PPP3PP/R2Q1R1K b - - 2 12"
+}

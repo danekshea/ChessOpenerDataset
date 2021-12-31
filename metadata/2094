@@ -1,0 +1,7 @@
+{
+    "tokenid": 2094,
+    "eco": "E52/04",
+    "name": "Nimzo-Indian: 4.e3: Main Line (...b6 O-O)",
+    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 b6 7.O-O Bb7 8.cxd5 exd5 9.Ne5 Nbd7 1/2",
+    "FEN": "r2q1rk1/pbpn1ppp/1p3n2/3pN3/1b1P4/2NBP3/PP3PPP/R1BQ1RK1 w - - 2 10"
+}

@@ -1,0 +1,7 @@
+{
+    "tokenid": 909,
+    "eco": "B80/09",
+    "name": "Sicilian: Scheveningen: Variation (f3)",
+    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.f3 e6 7.Be3 Be7 8.Qd2 O-O 9.g4 a6 10.O-O-O Nxd4 11.Bxd4 b5 12.Kb1 1/2",
+    "FEN": "r1bq1rk1/4bppp/p2ppn2/1p6/3BP1P1/2N2P2/PPPQ3P/1K1R1B1R b - - 1 12"
+}

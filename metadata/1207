@@ -1,0 +1,7 @@
+{
+    "tokenid": 1207,
+    "eco": "C38",
+    "name": "King's Knight's Gambit",
+    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 1/2",
+    "FEN": "rnbqk1nr/pppp1pbp/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R w KQkq - 2 5"
+}

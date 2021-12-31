@@ -1,0 +1,7 @@
+{
+    "tokenid": 42,
+    "eco": "A01/23",
+    "name": "Nimzovich-Larsen Attack: Correspondence Line",
+    "pgn": "1.b3 e5 2.Bb2 Nc6 3.e3 d5 4.Bb5 Bd6 5.f4 f6 1/2",
+    "FEN": "r1bqk1nr/ppp3pp/2nb1p2/1B1pp3/5P2/1P2P3/PBPP2PP/RN1QK1NR w KQkq - 0 6"
+}

@@ -1,0 +1,7 @@
+{
+    "tokenid": 905,
+    "eco": "B79",
+    "name": "Sicilian: Dragon, Yugoslav Attack: 12.h4",
+    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Qa5 11.Bb3 Rfc8 12.h4 1/2",
+    "FEN": "r1r3k1/pp1bppbp/2np1np1/q7/3NP2P/1BN1BP2/PPPQ2P1/2KR3R b - h3 0 12"
+}

@@ -1,0 +1,288 @@
+E76/08 King's Indian: Four Pawns Attack: Benoni Formation ; (ext, else A65/7) *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Nf3 c5 7.d5 a6 8.a4 1/2
+
+E76    King's Indian: Four Pawns Attack ; (ext) *pwo (ECO footnote 22)
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Nf3 Bg4 1/2
+
+E77    King's Indian: Four Pawns Attack: 6.Be2
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 1/2
+
+E77    King's Indian: Four Pawns Attack
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.d5 e6 8.Nf3 1/2
+
+E77    King's Indian: Four Pawns Attack: Florentine Gambit
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.d5 e6 8.Nf3 exd5 9.e5
+1/2
+
+E79    King's Indian: Four Pawns Attack: Main Line
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.Nf3 cxd4 8.Nxd4 Nc6
+9.Be3 1/2
+
+E80    King's Indian: Saemisch Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 1/2
+
+E80/11 King's Indian: Saemisch: 5...c6 ; *pwo 6/01 add, out of book w/ 8...O-O
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 c6 6.Be3 a6 7.Bd3 b5 8.Nge2 O-O
+1/2
+
+E81    King's Indian: Saemisch: 5...O-O
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 1/2
+
+; E81 and A65 are hopelessly intertwined. Lines running 15 to 20 plies deep
+; can easily pass into one and then back into the other.
+
+E81/12 King's Indian: Saemisch: Sax Variation ; *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 a6 7.Qd2 b6 8.O-O-O c5
+9.dxc5 bxc5 10.e5 Ne8 1/2
+
+E81    King's Indian: Saemisch-Benoni (d5...a6) ; *pwo (subr fm A65)
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c5 7.d5 a6 8.a4 1/2
+
+E81    King's Indian: Saemisch-Benoni ; *pwo 6/01 (subr fm A65), 8.Qd2 qualifies as A65
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c5 7.d5 e6 8.Bd3 1/2
+
+E81    King's Indian: Saemisch-Benoni: Exchange ; *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c5 7.dxc5 1/2
+
+E81    King's Indian: Saemisch: Byrne Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c6 7.Bd3 a6 1/2
+
+E81    King's Indian: Saemisch-Benoni: (d5...Nbd7) ; *pwo (subr fm A65)
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 Nbd7 8.Nh3 1/2
+
+E81    King's Indian: Saemisch: 6...Na6 ; *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Na6 (7.Qd2) 1/2
+
+E81/11 King's Indian: Saemisch: Commons Variation ; *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nbd7 7.Qd2 c5 8.Nge2 a6
+9.O-O-O Qa5 10.Kb1 b5 11.dxc5 dxc5 (12.Nd5 Nxd5) 1/2
+
+E81/01 King's Indian: Saemisch-Benoni ; *pwo 6/01 add, nat, footnote 2
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 a6 7.Qd2 c6 8.Bd3 b5
+1/2
+
+E81/02 King's Indian: Saemisch-Benoni ; *pwo (see also A65)
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 a6 1/2
+
+E81/03 King's Indian: Saemisch-Benoni: Petrosian Variation ; *pwo (A65)
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 e6 8.Nge2 h6
+9.Be3 exd5 10.cxd5 Nbd7 11.Ng3 a6 12.a4 h5 13.Be2 h4 14.Nf1 Nh7 1/2
+
+E81/03 King's Indian: Saemisch-Benoni: Kremeneckij Variation ; *pwo (A65)
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 e6 8.Qd2 exd5
+9.Nxd5 Be6 10.Ne2 Bxd5 11.cxd5 Nbd7 12.Nc3 a6 13.Be2 1/2
+
+E81    King's Indian: Saemisch: 6.Bg5 7...Na6 ; *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 Na6 8.Qd2 Nc7
+9.Bd3 1/2
+
+E81    King's Indian: Saemisch: 6.Bg5 7...Nbd7 ; *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 Nbd7 8.Qd2 Re8
+9.Nge2 a6 10.Bh6 1/2
+
+E81    King's Indian: Saemisch: 6.Bg5 7...Qa5 ; *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 Qa5 8.Qd2 e6
+9.a4 a6 10.Ra3 1/2
+
+E81/04 King's Indian: Kramer System Saemisch ; (natural Line) *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2 O-O 6.f3 e5 7.Bg5 c6 8.Qd2 1/2
+
+E81/01 King's Indian: Saemisch: Benoni Formation ; (subtracts Line from A65/7) *pwo nat
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.e4 d6 6.f3 O-O 7.Bg5 h6 1/2
+
+E82    King's Indian: Saemisch: Double Fianchetto Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 b6 1/2
+
+E83    King's Indian: Saemisch: 6...Nc6
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 1/2
+
+E83    King's Indian: Saemisch: Panno Formation ; (ext fm 7...a6) *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6 8.Qd2 1/2
+
+E84    King's Indian: Saemisch: Panno Main Line
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6 8.Qd2 Rb8
+1/2
+
+E84/11 King's Indian: Saemisch: Panno Main Line 9.h4 ; *pwo 6/01 add, footnote 65
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6 8.Qd2 Rb8
+9.h4 h5 10.O-O-O b5 11.Bh6 e5 12.Bxg7 Kxg7 1/2
+
+E85    King's Indian: Saemisch: Orthodox Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 1/2
+
+E86    King's Indian: Saemisch: Orthodox 7.Nge2 c6 ; (ext fm 7...c6) *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.Nge2 c6 8.Qd2 Nbd7
+9.d5 cxd5 10.cxd5 1/2
+
+E87    King's Indian: Saemisch: Orthodox 7.d5
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 1/2
+
+E87    King's Indian: Saemisch: Orthodox, Bronstein Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 Nh5 8.Qd2 Qh4+
+9.g3 Nxg3 10.Qf2 Nxf1 11.Qxh4 Nxe3 12.Ke2 Nxc4 1/2
+
+E88    King's Indian: Saemisch: Orthodox 7.d5 c6
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 1/2
+
+E88/09 King's Indian: Saemisch: Orthodox 7.d5 c6, Main Line ; *pwo 6/01 add
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Qd2 cxd5
+9.cxd5 a6 10.Bd3 Nh5 11.Nge2 1/2
+
+E89    King's Indian: Saemisch: Orthodox Main Line
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Nge2 cxd5
+1/2
+
+E89/05 King's Indian: Saemisch: Orthodox, Karpov-Topalov ; Variation ; (nat) *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.Nge2 c6 8.Qd2 Nbd7
+9.d5 cxd5 10.cxd5 a6 11.g4 h5 12.g5 Nh7 13.Rg1 1/2
+
+E90    King's Indian: 5.Nf3
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 1/2
+
+E90/22 King's Indian: Kluger Variation ; (add) *pwo (1964 footnote 143)
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 1/2
+
+E90/08 King's Indian: Orak Variation (h3...Nbd7) ; *pwo 3/01 add, footnote 51
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 Nbd7 7.Bg5 c6 1/2
+
+E90    King's Indian: Larsen Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be3 1/2
+
+E90    King's Indian: Zinnowitz Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Bg5 1/2
+
+E91    King's Indian: 6.Be2
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 1/2
+
+E91    King's Indian: 6.Be2 ; (ext fm 6.Be2) *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 c5 7.d5 e6 1/2
+
+E91    King's Indian: Kazakh Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Na6 1/2
+
+E91/03 King's Indian: 6...Nbd7 7.Bg5 ; *pwo 3/01, add (pullback from E94)
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Nbd7 7.Bg5 h6 8.Bh4 g5
+1/2
+
+E92    King's Indian: Classical Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 1/2
+
+E92    King's Indian: Petrosian System
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 1/2
+
+E92    King's Indian: Petrosian System: Stein Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 a5 1/2
+
+E92    King's Indian: Andersson Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.dxe5 1/2
+
+E92    King's Indian: Gligoric-Taimanov System
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 1/2
+
+E93    King's Indian: Petrosian System: Main Line
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nbd7 1/2
+
+E93    King's Indian: Petrosian System: Keres Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nbd7 8.Bg5 h6
+9.Bh4 g5 10.Bg3 Nh5 11.h4 1/2
+
+E94    King's Indian: Orthodox Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O 1/2
+
+E94    King's Indian: Orthodox: Donner Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O c6 1/2
+
+E94/02 King's Indian: Orthodox Variation (...c6); *pwo 3/01, add, E91 footnote 69 redirection to E94/2
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O c6 8.Be3 exd4
+9.Nxd4 1/2
+
+E94/04 King's Indian: Orthodox: 7...exd4 ; (add) *pwo (ECO footnote 22)
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O exd4 8.Nxd4 Re8
+9.f3 c6 10.Be3 1/2
+
+E94/08 King's Indian: Orthodox: 7...Na6 ; *pwo ECO footnote 44, see also E92/2
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Na6 8.Be3 Ng4
+9.Bg5 Qe8 10.dxe5 dxe5 11.h3 h6 12.Bd2 Nf6 13.Be3 Nh5 14.c5 Nf4 15.Bb5 Qe6
+16.Re1 1/2
+
+E94/09 King's Indian: Orthodox: 7...Na6 8.Re1 ; *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Na6 8.Re1 c6
+9.Bf1 1/2
+
+E94    King's Indian: Orthodox Variation ; *pwo 3/01 add
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Be3
+1/2
+
+E94/26 King's Indian: Orthodox: 7...Nbd7 ; (Line code added)
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Be3 c6
+9.d5 c5 10.Ne1 Ne8 1/2
+
+E94/27 King's Indian: Orthodox (...d5) ; natural Line but footnote 156 *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nbd7 8.O-O Nc5
+9.Qc2 a5 10.Ne1 1/2
+
+;E94    King's Indian: Orthodox Variation ; *pwo 3/01 add (natural Line)
+;1.d4 d6 2.Nf3 g6 3.c4 Bg7 4.Nc3 Nd7 5.e4 e5 6.Be2 Ngf6 7.O-O O-O 8.Be3
+;1/2
+
+E95    King's Indian: Orthodox: 7...Nbd7 8.Re1
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1
+1/2
+
+E96    King's Indian: Orthodox: 7...Nbd7 Main Line
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1 c6
+9.Bf1 a5 1/2
+
+E97    King's Indian: Orthodox: Aronin-Taimanov Variation
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 1/2
+
+E97    King's Indian: Orthodox: Aronin-Taimanov, Bayonet Attack
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 1/2
+
+E97/11 King's Indian: Orthodox: Aronin-Taimanov 9.b4 ; *pwo add, nat fm 10.Re1
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Nh5 10.Re1 Nf4 11.Bf1 a5 12.bxa5 Rxa5 13.Nd2 c5 14.a4 Ra6 15.Ra3 g5
+16.g3 1/2
+
+E97/28 King's Indian: Orthodox: Aronin-Taimanov 9.Nd2 ; *pwo ECO note 175
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Nd2 a5 10.a3 Nd7 11.Rb1 f5 12.b4 Kh8 13.f3 Ng8 14.Qc2 Ngf6 15.Nb5 axb4
+16.axb4 Nh5 17.g3 Ndf6 1/2
+
+E97/02 King's Indian: Orthodox: Aronin-Taimanov Variation ; (add) *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.Be3 Ng4
+9.Bg5 f6 10.Bc1 1/2
+
+E98    King's Indian: Orthodox: Aronin-Taimanov 9.Ne1
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 1/2
+
+E98/02 King's Indian: Orthodox: Aronin-Taimanov (...Ne8) ; *pwo 3/01 footnote 7
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Ne8 10.Nd3 f5 11.Bd2 Nf6 12.f3 1/2
+
+E98/02 King's Indian: Orthodox: Aronin-Taimanov ; (nat) *pwo
+1.Nf3 g6 2.c4 Bg7 3.Nc3 Nf6 4.d4 d6 5.e4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Ne8 10.Nd3 c5 1/2
+
+E99/03 King's Indian: Orthodox: Aronin-Taimanov, Main Line ; (alt) *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Nd7 10.Be3 f5 11.f3 f4 12.Bf2 g5 13.a4 Ng6 1/2
+
+E99    King's Indian: Orthodox: Aronin-Taimanov, Benko Attack
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Nd7 10.f3 f5 11.g4 1/2
+
+E99    King's Indian: Orthodox: Aronin-Taimanov, Main Line ; (Be3->Nd3) *pwo
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Nd7 10.f3 f5 11.Nd3 1/2
+
+E99/16 King's Indian: Orthodox: Aronin-Taimanov 10.Nd3 ; *pwo 3/01 add
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Nd7 10.Nd3 f5 11.f3 f4 12.Bd2 Nf6 13.c5 g5 14.cxd6 cxd6 15.Rc1 Ng6
+16.Nb5 Rf7 17.Qc2 Ne8 18.a4 h5 19.Nf2 Bf8 1/2
+
+E99/07 King's Indian: Orthodox: Aronin-Taimanov (without 11.Nf6) ; *pwo 3/01 add nat, else continuation of Line above
+1.c4 Nf6 2.d4 g6 3.Nc3 d6 4.e4 Bg7 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Nd7 10.f3 f5 11.Nd3 f4 12.Bd2 g5 1/2

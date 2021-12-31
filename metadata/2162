@@ -1,0 +1,7 @@
+{
+    "tokenid": 2162,
+    "eco": "E76/01",
+    "name": "King's Indian: Four Pawns Attack: Exchange",
+    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 c5 6.dxc5 Qa5 7.Bd3 Qxc5 8.Nf3 Nc6 9.Qe2 Bg4 10.Be3 Qa5 11.O-O Nd7 1/2",
+    "FEN": "r3k2r/pp1nppbp/2np2p1/q7/2P1PPb1/2NBBN2/PP2Q1PP/R4RK1 w kq - 8 12"
+}

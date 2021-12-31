@@ -1,0 +1,7 @@
+{
+    "tokenid": 765,
+    "eco": "B38/07",
+    "name": "Sicilian: Accelerated Fianchetto: Maroczy Bind 6.e4 d6",
+    "pgn": "1.d4 Nf6 2.c4 g6 3.Nf3 c5 4.Nc3 cxd4 5.Nxd4 Bg7 6.e4 d6 7.Be2 O-O 8.O-O Nc6 9.Be3 Bd7 10.Qd2 Nxd4 11.Bxd4 Bc6 12.f3 a5 1/2",
+    "FEN": "r2q1rk1/1p2ppbp/2bp1np1/p7/2PBP3/2N2P2/PP1QB1PP/R4RK1 w - a6 0 13"
+}

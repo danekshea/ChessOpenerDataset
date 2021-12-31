@@ -1,0 +1,7 @@
+{
+    "tokenid": 868,
+    "eco": "B68",
+    "name": "Sicilian: Richter-Rauzer: Rauzer Attack (...a6...Be7)",
+    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.Be2 Be7 10.f4 1/2",
+    "FEN": "r2qk2r/1p1bbppp/p1nppn2/6B1/3NPP2/2N5/PPPQB1PP/2KR3R b kq f3 0 10"
+}

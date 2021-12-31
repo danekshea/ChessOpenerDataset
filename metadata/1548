@@ -1,0 +1,7 @@
+{
+    "tokenid": 1548,
+    "eco": "C99/13",
+    "name": "Ruy Lopez: Closed: Chigorin (...cxd4...Bb7)",
+    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4 Bb7 14.Nf1 Rac8 15.Bb1 d5\n 1/2",
+    "FEN": "2r2rk1/1bq1bppp/p4n2/np1pp3/3PP3/5N1P/PP3PP1/RBBQRNK1 w - - 0 16"
+}

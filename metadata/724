@@ -1,0 +1,7 @@
+{
+    "tokenid": 724,
+    "eco": "B30",
+    "name": "Sicilian Defense",
+    "pgn": "1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.Bb5 Nd4 5.O-O a6 6.Bd3 Ne7 7.Nxd4 cxd4 8.Ne2 Nc6 1/2",
+    "FEN": "r1bqkb1r/1p1p1ppp/p1n1p3/8/3pP3/3B4/PPPPNPPP/R1BQ1RK1 w kq - 2 9"
+}

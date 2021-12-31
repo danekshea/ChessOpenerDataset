@@ -1,0 +1,7 @@
+{
+    "tokenid": 803,
+    "eco": "B47/06",
+    "name": "Sicilian: Taimanov (Bastrikov): 6.g3",
+    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.g3 a6 7.Bg2 Nf6 8.O-O Nxd4 9.Qxd4 Bc5 10.Bf4 d6 11.Qd2 h6 12.Rad1 e5 13.Be3 Ke7 14.Bxc5 Qxc5 1/2",
+    "FEN": "r1b4r/1p2kpp1/p2p1n1p/2q1p3/4P3/2N3P1/PPPQ1PBP/3R1RK1 w - - 0 15"
+}

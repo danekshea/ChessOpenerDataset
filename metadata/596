@@ -1,0 +1,7 @@
+{
+    "tokenid": 596,
+    "eco": "B11/01",
+    "name": "Caro-Kann: Two Knights: without 3...Bg4",
+    "pgn": "1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.g3 1/2",
+    "FEN": "rnbqkb1r/pp2pp1p/2p2p2/8/8/5NP1/PPPP1P1P/R1BQKB1R b KQkq - 0 6"
+}

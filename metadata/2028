@@ -1,0 +1,7 @@
+{
+    "tokenid": 2028,
+    "eco": "E19/14",
+    "name": "Queen's Indian: Old Main Line (Qxc3)",
+    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Qc2 Nxc3 9.Qxc3 c5 10.Rd1 d6 11.b3 Bf6 12.Bb2 Qe7 13.Qc2 Nc6 1/2",
+    "FEN": "r4rk1/pb2qppp/1pnppb2/2p5/2PP4/1P3NP1/PBQ1PPBP/R2R2K1 w - - 5 14"
+}

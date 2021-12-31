@@ -1,0 +1,7 @@
+{
+    "tokenid": 2035,
+    "eco": "E20/12",
+    "name": "Nimzo-Indian: Romanishin-Kasparov: Modern Line",
+    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.Nf3 cxd4 5.Nxd4 Bb4 6.g3 O-O 7.Bg2 d5 8.cxd5 Nxd5 9.Bd2 Bxc3 10.bxc3 e5 11.Nb5 1/2",
+    "FEN": "rnbq1rk1/pp3ppp/8/1N1np3/8/2P3P1/P2BPPBP/R2QK2R b KQ - 1 11"
+}

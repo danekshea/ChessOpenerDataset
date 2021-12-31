@@ -1,0 +1,7 @@
+{
+    "tokenid": 2092,
+    "eco": "E51",
+    "name": "Nimzo-Indian: 4.e3: Ragozin Variation",
+    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 Nc6 7.O-O dxc4 1/2",
+    "FEN": "r1bq1rk1/ppp2ppp/2n1pn2/8/1bpP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 0 8"
+}

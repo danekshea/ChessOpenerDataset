@@ -1,0 +1,7 @@
+{
+    "tokenid": 2074,
+    "eco": "E42",
+    "name": "Nimzo-Indian: 4.e3 c5 5.Ne2 (Rubinstein)",
+    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Nge2 1/2",
+    "FEN": "rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N1P3/PP2NPPP/R1BQKB1R b KQkq - 1 5"
+}

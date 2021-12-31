@@ -1,0 +1,7 @@
+{
+    "tokenid": 739,
+    "eco": "B33/09",
+    "name": "Sicilian: Sveshnikov Variation: a4",
+    "pgn": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.a4 a6 8.Na3 Be6 9.Bg5 Rc8 10.Bc4 Be7 11.Bxf6 Bxf6 12.Nd5 Bg5 13.O-O O-O 14.c3 Kh8 15.Qe2\n 1/2",
+    "FEN": "2rq1r1k/1p3ppp/p1npb3/3Np1b1/P1B1P3/N1P5/1P2QPPP/R4RK1 b - - 2 15"
+}

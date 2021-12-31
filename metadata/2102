@@ -1,0 +1,7 @@
+{
+    "tokenid": 2102,
+    "eco": "E55/11",
+    "name": "Nimzo-Indian: 4.e3: Gligoric System, Bronstein",
+    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Nbd7 9.Qe2 b6 10.d5 Bxc3 11.dxe6 Ne5 12.exf7+ Kh8 13.bxc3 Bg4 14.e4 Qe7\n 15.Re1 b5 1/2",
+    "FEN": "r4r1k/p3qPpp/5n2/1pp1n3/2B1P1b1/2P2N2/P3QPPP/R1B1R1K1 w - - 0 16"
+}

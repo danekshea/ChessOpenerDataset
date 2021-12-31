@@ -1,0 +1,7 @@
+{
+    "tokenid": 505,
+    "eco": "B03",
+    "name": "Alekhine's Defense",
+    "pgn": "1.e4 Nf6 2.e5 Nd5 3.d4 d6 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4"
+}

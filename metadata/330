@@ -1,0 +1,7 @@
+{
+    "tokenid": 330,
+    "eco": "A47",
+    "name": "Queen's Pawn: Yusupov-Rubinstein System",
+    "pgn": "1.d4 Nf6 2.Nf3 b6 3.e3 e6 4.Bd3 Bb7 5.Nbd2 c5 6.O-O Be7 7.b3 O-O 8.Bb2 Nc6 9.dxc5 1/2",
+    "FEN": "r2q1rk1/pb1pbppp/1pn1pn2/2P5/8/1P1BPN2/PBPN1PPP/R2Q1RK1 b - - 0 9"
+}

@@ -1,0 +1,7 @@
+{
+    "tokenid": 2044,
+    "eco": "E25/01",
+    "name": "Nimzo-Indian: Saemisch Variation",
+    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.f3 d5 7.cxd5 exd5 8.e3 O-O 9.Bd3 Nc6 10.Ne2 Re8 11.O-O cxd4 1/2",
+    "FEN": "r1bqr1k1/pp3ppp/2n2n2/3p4/3p4/P1PBPP2/4N1PP/R1BQ1RK1 w - - 0 12"
+}
