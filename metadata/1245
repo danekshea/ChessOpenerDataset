@@ -3,5 +3,6 @@
     "eco": "C41",
     "name": "Philidor: Philidor Counter-Gambit, del Rio Attack",
     "pgn": "1.e4 e5 2.Nf3 d6 3.d4 f5 4.dxe5 fxe4 5.Ng5 d5 6.e6 1/2",
-    "FEN": "rnbqkbnr/ppp3pp/4P3/3p2N1/4p3/8/PPP2PPP/RNBQKB1R b KQkq - 0 6"
+    "FEN": "rnbqkbnr/ppp3pp/4P3/3p2N1/4p3/8/PPP2PPP/RNBQKB1R b KQkq - 0 6",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1245.svg"
 }

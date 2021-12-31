@@ -3,5 +3,6 @@
     "eco": "B22/16",
     "name": "Sicilian: Alapin: (...d5 exd5...Qxd5)",
     "pgn": "1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 cxd4 5.cxd4 Nc6 6.Nf3 e6 7.Nc3 1/2",
-    "FEN": "r1b1kbnr/pp3ppp/2n1p3/3q4/3P4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 7"
+    "FEN": "r1b1kbnr/pp3ppp/2n1p3/3q4/3P4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 7",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/669.svg"
 }

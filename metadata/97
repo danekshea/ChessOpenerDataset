@@ -3,5 +3,6 @@
     "eco": "A07",
     "name": "Reti: King's Indian Attack (with...c5)",
     "pgn": "1.g3 d5 2.Bg2 Nf6 3.Nf3 g6 4.O-O Bg7 5.d3 O-O 6.Nc3 c5 7.Rb1 Nc6 8.a3 a5 1/2",
-    "FEN": "r1bq1rk1/1p2ppbp/2n2np1/p1pp4/8/P1NP1NP1/1PP1PPBP/1RBQ1RK1 w - a6 0 9"
+    "FEN": "r1bq1rk1/1p2ppbp/2n2np1/p1pp4/8/P1NP1NP1/1PP1PPBP/1RBQ1RK1 w - a6 0 9",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/97.svg"
 }

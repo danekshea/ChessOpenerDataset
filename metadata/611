@@ -3,5 +3,6 @@
     "eco": "B13",
     "name": "Caro-Kann: Panov-Botvinnik: Gunderam Attack",
     "pgn": "1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.c5 1/2",
-    "FEN": "rnbqkb1r/pp2pppp/5n2/2Pp4/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5"
+    "FEN": "rnbqkb1r/pp2pppp/5n2/2Pp4/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/611.svg"
 }

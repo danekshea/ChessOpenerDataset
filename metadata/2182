@@ -3,5 +3,6 @@
     "eco": "E81/03",
     "name": "King's Indian: Saemisch-Benoni: Petrosian Variation",
     "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 e6 8.Nge2 h6 9.Be3 exd5 10.cxd5 Nbd7 11.Ng3 a6 12.a4 h5 13.Be2 h4 14.Nf1 Nh7 1/2",
-    "FEN": "r1bq1rk1/1p1n1pbn/p2p2p1/2pP4/P3P2p/2N1BP2/1P2B1PP/R2QKN1R w KQ - 2 15"
+    "FEN": "r1bq1rk1/1p1n1pbn/p2p2p1/2pP4/P3P2p/2N1BP2/1P2B1PP/R2QKN1R w KQ - 2 15",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2182.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "D23/06",
     "name": "QGA: Neo-Mannheim",
     "pgn": "1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.Qa4+ c6 5.Qxc4 Bf5 6.g3 e6 7.Bg2 Nbd7 8.Nc3 Be7 9.O-O O-O 10.e3 1/2",
-    "FEN": "r2q1rk1/pp1nbppp/2p1pn2/5b2/2QP4/2N1PNP1/PP3PBP/R1B2RK1 b - - 0 10"
+    "FEN": "r2q1rk1/pp1nbppp/2p1pn2/5b2/2QP4/2N1PNP1/PP3PBP/R1B2RK1 b - - 0 10",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1661.svg"
 }

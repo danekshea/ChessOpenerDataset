@@ -3,5 +3,6 @@
     "eco": "B07",
     "name": "Pirc-Robatsch",
     "pgn": "1.e4 d6 2.d4 Nf6 3.Nc3 c6 4.a4 1/2",
-    "FEN": "rnbqkb1r/pp2pppp/2pp1n2/8/P2PP3/2N5/1PP2PPP/R1BQKBNR b KQkq a3 0 4"
+    "FEN": "rnbqkb1r/pp2pppp/2pp1n2/8/P2PP3/2N5/1PP2PPP/R1BQKBNR b KQkq a3 0 4",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/553.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "D46/24",
     "name": "QGD: Semi-Slav (Qc2/Bd3)",
     "pgn": "1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4 9.Bxc4 Qe7 10.h3 1/2",
-    "FEN": "r1b2rk1/pp1nqppp/2pbpn2/8/2BP4/2N1PN1P/PPQ2PP1/R1B2RK1 b - - 0 10"
+    "FEN": "r1b2rk1/pp1nqppp/2pbpn2/8/2BP4/2N1PN1P/PPQ2PP1/R1B2RK1 b - - 0 10",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1779.svg"
 }

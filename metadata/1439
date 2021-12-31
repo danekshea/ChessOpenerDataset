@@ -3,5 +3,6 @@
     "eco": "C67/08",
     "name": "Ruy Lopez: Open Berlin Defense: 6.Bxc6",
     "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 h6 1/2",
-    "FEN": "r1bk1b1r/ppp2pp1/2p4p/4Pn2/8/2N2N2/PPP2PPP/R1B2RK1 w - - 0 10"
+    "FEN": "r1bk1b1r/ppp2pp1/2p4p/4Pn2/8/2N2N2/PPP2PPP/R1B2RK1 w - - 0 10",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1439.svg"
 }

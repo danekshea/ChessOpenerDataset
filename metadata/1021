@@ -3,5 +3,6 @@
     "eco": "C03",
     "name": "French: Tarrasch: Guimard Variation",
     "pgn": "1.e4 e6 2.d4 d5 3.Nd2 Nc6 1/2",
-    "FEN": "r1bqkbnr/ppp2ppp/2n1p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4"
+    "FEN": "r1bqkbnr/ppp2ppp/2n1p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1021.svg"
 }

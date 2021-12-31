@@ -3,5 +3,6 @@
     "eco": "B23",
     "name": "Sicilian: Cochrane Attack: Pillars Variation",
     "pgn": "1.e4 c5 2.Nc3 e6 3.Bc4 Nc6 4.Nf3 a6 5.a4 Nf6 6.d3 1/2",
-    "FEN": "r1bqkb1r/1p1p1ppp/p1n1pn2/2p5/P1B1P3/2NP1N2/1PP2PPP/R1BQK2R b KQkq - 0 6"
+    "FEN": "r1bqkb1r/1p1p1ppp/p1n1pn2/2p5/P1B1P3/2NP1N2/1PP2PPP/R1BQK2R b KQkq - 0 6",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/690.svg"
 }

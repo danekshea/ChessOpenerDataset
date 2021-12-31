@@ -3,5 +3,6 @@
     "eco": "D00/05",
     "name": "Trompovsky Attack: Hodgson Variation",
     "pgn": "1.d4 Nf6 2.Bg5 d5 3.Bxf6 exf6 4.e3 c6 5.Bd3 Bd6 6.Qf3 1/2",
-    "FEN": "rnbqk2r/pp3ppp/2pb1p2/3p4/3P4/3BPQ2/PPP2PPP/RN2K1NR b KQkq - 3 6"
+    "FEN": "rnbqk2r/pp3ppp/2pb1p2/3p4/3P4/3BPQ2/PPP2PPP/RN2K1NR b KQkq - 3 6",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1561.svg"
 }

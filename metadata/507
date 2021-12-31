@@ -3,5 +3,6 @@
     "eco": "B03",
     "name": "Alekhine's Defense: Exchange: Karpov Variation",
     "pgn": "1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.exd6 cxd6 6.Nf3 g6 7.Be2 Bg7 8.O-O O-O 9.h3 Nc6 10.Nc3 Bf5 11.Bf4 1/2",
-    "FEN": "r2q1rk1/pp2ppbp/1nnp2p1/5b2/2PP1B2/2N2N1P/PP2BPP1/R2Q1RK1 b - - 4 11"
+    "FEN": "r2q1rk1/pp2ppbp/1nnp2p1/5b2/2PP1B2/2N2N1P/PP2BPP1/R2Q1RK1 b - - 4 11",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/507.svg"
 }

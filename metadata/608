@@ -3,5 +3,6 @@
     "eco": "B12/23",
     "name": "Caro-Kann-Robatsch",
     "pgn": "1.e4 g6 2.d4 c6 3.Nf3 d5 4.Nbd2 Bg7 5.c3 Nh6 6.Bd3 O-O 7.O-O f6 8.Re1 Nf7 1/2",
-    "FEN": "rnbq1rk1/pp2pnbp/2p2pp1/3p4/3PP3/2PB1N2/PP1N1PPP/R1BQR1K1 w - - 2 9"
+    "FEN": "rnbq1rk1/pp2pnbp/2p2pp1/3p4/3PP3/2PB1N2/PP1N1PPP/R1BQR1K1 w - - 2 9",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/608.svg"
 }

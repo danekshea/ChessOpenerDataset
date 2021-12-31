@@ -3,5 +3,6 @@
     "eco": "B01",
     "name": "Scandinavian: Mieses-Kotrvc Gambit",
     "pgn": "1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.b4 1/2",
-    "FEN": "rnb1kbnr/ppp1pppp/8/q7/1P6/2N5/P1PP1PPP/R1BQKBNR b KQkq b3 0 4"
+    "FEN": "rnb1kbnr/ppp1pppp/8/q7/1P6/2N5/P1PP1PPP/R1BQKBNR b KQkq b3 0 4",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/488.svg"
 }

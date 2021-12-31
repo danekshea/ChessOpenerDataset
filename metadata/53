@@ -3,5 +3,6 @@
     "eco": "A04/11",
     "name": "Reti: King's Indian Attack: Neo-Closed Sicilian",
     "pgn": "1.Nf3 c5 2.g3 Nc6 3.Bg2 g6 4.O-O Bg7 5.d3 d6 6.e4 e5 7.c3 Nge7 8.a3 O-O 9.b4 b6 10.Bb2 h6 11.Nbd2 1/2",
-    "FEN": "r1bq1rk1/p3npb1/1pnp2pp/2p1p3/1P2P3/P1PP1NP1/1B1N1PBP/R2Q1RK1 b - - 1 11"
+    "FEN": "r1bq1rk1/p3npb1/1pnp2pp/2p1p3/1P2P3/P1PP1NP1/1B1N1PBP/R2Q1RK1 b - - 1 11",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/53.svg"
 }

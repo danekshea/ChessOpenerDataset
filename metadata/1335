@@ -3,5 +3,6 @@
     "eco": "C50",
     "name": "Rousseau Gambit",
     "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bc4 f5 4.d4 1/2",
-    "FEN": "r1bqkbnr/pppp2pp/2n5/4pp2/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq d3 0 4"
+    "FEN": "r1bqkbnr/pppp2pp/2n5/4pp2/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq d3 0 4",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1335.svg"
 }

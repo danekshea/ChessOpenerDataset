@@ -3,5 +3,6 @@
     "eco": "C37",
     "name": "KGA: Rosentreter Gambit",
     "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 1/2",
-    "FEN": "rnbqkbnr/pppp1p1p/8/6p1/3PPp2/5N2/PPP3PP/RNBQKB1R b KQkq d3 0 4"
+    "FEN": "rnbqkbnr/pppp1p1p/8/6p1/3PPp2/5N2/PPP3PP/RNBQKB1R b KQkq d3 0 4",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1190.svg"
 }

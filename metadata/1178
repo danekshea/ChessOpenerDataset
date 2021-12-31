@@ -3,5 +3,6 @@
     "eco": "C34",
     "name": "KGA: Bonsch-Osmolovsky Variation",
     "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 Ne7 1/2",
-    "FEN": "rnbqkb1r/ppppnppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4"
+    "FEN": "rnbqkb1r/ppppnppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1178.svg"
 }

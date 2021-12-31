@@ -3,5 +3,6 @@
     "eco": "B21/06",
     "name": "Sicilian: Smith-Morra Gambit: Chicago Defense (...Nf6)",
     "pgn": "1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O Nf6 8.Qe2 Be7 9.Rd1 e5 10.h3 O-O 11.Be3 Be6 12.Bxe6 fxe6 13.Rac1 Rc8 14.b4 a6 15.b5 axb5\n 16.Qxb5 Qd7 1/2",
-    "FEN": "2r2rk1/1p1qb1pp/2nppn2/1Q2p3/4P3/2N1BN1P/P4PP1/2RR2K1 w - - 1 17"
+    "FEN": "2r2rk1/1p1qb1pp/2nppn2/1Q2p3/4P3/2N1BN1P/P4PP1/2RR2K1 w - - 1 17",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/662.svg"
 }

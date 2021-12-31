@@ -3,5 +3,6 @@
     "eco": "B01",
     "name": "Scandinavian: Pytel-Wade Variation",
     "pgn": "1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 1/2",
-    "FEN": "rnb1kbnr/ppp1pppp/3q4/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4"
+    "FEN": "rnb1kbnr/ppp1pppp/3q4/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/494.svg"
 }

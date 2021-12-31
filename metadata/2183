@@ -3,5 +3,6 @@
     "eco": "E81/03",
     "name": "King's Indian: Saemisch-Benoni: Kremeneckij Variation",
     "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 e6 8.Qd2 exd5 9.Nxd5 Be6 10.Ne2 Bxd5 11.cxd5 Nbd7 12.Nc3 a6 13.Be2 1/2",
-    "FEN": "r2q1rk1/1p1n1pbp/p2p1np1/2pP2B1/4P3/2N2P2/PP1QB1PP/R3K2R b KQ - 1 13"
+    "FEN": "r2q1rk1/1p1n1pbp/p2p1np1/2pP2B1/4P3/2N2P2/PP1QB1PP/R3K2R b KQ - 1 13",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2183.svg"
 }

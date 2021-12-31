@@ -3,5 +3,6 @@
     "eco": "C53",
     "name": "Giuoco Piano: Close Variation",
     "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 1/2",
-    "FEN": "r1b1k1nr/ppppqppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5"
+    "FEN": "r1b1k1nr/ppppqppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1365.svg"
 }

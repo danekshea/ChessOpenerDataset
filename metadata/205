@@ -3,5 +3,6 @@
     "eco": "A26/07",
     "name": "English: Closed System: (with...f5)",
     "pgn": "1.c4 e5 2.Nc3 Nc6 3.Nf3 g6 4.g3 Bg7 5.Bg2 d6 6.d3 f5 7.O-O Nf6 8.Rb1 O-O 9.b4 h6 1/2",
-    "FEN": "r1bq1rk1/ppp3b1/2np1npp/4pp2/1PP5/2NP1NP1/P3PPBP/1RBQ1RK1 w - - 0 10"
+    "FEN": "r1bq1rk1/ppp3b1/2np1npp/4pp2/1PP5/2NP1NP1/P3PPBP/1RBQ1RK1 w - - 0 10",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/205.svg"
 }

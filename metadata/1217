@@ -3,5 +3,6 @@
     "eco": "C39",
     "name": "KGA: Kieseritsky: Berlin Defense, (Riviere)",
     "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Nxg4 d5 1/2",
-    "FEN": "rnbqkb1r/ppp2p1p/5n2/3p4/4PpNP/8/PPPP2P1/RNBQKB1R w KQkq d6 0 7"
+    "FEN": "rnbqkb1r/ppp2p1p/5n2/3p4/4PpNP/8/PPPP2P1/RNBQKB1R w KQkq d6 0 7",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1217.svg"
 }

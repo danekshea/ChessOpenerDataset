@@ -3,5 +3,6 @@
     "eco": "C37",
     "name": "KGA: Soerensen Gambit",
     "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4 5.Ne5 1/2",
-    "FEN": "rnbqkbnr/pppp1p1p/8/4N3/3PPpp1/8/PPP3PP/RNBQKB1R b KQkq - 1 5"
+    "FEN": "rnbqkbnr/pppp1p1p/8/4N3/3PPpp1/8/PPP3PP/RNBQKB1R b KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1191.svg"
 }

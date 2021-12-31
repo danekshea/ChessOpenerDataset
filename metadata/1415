@@ -3,5 +3,6 @@
     "eco": "C65/01",
     "name": "Ruy Lopez: Berlin Defense: Steinitz Variation",
     "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.c3 g6 6.Nbd2 Bg7 7.Nf1 O-O 8.Ba4 Nd7 9.Ne3 1/2",
-    "FEN": "r1bq1rk1/pppn1pbp/2np2p1/4p3/B3P3/2PPNN2/PP3PPP/R1BQK2R b KQ - 7 9"
+    "FEN": "r1bq1rk1/pppn1pbp/2np2p1/4p3/B3P3/2PPNN2/PP3PPP/R1BQK2R b KQ - 7 9",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1415.svg"
 }

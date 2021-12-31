@@ -3,5 +3,6 @@
     "eco": "D94/18",
     "name": "Gruenfeld (with e3 Be2...c5)",
     "pgn": "1.d4 Nf6 2.c4 c5 3.e3 g6 4.Nf3 Bg7 5.Nc3 O-O 6.Be2 cxd4 7.exd4 d5 8.O-O Nc6 9.h3 dxc4 10.Bxc4 Na5 1/2",
-    "FEN": "r1bq1rk1/pp2ppbp/5np1/n7/2BP4/2N2N1P/PP3PP1/R1BQ1RK1 w - - 1 11"
+    "FEN": "r1bq1rk1/pp2ppbp/5np1/n7/2BP4/2N2N1P/PP3PP1/R1BQ1RK1 w - - 1 11",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1934.svg"
 }

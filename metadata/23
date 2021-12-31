@@ -3,5 +3,6 @@
     "eco": "A00",
     "name": "Benko's Opening",
     "pgn": "1.g3 d5 2.Bg2 Nf6 3.b3 1/2",
-    "FEN": "rnbqkb1r/ppp1pppp/5n2/3p4/8/1P4P1/P1PPPPBP/RNBQK1NR b KQkq - 0 3"
+    "FEN": "rnbqkb1r/ppp1pppp/5n2/3p4/8/1P4P1/P1PPPPBP/RNBQK1NR b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/23.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "D94",
     "name": "Gruenfeld: 6.Bd3",
     "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 c6 6.Bd3 O-O 7.O-O Bg4 8.h3 Bxf3 9.Qxf3 e6 1/2",
-    "FEN": "rn1q1rk1/pp3pbp/2p1pnp1/3p4/2PP4/2NBPQ1P/PP3PP1/R1B2RK1 w - - 0 10"
+    "FEN": "rn1q1rk1/pp3pbp/2p1pnp1/3p4/2PP4/2NBPQ1P/PP3PP1/R1B2RK1 w - - 0 10",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1926.svg"
 }

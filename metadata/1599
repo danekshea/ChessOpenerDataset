@@ -3,5 +3,6 @@
     "eco": "D07",
     "name": "QGD: Chigorin Defense",
     "pgn": "1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.cxd5 Bxf3 5.gxf3 Qxd5 6.e3 e5 7.Nc3 Bb4 8.Bd2 Bxc3 9.bxc3 exd4 10.cxd4 Nge7 1/2",
-    "FEN": "r3k2r/ppp1nppp/2n5/3q4/3P4/4PP2/P2B1P1P/R2QKB1R w KQkq - 1 11"
+    "FEN": "r3k2r/ppp1nppp/2n5/3q4/3P4/4PP2/P2B1P1P/R2QKB1R w KQkq - 1 11",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1599.svg"
 }

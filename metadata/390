@@ -3,5 +3,6 @@
     "eco": "A64",
     "name": "Benoni: Fianchetto (...Re8)",
     "pgn": "1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6 6.Bg2 g6 7.Nf3 Bg7 8.Nc3 O-O 9.O-O a6 10.a4 Nbd7 11.Nd2 Re8 12.Nc4 Nb6 13.Na3 Bd7 14.h3 1/2",
-    "FEN": "r2qr1k1/1p1b1pbp/pn1p1np1/2pP4/P7/N1N3PP/1P2PPB1/R1BQ1RK1 b - - 0 14"
+    "FEN": "r2qr1k1/1p1b1pbp/pn1p1np1/2pP4/P7/N1N3PP/1P2PPB1/R1BQ1RK1 b - - 0 14",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/390.svg"
 }

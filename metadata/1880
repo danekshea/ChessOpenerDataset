@@ -3,5 +3,6 @@
     "eco": "D78/01",
     "name": "Neo-Gruenfeld: 6.O-O c6",
     "pgn": "1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O c6 7.Nc3 dxc4 1/2",
-    "FEN": "rnbq1rk1/pp2ppbp/2p2np1/8/2pP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8"
+    "FEN": "rnbq1rk1/pp2ppbp/2p2np1/8/2pP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1880.svg"
 }

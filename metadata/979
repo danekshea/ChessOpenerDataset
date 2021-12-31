@@ -3,5 +3,6 @@
     "eco": "B96/10",
     "name": "Sicilian: Najdorf: 7.f4 Qc7",
     "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qc7 8.Qf3 b5 9.O-O-O b4 10.e5 1/2",
-    "FEN": "rnb1kb1r/2q2ppp/p2ppn2/4P1B1/1p1N1P2/2N2Q2/PPP3PP/2KR1B1R b kq - 0 10"
+    "FEN": "rnb1kb1r/2q2ppp/p2ppn2/4P1B1/1p1N1P2/2N2Q2/PPP3PP/2KR1B1R b kq - 0 10",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/979.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "E12/57",
     "name": "Queen's Indian: Petrosian System: Alternate Main Line",
     "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2 Nxc3 8.bxc3 Be7 9.e4 O-O 10.Bd3 c5 11.O-O Qc8 1/2",
-    "FEN": "rnq2rk1/pb2bppp/1p2p3/2p5/3PP3/P1PB1N2/2Q2PPP/R1B2RK1 w - - 2 12"
+    "FEN": "rnq2rk1/pb2bppp/1p2p3/2p5/3PP3/P1PB1N2/2Q2PPP/R1B2RK1 w - - 2 12",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2000.svg"
 }

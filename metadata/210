@@ -3,5 +3,6 @@
     "eco": "A26/11",
     "name": "English: Closed System: Modern Line",
     "pgn": "1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.O-O e5 7.d3 Nc6 8.Rb1 a5 1/2",
-    "FEN": "r1bq1rk1/1pp2pbp/2np1np1/p3p3/2P5/2NP1NP1/PP2PPBP/1RBQ1RK1 w - a6 0 9"
+    "FEN": "r1bq1rk1/1pp2pbp/2np1np1/p3p3/2P5/2NP1NP1/PP2PPBP/1RBQ1RK1 w - a6 0 9",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/210.svg"
 }

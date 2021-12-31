@@ -3,5 +3,6 @@
     "eco": "C08/03",
     "name": "French: Tarrasch: Open (Boleslavsky ...Bd7)",
     "pgn": "1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Bd7 6.Qe2# Be7 7.dxc5 Nf6 8.Nb3 O-O 9.Be3 Re8 10.O-O-O a6 11.Bxd7 Nbxd7 1/2",
-    "FEN": "r2qr1k1/1p1nbppp/p4n2/2Pp4/8/1N2B3/PPP1QPPP/2KR2NR w - - 0 12"
+    "FEN": "r2qr1k1/1p1nbppp/p4n2/2Pp4/8/1N2B3/PPP1QPPP/2KR2NR w - - 0 12",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1034.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "E94/02",
     "name": "King's Indian: Orthodox Variation (...c6)",
     "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O c6 8.Be3 exd4 9.Nxd4 1/2",
-    "FEN": "rnbq1rk1/pp3pbp/2pp1np1/8/2PNP3/2N1B3/PP2BPPP/R2Q1RK1 b - - 0 9"
+    "FEN": "rnbq1rk1/pp3pbp/2pp1np1/8/2PNP3/2N1B3/PP2BPPP/R2Q1RK1 b - - 0 9",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2220.svg"
 }

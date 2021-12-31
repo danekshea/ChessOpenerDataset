@@ -3,5 +3,6 @@
     "eco": "B45/12",
     "name": "Sicilian: Taimanov Variation: 7.a3",
     "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Nf6 6.Ndb5 Bb4 7.a3 Bxc3+ 8.Nxc3 d5 9.exd5 exd5 10.Bd3 O-O 11.O-O d4 12.Ne2 Qd5 13.Nf4 Qd6 14.Nh5\n 1/2",
-    "FEN": "r1b2rk1/pp3ppp/2nq1n2/7N/3p4/P2B4/1PP2PPP/R1BQ1RK1 b - - 5 14"
+    "FEN": "r1b2rk1/pp3ppp/2nq1n2/7N/3p4/P2B4/1PP2PPP/R1BQ1RK1 b - - 5 14",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/796.svg"
 }

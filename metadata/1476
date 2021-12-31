@@ -3,5 +3,6 @@
     "eco": "C78/17",
     "name": "Ruy Lopez: Archangel Variation (...Bc5)",
     "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.Re1 d6 8.c3 O-O 9.d4 Bb6 10.h3 Bb7 1/2",
-    "FEN": "r2q1rk1/1bp2ppp/pbnp1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1 w - - 1 11"
+    "FEN": "r2q1rk1/1bp2ppp/pbnp1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1 w - - 1 11",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1476.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "A52",
     "name": "Budapest: Rubinstein Variation",
     "pgn": "1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Bf4 1/2",
-    "FEN": "rnbqkb1r/pppp1ppp/8/4P3/2P2Bn1/8/PP2PPPP/RN1QKBNR b KQkq - 2 4"
+    "FEN": "rnbqkb1r/pppp1ppp/8/4P3/2P2Bn1/8/PP2PPPP/RN1QKBNR b KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/354.svg"
 }

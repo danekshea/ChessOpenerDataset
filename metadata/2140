@@ -3,5 +3,6 @@
     "eco": "E69/19",
     "name": "King's Indian: Fianchetto: Classical Main Line",
     "pgn": "1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.Nc3 Nbd7 7.O-O e5 8.h3 c6 9.e4 exd4 10.Nxd4 Re8 11.Re1 a5 12.Rb1 Nc5 13.b3 Bd7 14.Bf4 Qb6 1/2",
-    "FEN": "r3r1k1/1p1b1pbp/1qpp1np1/p1n5/2PNPB2/1PN3PP/P4PB1/1R1QR1K1 w - - 3 15"
+    "FEN": "r3r1k1/1p1b1pbp/1qpp1np1/p1n5/2PNPB2/1PN3PP/P4PB1/1R1QR1K1 w - - 3 15",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2140.svg"
 }

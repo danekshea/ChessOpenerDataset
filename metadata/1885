@@ -3,5 +3,6 @@
     "eco": "D79/02",
     "name": "Neo-Gruenfeld: 6.cxd5 (Karpov)",
     "pgn": "1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Bg2 d5 6.cxd5 cxd5 7.Nc3 O-O 8.Ne5 e6 9.O-O Nfd7 10.f4 Nc6 11.Be3 Ndxe5 1/2",
-    "FEN": "r1bq1rk1/pp3pbp/2n1p1p1/3pn3/3P1P2/2N1B1P1/PP2P1BP/R2Q1RK1 w - - 0 12"
+    "FEN": "r1bq1rk1/pp3pbp/2n1p1p1/3pn3/3P1P2/2N1B1P1/PP2P1BP/R2Q1RK1 w - - 0 12",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1885.svg"
 }

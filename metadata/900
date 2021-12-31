@@ -3,5 +3,6 @@
     "eco": "B78/14",
     "name": "Sicilian: Dragon, Yugoslav Attack: (O-O-O w/ Bxh6)",
     "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Rc8 11.Bb3 Ne5 12.h4 h5 13.Bh6 Bxh6 14.Qxh6 Rxc3\n 15.bxc3 Qc7 16.Kb1 Rc8 17.g4 a5 1/2",
-    "FEN": "2r3k1/1pqbpp2/3p1npQ/p3n2p/3NP1PP/1BP2P2/P1P5/1K1R3R w - a6 0 18"
+    "FEN": "2r3k1/1pqbpp2/3p1npQ/p3n2p/3NP1PP/1BP2P2/P1P5/1K1R3R w - a6 0 18",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/900.svg"
 }

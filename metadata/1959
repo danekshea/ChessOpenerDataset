@@ -3,5 +3,6 @@
     "eco": "E02",
     "name": "Catalan: Open: 5.Qa4",
     "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Bd7 1/2",
-    "FEN": "rn1qkb1r/pppb1ppp/4pn2/8/Q1pP4/6P1/PP2PPBP/RNB1K1NR w KQkq - 2 6"
+    "FEN": "rn1qkb1r/pppb1ppp/4pn2/8/Q1pP4/6P1/PP2PPBP/RNB1K1NR w KQkq - 2 6",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1959.svg"
 }

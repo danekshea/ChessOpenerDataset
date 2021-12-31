@@ -3,5 +3,6 @@
     "eco": "D53/10",
     "name": "QGD: (...Nbd7)",
     "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 c6 7.Bd3 dxc4 8.Bxc4 Nd5 9.Bxe7 Qxe7 10.O-O Nxc3 11.bxc3 e5 12.e4 1/2",
-    "FEN": "r1b1k2r/pp1nqppp/2p5/4p3/2BPP3/2P2N2/P4PPP/R2Q1RK1 b kq - 0 12"
+    "FEN": "r1b1k2r/pp1nqppp/2p5/4p3/2BPP3/2P2N2/P4PPP/R2Q1RK1 b kq - 0 12",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1821.svg"
 }

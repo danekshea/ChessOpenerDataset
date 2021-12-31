@@ -3,5 +3,6 @@
     "eco": "D19/07",
     "name": "QGD: Slav: Dutch Variation, Main Line",
     "pgn": "1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O 9.Qe2 Nbd7 10.e4 Bg6 11.Bd3 Bh5 12.e5 Nd5 13.Ne4 1/2",
-    "FEN": "r2q1rk1/pp1n1ppp/2p1p3/3nP2b/Pb1PN3/3B1N2/1P2QPPP/R1B2RK1 b - - 2 13"
+    "FEN": "r2q1rk1/pp1n1ppp/2p1p3/3nP2b/Pb1PN3/3B1N2/1P2QPPP/R1B2RK1 b - - 2 13",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1648.svg"
 }

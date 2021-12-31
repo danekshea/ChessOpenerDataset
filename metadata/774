@@ -3,5 +3,6 @@
     "eco": "B40",
     "name": "Sicilian: double Fianchetto: KIA",
     "pgn": "1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 g6 1/2",
-    "FEN": "r1bqkbnr/pp1p1p1p/2n1p1p1/2p5/4P3/3P1NP1/PPP2P1P/RNBQKB1R w KQkq - 0 5"
+    "FEN": "r1bqkbnr/pp1p1p1p/2n1p1p1/2p5/4P3/3P1NP1/PPP2P1P/RNBQKB1R w KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/774.svg"
 }

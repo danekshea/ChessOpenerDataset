@@ -3,5 +3,6 @@
     "eco": "A29/19",
     "name": "English: Four Knights: Kingside Fianchetto",
     "pgn": "1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O e4 7.Ne1 Bxc3 8.dxc3 h6 9.Nc2 Re8 10.Ne3 d6 1/2",
-    "FEN": "r1bqr1k1/ppp2pp1/2np1n1p/8/2P1p3/2P1N1P1/PP2PPBP/R1BQ1RK1 w - - 0 11"
+    "FEN": "r1bqr1k1/ppp2pp1/2np1n1p/8/2P1p3/2P1N1P1/PP2PPBP/R1BQ1RK1 w - - 0 11",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/221.svg"
 }

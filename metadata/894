@@ -3,5 +3,6 @@
     "eco": "B76/22",
     "name": "Sicilian: Dragon, Yugoslav Attack: Rauser Main Line",
     "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.O-O-O d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Bd4 e5 13.Bc5 Be6 14.Ne4 Re8\n 15.h4 h6 16.g4 Qc7 17.g5 h5 1/2",
-    "FEN": "r3r1k1/p1q2pb1/2p1b1p1/2Bnp1Pp/4N2P/5P2/PPPQ4/2KR1B1R w - - 0 18"
+    "FEN": "r3r1k1/p1q2pb1/2p1b1p1/2Bnp1Pp/4N2P/5P2/PPPQ4/2KR1B1R w - - 0 18",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/894.svg"
 }

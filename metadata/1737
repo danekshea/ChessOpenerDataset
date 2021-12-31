@@ -3,5 +3,6 @@
     "eco": "D38",
     "name": "QGD: Ragozin Variation",
     "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4 1/2",
-    "FEN": "rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 4 5"
+    "FEN": "rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 4 5",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1737.svg"
 }

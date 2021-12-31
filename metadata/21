@@ -3,5 +3,6 @@
     "eco": "A00",
     "name": "Trident Opening",
     "pgn": "1.g3 c5 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/8/6P1/PPPPPP1P/RNBQKBNR w KQkq c6 0 2"
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/8/6P1/PPPPPP1P/RNBQKBNR w KQkq c6 0 2",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/21.svg"
 }

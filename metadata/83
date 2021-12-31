@@ -3,5 +3,6 @@
     "eco": "A06",
     "name": "Reti: Nimzovich-Larsen Attack (...Bd7)",
     "pgn": "1.Nf3 c5 2.b3 Nf6 3.Bb2 d5 4.e3 Nc6 5.Bb5 Bd7 6.O-O 1/2",
-    "FEN": "r2qkb1r/pp1bpppp/2n2n2/1Bpp4/8/1P2PN2/PBPP1PPP/RN1Q1RK1 b kq - 4 6"
+    "FEN": "r2qkb1r/pp1bpppp/2n2n2/1Bpp4/8/1P2PN2/PBPP1PPP/RN1Q1RK1 b kq - 4 6",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/83.svg"
 }

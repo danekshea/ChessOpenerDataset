@@ -3,5 +3,6 @@
     "eco": "C01",
     "name": "French: Exchange: 3.Nc3",
     "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 1/2",
-    "FEN": "rnbqk1nr/ppp2ppp/8/3p4/1b1P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5"
+    "FEN": "rnbqk1nr/ppp2ppp/8/3p4/1b1P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1007.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "E70/01",
     "name": "King's Indian: Benoni Formation",
     "pgn": "1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.e4 h6 1/2",
-    "FEN": "rnbqk2r/pp1pppb1/5npp/2pP4/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6"
+    "FEN": "rnbqk2r/pp1pppb1/5npp/2pP4/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2149.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "E81",
     "name": "King's Indian: Saemisch-Benoni: (d5...Nbd7)",
     "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 Nbd7 8.Nh3 1/2",
-    "FEN": "r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N1BP1N/PP4PP/R2QKB1R b KQ - 2 8"
+    "FEN": "r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N1BP1N/PP4PP/R2QKB1R b KQ - 2 8",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2177.svg"
 }

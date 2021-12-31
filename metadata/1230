@@ -3,5 +3,6 @@
     "eco": "C40",
     "name": "Latvian: Corkscrew Counter-Gambit",
     "pgn": "1.e4 e5 2.Nf3 f5 3.Bc4 fxe4 4.Nxe5 Nf6 1/2",
-    "FEN": "rnbqkb1r/pppp2pp/5n2/4N3/2B1p3/8/PPPP1PPP/RNBQK2R w KQkq - 1 5"
+    "FEN": "rnbqkb1r/pppp2pp/5n2/4N3/2B1p3/8/PPPP1PPP/RNBQK2R w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1230.svg"
 }

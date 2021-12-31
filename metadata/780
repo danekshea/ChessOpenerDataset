@@ -3,5 +3,6 @@
     "eco": "B40/03",
     "name": "Sicilian: Fianchetto: (...e6 Nc3...a6)",
     "pgn": "1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.g3 b5 5.Bg2 Bb7 6.d3 d6 7.O-O 1/2",
-    "FEN": "rn1qkbnr/1b3ppp/p2pp3/1pp5/4P3/2NP1NP1/PPP2PBP/R1BQ1RK1 b kq - 1 7"
+    "FEN": "rn1qkbnr/1b3ppp/p2pp3/1pp5/4P3/2NP1NP1/PPP2PBP/R1BQ1RK1 b kq - 1 7",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/780.svg"
 }

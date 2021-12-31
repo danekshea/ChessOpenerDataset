@@ -3,5 +3,6 @@
     "eco": "B36/07",
     "name": "Sicilian: Accelerated Fianchetto: Maroczy Bind (Gurgenidze)",
     "pgn": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Bg5 O-O 10.Qd2 Be6 11.Rc1 Qa5 12.f3 Rfc8 13.b3 a6 14.Na4 Qxd2+\n 15.Kxd2 Nd7 16.g4 f6 17.Be3 f5 18.exf5 1/2",
-    "FEN": "r1r3k1/1p1np1bp/p2pb1p1/5P2/N1P3P1/1P2BP2/P2KB2P/2R4R b - - 0 18"
+    "FEN": "r1r3k1/1p1np1bp/p2pb1p1/5P2/N1P3P1/1P2BP2/P2KB2P/2R4R b - - 0 18",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/758.svg"
 }

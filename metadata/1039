@@ -3,5 +3,6 @@
     "eco": "C09/14",
     "name": "French: Tarrasch: Open, Modern Main Line",
     "pgn": "1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nc6 5.exd5 exd5 6.Bb5 Bd6 7.dxc5 Bxc5 8.O-O Nge7 9.Nb3 Bd6 10.Re1 O-O 11.Bg5 Bg4 12.h3 Bh5 13.Bxc6 bxc6\n 14.Nbd4 Rc8 15.c4 1/2",
-    "FEN": "2rq1rk1/p3nppp/2pb4/3p2Bb/2PN4/5N1P/PP3PP1/R2QR1K1 b - c3 0 15"
+    "FEN": "2rq1rk1/p3nppp/2pb4/3p2Bb/2PN4/5N1P/PP3PP1/R2QR1K1 b - c3 0 15",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1039.svg"
 }

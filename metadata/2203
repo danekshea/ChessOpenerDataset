@@ -3,5 +3,6 @@
     "eco": "E90/22",
     "name": "King's Indian: Kluger Variation",
     "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 1/2",
-    "FEN": "rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1P3/2NB1N1P/PP3PP1/R1BQK2R b KQ - 1 8"
+    "FEN": "rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1P3/2NB1N1P/PP3PP1/R1BQK2R b KQ - 1 8",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2203.svg"
 }

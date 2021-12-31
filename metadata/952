@@ -3,5 +3,6 @@
     "eco": "B87/12",
     "name": "Sicilian: Sozin (with...a6 &...b5)",
     "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 a6 7.O-O b5 8.Bb3 Be7 9.Qf3 Qc7 10.Qg3 Nc6 11.Nxc6 Qxc6 12.Re1 Bb7 13.Bg5 1/2",
-    "FEN": "r3k2r/1b2bppp/p1qppn2/1p4B1/4P3/1BN3Q1/PPP2PPP/R3R1K1 b kq - 3 13"
+    "FEN": "r3k2r/1b2bppp/p1qppn2/1p4B1/4P3/1BN3Q1/PPP2PPP/R3R1K1 b kq - 3 13",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/952.svg"
 }

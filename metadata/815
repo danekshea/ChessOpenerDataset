@@ -3,5 +3,6 @@
     "eco": "B50/03",
     "name": "Sicilian Defense: Scheveningen/Najdorf/Dragon",
     "pgn": "1.e4 c5 2.Nf3 d6 3.Nc3 1/2",
-    "FEN": "rnbqkbnr/pp2pppp/3p4/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3"
+    "FEN": "rnbqkbnr/pp2pppp/3p4/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/815.svg"
 }

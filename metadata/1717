@@ -3,5 +3,6 @@
     "eco": "D34/14",
     "name": "QGD: Anglo-Tarrasch: Bogolyubov Variation",
     "pgn": "1.c4 e6 2.Nf3 d5 3.d4 c5 4.cxd5 exd5 5.g3 Nc6 6.Bg2 Nf6 7.O-O Be7 8.Nc3 O-O 9.Bg5 Be6 10.dxc5 Bxc5 11.Rc1 1/2",
-    "FEN": "r2q1rk1/pp3ppp/2n1bn2/2bp2B1/8/2N2NP1/PP2PPBP/2RQ1RK1 b - - 1 11"
+    "FEN": "r2q1rk1/pp3ppp/2n1bn2/2bp2B1/8/2N2NP1/PP2PPBP/2RQ1RK1 b - - 1 11",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1717.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "B73/03",
     "name": "Sicilian: Dragon, Classical: Richter/Bird Variation",
     "pgn": "1.e4 c5 2.Nf3 Nc6 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Be2 d6 8.O-O O-O 9.Qd2 Bd7 10.h3 1/2",
-    "FEN": "r2q1rk1/pp1bppbp/2np1np1/8/3NP3/2N1B2P/PPPQBPP1/R4RK1 b - - 0 10"
+    "FEN": "r2q1rk1/pp1bppbp/2np1np1/8/3NP3/2N1B2P/PPPQBPP1/R4RK1 b - - 0 10",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/887.svg"
 }

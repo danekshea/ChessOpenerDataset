@@ -3,5 +3,6 @@
     "eco": "A45/06",
     "name": "Trompovsky Attack: ...e6 3.e4",
     "pgn": "1.d4 Nf6 2.Bg5 e6 3.e4 h6 4.Bxf6 Qxf6 5.Nf3 d6 6.Nc3 Nd7 7.Qd2 c6 8.O-O-O e5 9.dxe5 Nxe5 1/2",
-    "FEN": "r1b1kb1r/pp3pp1/2pp1q1p/4n3/4P3/2N2N2/PPPQ1PPP/2KR1B1R w kq - 0 10"
+    "FEN": "r1b1kb1r/pp3pp1/2pp1q1p/4n3/4P3/2N2N2/PPPQ1PPP/2KR1B1R w kq - 0 10",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/312.svg"
 }

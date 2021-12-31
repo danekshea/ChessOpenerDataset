@@ -3,5 +3,6 @@
     "eco": "B81/09",
     "name": "Sicilian: Scheveningen: Keres Attack 7.g4",
     "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.g4 h6 8.f4 e5 9.Nf5 h5 10.gxh5 exf4 11.Bxf4 Nxh5 12.Nxd6+ Bxd6 13.Bxd6 Qh4+\n 14.Kd2 {perpetual} 1/2",
-    "FEN": "rnb1k2r/1p3pp1/p2B4/7n/4P2q/2N5/PPPK3P/R2Q1B1R b kq - 2 14"
+    "FEN": "rnb1k2r/1p3pp1/p2B4/7n/4P2q/2N5/PPPK3P/R2Q1B1R b kq - 2 14",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/913.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "E32/19",
     "name": "Nimzo-Indian: Classical Variation: Main Line",
     "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5 Bb7 8.f3 h6 9.Bh4 d5 10.e3 Nbd7 11.cxd5 Nxd5 12.Bxd8 Nxc3 13.Bh4 1/2",
-    "FEN": "r4rk1/pbpn1pp1/1p2p2p/8/3P3B/P1n1PP2/1P4PP/R3KBNR b KQ - 1 13"
+    "FEN": "r4rk1/pbpn1pp1/1p2p2p/8/3P3B/P1n1PP2/1P4PP/R3KBNR b KQ - 1 13",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2057.svg"
 }

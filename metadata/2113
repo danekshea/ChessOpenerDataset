@@ -3,5 +3,6 @@
     "eco": "E60/04",
     "name": "King's Indian: Nimzovich-Larsen Attack",
     "pgn": "1.Nf3 Nf6 2.b3 g6 3.Bb2 Bg7 4.e3 O-O 5.Be2 d6 6.d4 Nbd7 7.c4 e5 1/2",
-    "FEN": "r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/1P2PN2/PB2BPPP/RN1QK2R w KQ e6 0 8"
+    "FEN": "r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/1P2PN2/PB2BPPP/RN1QK2R w KQ e6 0 8",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2113.svg"
 }

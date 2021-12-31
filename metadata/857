@@ -3,5 +3,6 @@
     "eco": "B66/37",
     "name": "Sicilian: Richter-Rauzer: Rauzer Attack, 9...Be7",
     "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O h6 9.Be3 Be7 10.f4 Nxd4 11.Bxd4 b5 12.Bd3 Bb7 13.Kb1 O-O 1/2",
-    "FEN": "r2q1rk1/1b2bpp1/p2ppn1p/1p6/3BPP2/2NB4/PPPQ2PP/1K1R3R w - - 4 14"
+    "FEN": "r2q1rk1/1b2bpp1/p2ppn1p/1p6/3BPP2/2NB4/PPPQ2PP/1K1R3R w - - 4 14",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/857.svg"
 }

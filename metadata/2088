@@ -3,5 +3,6 @@
     "eco": "E48/13",
     "name": "Nimzo-Indian: ...c5, Nge2 d5",
     "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nge2 d5 7.cxd5 cxd4 8.exd4 Nxd5 9.O-O Nc6 10.Bc2 Bd6 11.Ne4 Be7 12.a3 1/2",
-    "FEN": "r1bq1rk1/pp2bppp/2n1p3/3n4/3PN3/P7/1PB1NPPP/R1BQ1RK1 b - - 0 12"
+    "FEN": "r1bq1rk1/pp2bppp/2n1p3/3n4/3PN3/P7/1PB1NPPP/R1BQ1RK1 b - - 0 12",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2088.svg"
 }

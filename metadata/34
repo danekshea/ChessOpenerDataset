@@ -3,5 +3,6 @@
     "eco": "A00",
     "name": "Novosibirsk Opening",
     "pgn": "1.Nc3 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qh4 1/2",
-    "FEN": "r1bqkbnr/pp1ppppp/2n5/8/7Q/2N5/PPP1PPPP/R1B1KBNR b KQkq - 2 4"
+    "FEN": "r1bqkbnr/pp1ppppp/2n5/8/7Q/2N5/PPP1PPPP/R1B1KBNR b KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/34.svg"
 }

@@ -3,5 +3,6 @@
     "eco": "E11/35",
     "name": "Bogo-Indian Defense: Nimzovich Variation: Main Line",
     "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Nc6 6.Bg2 Bxd2+ 7.Nbxd2 d6 8.O-O a5 9.e4 e5 10.d5 Nb8 11.Ne1 O-O 12.Nd3 Na6 1/2",
-    "FEN": "r1b2rk1/1pp1qppp/n2p1n2/p2Pp3/2P1P3/3N2P1/PP1N1PBP/R2Q1RK1 w - - 5 13"
+    "FEN": "r1b2rk1/1pp1qppp/n2p1n2/p2Pp3/2P1P3/3N2P1/PP1N1PBP/R2Q1RK1 w - - 5 13",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1992.svg"
 }

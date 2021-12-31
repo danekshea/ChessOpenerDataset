@@ -47,7 +47,7 @@ for i, line in enumerate(lines):
             FEN = FEN[1]
 
             #create token metadata and write to individual files
-            tokens[tokenid] = {'tokenid': tokenid, 'eco': econame[0], 'name': econame[1], 'pgn': pgn, 'FEN': FEN}
+            tokens[tokenid] = {'tokenid': tokenid, 'eco': econame[0], 'name': econame[1], 'pgn': pgn, 'FEN': FEN, 'image_url': 'https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/' + str(tokenid) + '.svg'}
 
             #write metadata JSON files
             with open('metadata/' + str(tokenid), 'w') as outfile:

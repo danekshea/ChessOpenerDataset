@@ -3,5 +3,6 @@
     "eco": "C36/01",
     "name": "KGA: Abbazia Defense (...Bd6)",
     "pgn": "1.e4 e5 2.f4 d5 3.exd5 exf4 4.Nf3 Bd6 5.d4 Ne7 6.c4 1/2",
-    "FEN": "rnbqk2r/ppp1nppp/3b4/3P4/2PP1p2/5N2/PP4PP/RNBQKB1R b KQkq c3 0 6"
+    "FEN": "rnbqk2r/ppp1nppp/3b4/3P4/2PP1p2/5N2/PP4PP/RNBQKB1R b KQkq c3 0 6",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1189.svg"
 }

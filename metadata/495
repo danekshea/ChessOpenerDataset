@@ -3,5 +3,6 @@
     "eco": "B02",
     "name": "Alekhine's Defense: Maroczy Variation",
     "pgn": "1.e4 Nf6 2.d3 1/2",
-    "FEN": "rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2"
+    "FEN": "rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/495.svg"
 }

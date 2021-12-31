@@ -3,5 +3,6 @@
     "eco": "B97/16",
     "name": "Sicilian: Najdorf: Poisoned Pawn, Main Line",
     "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2 9.Rb1 Qa3 10.f5 Nc6 11.fxe6 fxe6 12.Nxc6 bxc6 13.e5 dxe5 14.Bxf6 gxf6\n 15.Ne4 Be7 16.Be2 h5 17.Rb3 Qa4 18.Nxf6+ 1/2",
-    "FEN": "r1b1k2r/4b3/p1p1pN2/4p2p/q7/1R6/P1PQB1PP/4K2R b Kkq - 0 18"
+    "FEN": "r1b1k2r/4b3/p1p1pN2/4p2p/q7/1R6/P1PQB1PP/4K2R b Kkq - 0 18",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/983.svg"
 }

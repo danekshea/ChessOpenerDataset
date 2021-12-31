@@ -3,5 +3,6 @@
     "eco": "A13",
     "name": "English: Neo-Catalan Open",
     "pgn": "1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ Nbd7 6.Qxc4 c5 7.d4 a6 8.Qc2 cxd4 1/2",
-    "FEN": "r1bqkb1r/1p1n1ppp/p3pn2/8/3p4/5NP1/PPQ1PPBP/RNB1K2R w KQkq - 0 9"
+    "FEN": "r1bqkb1r/1p1n1ppp/p3pn2/8/3p4/5NP1/PPQ1PPBP/RNB1K2R w KQkq - 0 9",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/141.svg"
 }

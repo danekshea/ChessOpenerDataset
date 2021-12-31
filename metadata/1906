@@ -3,5 +3,6 @@
     "eco": "D87",
     "name": "Gruenfeld: Exchange: Seville Variation (...Qc7)",
     "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 O-O 9.O-O Nc6 10.Be3 Qc7 11.Rc1 Rd8 12.Bf4 Qd7 13.d5 Na5 14.Bd3 b5\n 15.Rb1 1/2",
-    "FEN": "r1br2k1/p2qppbp/6p1/nppP4/4PB2/2PB4/P3NPPP/1R1Q1RK1 b - - 1 15"
+    "FEN": "r1br2k1/p2qppbp/6p1/nppP4/4PB2/2PB4/P3NPPP/1R1Q1RK1 b - - 1 15",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1906.svg"
 }

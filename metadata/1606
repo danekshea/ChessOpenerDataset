@@ -3,5 +3,6 @@
     "eco": "D10",
     "name": "QGD: Slav Defense",
     "pgn": "1.d4 d5 2.c4 c6 1/2",
-    "FEN": "rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3"
+    "FEN": "rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1606.svg"
 }

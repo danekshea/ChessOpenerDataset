@@ -3,5 +3,6 @@
     "eco": "B02/04",
     "name": "Alekhine's Defense: Scandinavian (2.Nc3)",
     "pgn": "1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.Bc4 e6 5.Nf3 Nxc3 6.bxc3 Nd7 7.d4 Be7 8.O-O O-O 9.Qe2 1/2",
-    "FEN": "r1bq1rk1/pppnbppp/4p3/8/2BP4/2P2N2/P1P1QPPP/R1B2RK1 b - - 4 9"
+    "FEN": "r1bq1rk1/pppnbppp/4p3/8/2BP4/2P2N2/P1P1QPPP/R1B2RK1 b - - 4 9",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/503.svg"
 }

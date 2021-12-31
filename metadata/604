@@ -3,5 +3,6 @@
     "eco": "B12/16",
     "name": "Caro-Kann: Advance: Main Line",
     "pgn": "1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O Ne7 7.Nh4 Bg6 8.Nd2 c5 9.c3 Nc6 10.Nxg6 hxg6 11.Nf3 Be7 12.Be3 cxd4 13.cxd4 Qb6 14.Rb1 Rc8 1/2",
-    "FEN": "2r1k2r/pp1nbpp1/1qn1p1p1/3pP3/3P4/4BN2/PP2BPPP/1R1Q1RK1 w k - 3 15"
+    "FEN": "2r1k2r/pp1nbpp1/1qn1p1p1/3pP3/3P4/4BN2/PP2BPPP/1R1Q1RK1 w k - 3 15",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/604.svg"
 }

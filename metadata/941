@@ -3,5 +3,6 @@
     "eco": "B85/35",
     "name": "Sicilian: Scheveningen: Classical",
     "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 Be7 7.O-O Nc6 8.Be3 O-O 9.f4 Qc7 10.Bf3 a6 11.Kh1 Rb8 12.a4 Re8 13.g4 Nxd4 14.Bxd4 1/2",
-    "FEN": "1rb1r1k1/1pq1bppp/p2ppn2/8/P2BPPP1/2N2B2/1PP4P/R2Q1R1K b - - 0 14"
+    "FEN": "1rb1r1k1/1pq1bppp/p2ppn2/8/P2BPPP1/2N2B2/1PP4P/R2Q1R1K b - - 0 14",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/941.svg"
 }

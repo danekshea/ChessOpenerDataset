@@ -3,5 +3,6 @@
     "eco": "C35",
     "name": "KGA: Cunningham Defense",
     "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 Be7 1/2",
-    "FEN": "rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4"
+    "FEN": "rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1180.svg"
 }

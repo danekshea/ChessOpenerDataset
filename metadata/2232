@@ -3,5 +3,6 @@
     "eco": "E97/28",
     "name": "King's Indian: Orthodox: Aronin-Taimanov 9.Nd2",
     "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Nd2 a5 10.a3 Nd7 11.Rb1 f5 12.b4 Kh8 13.f3 Ng8 14.Qc2 Ngf6 15.Nb5 axb4\n 16.axb4 Nh5 17.g3 Ndf6 1/2",
-    "FEN": "r1bq1r1k/1pp3bp/3p1np1/1N1Ppp1n/1PP1P3/5PP1/2QNB2P/1RB2RK1 w - - 1 18"
+    "FEN": "r1bq1r1k/1pp3bp/3p1np1/1N1Ppp1n/1PP1P3/5PP1/2QNB2P/1RB2RK1 w - - 1 18",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2232.svg"
 }

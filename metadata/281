@@ -3,5 +3,6 @@
     "eco": "A40",
     "name": "English-Queen's Pawn",
     "pgn": "1.c4 b6 2.Nc3 Bb7 3.d4 e6 4.e4 Bb4 5.f3 f5 1/2",
-    "FEN": "rn1qk1nr/pbpp2pp/1p2p3/5p2/1bPPP3/2N2P2/PP4PP/R1BQKBNR w KQkq f6 0 6"
+    "FEN": "rn1qk1nr/pbpp2pp/1p2p3/5p2/1bPPP3/2N2P2/PP4PP/R1BQKBNR w KQkq f6 0 6",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/281.svg"
 }
