@@ -1,8 +1,0 @@
-{
-    "tokenid": 673,
-    "eco": "B22/12",
-    "name": "Sicilian: Alapin: (...d5 exd5...Qxd5)",
-    "pgn": "1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nc6 5.Nf3 cxd4 6.cxd4 Bg4 1/2",
-    "FEN": "r3kbnr/pp2pppp/2n5/3q4/3P2b1/5N2/PP3PPP/RNBQKB1R w KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/673.svg"
-}

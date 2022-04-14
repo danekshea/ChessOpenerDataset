@@ -1,8 +1,0 @@
-{
-    "tokenid": 1405,
-    "eco": "C62/02",
-    "name": "Ruy Lopez: Old Steinitz Defense: (d4 ...exd4)",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 exd4 5.Qxd4 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 Be7 9.O-O-O O-O 10.Rhe1 Re8 1/2",
-    "FEN": "r2qr1k1/ppp1bppp/2bp1n2/6B1/3QP3/2N2N2/PPP2PPP/2KRR3 w - - 8 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1405.svg"
-}

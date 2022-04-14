@@ -1,8 +1,0 @@
-{
-    "tokenid": 230,
-    "eco": "A31",
-    "name": "English: Symmetrical Variation",
-    "pgn": "1.c4 c5 2.Nf3 Nf6 3.d4 1/2",
-    "FEN": "rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq d3 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/230.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 1239,
-    "eco": "C41",
-    "name": "Philidor: Exchange Variation",
-    "pgn": "1.e4 e5 2.Nf3 d6 3.d4 exd4 1/2",
-    "FEN": "rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1239.svg"
-}

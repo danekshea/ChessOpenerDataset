@@ -1,8 +1,0 @@
-{
-    "tokenid": 2157,
-    "eco": "E73/06",
-    "name": "King's Indian: Averbakh System",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 Nbd7 7.Qd2 e5 8.d5 Nc5 9.f3 a5 10.h4 c6 1/2",
-    "FEN": "r1bq1rk1/1p3pbp/2pp1np1/p1nPp1B1/2P1P2P/2N2P2/PP1QB1P1/R3K1NR w KQ - 0 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2157.svg"
-}

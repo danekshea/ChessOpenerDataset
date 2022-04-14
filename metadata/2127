@@ -1,8 +1,0 @@
-{
-    "tokenid": 2127,
-    "eco": "E63",
-    "name": "King's Indian: Fianchetto: Panno System",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nc6 7.Nc3 a6 8.d5 1/2",
-    "FEN": "r1bq1rk1/1pp1ppbp/p1np1np1/3P4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2127.svg"
-}

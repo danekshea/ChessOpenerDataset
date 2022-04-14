@@ -1,8 +1,0 @@
-{
-    "tokenid": 537,
-    "eco": "B06",
-    "name": "Pirc-Robatsch",
-    "pgn": "1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Bd3 1/2",
-    "FEN": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/537.svg"
-}

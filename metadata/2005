@@ -1,8 +1,0 @@
-{
-    "tokenid": 2005,
-    "eco": "E13",
-    "name": "Queen's Indian: Main Line: 7.e3",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5 h6 6.Bh4 Bb4 7.e3 1/2",
-    "FEN": "rn1qk2r/pbpp1pp1/1p2pn1p/8/1bPP3B/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2005.svg"
-}

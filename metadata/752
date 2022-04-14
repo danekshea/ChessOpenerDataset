@@ -1,8 +1,0 @@
-{
-    "tokenid": 752,
-    "eco": "B34",
-    "name": "Sicilian: Accelerated Fianchetto: Exchange (Nc3)",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Nb3 1/2",
-    "FEN": "r1bqk1nr/pp1pppbp/2n3p1/8/4P3/1NN5/PPP2PPP/R1BQKB1R b KQkq - 3 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/752.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 694,
-    "eco": "B23",
-    "name": "Sicilian: Mieses-Spassky Attack (Bb5)",
-    "pgn": "1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Bc4 g6 5.Nf3 Bg7 6.Nxd4 cxd4 7.Qf3 Nh6 8.Ne2 1/2",
-    "FEN": "r1bqk2r/pp1pppbp/6pn/8/2BpP3/5Q2/PPPPNPPP/R1B1K2R b KQkq - 3 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/694.svg"
-}

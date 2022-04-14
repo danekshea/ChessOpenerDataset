@@ -1,8 +1,0 @@
-{
-    "tokenid": 2179,
-    "eco": "E81/11",
-    "name": "King's Indian: Saemisch: Commons Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nbd7 7.Qd2 c5 8.Nge2 a6 9.O-O-O Qa5 10.Kb1 b5 11.dxc5 dxc5 12.Nd5 Nxd5 1/2",
-    "FEN": "r1b2rk1/3nppbp/p5p1/qppn4/2P1P3/4BP2/PP1QN1PP/1K1R1B1R w - - 0 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2179.svg"
-}

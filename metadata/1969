@@ -1,8 +1,0 @@
-{
-    "tokenid": 1969,
-    "eco": "E06/06",
-    "name": "Catalan: Open (Qc2)",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.Qc2 c5 7.O-O cxd4 8.Nxd4 Nc6 9.Nxc6 bxc6 10.b3 1/2",
-    "FEN": "r1bq1rk1/p3bppp/2p1pn2/3p4/2P5/1P4P1/P1Q1PPBP/RNB2RK1 b - - 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1969.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 677,
-    "eco": "B22",
-    "name": "Sicilian: Alapin's Variation: (Smith-Morra)",
-    "pgn": "1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 1/2",
-    "FEN": "rnbqkb1r/pp1ppppp/8/2pnP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq d3 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/677.svg"
-}

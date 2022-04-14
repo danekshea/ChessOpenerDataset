@@ -1,8 +1,0 @@
-{
-    "tokenid": 536,
-    "eco": "B06/17",
-    "name": "Robatsch Defense: 4.Bc4",
-    "pgn": "1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Bc4 1/2",
-    "FEN": "rnbqk1nr/ppp1ppbp/3p2p1/8/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/536.svg"
-}

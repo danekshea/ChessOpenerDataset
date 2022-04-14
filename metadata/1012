@@ -1,8 +1,0 @@
-{
-    "tokenid": 1012,
-    "eco": "C02",
-    "name": "French: Advance: Euwe Variation",
-    "pgn": "1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 1/2",
-    "FEN": "r2qkbnr/pp1b1ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1012.svg"
-}

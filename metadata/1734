@@ -1,8 +1,0 @@
-{
-    "tokenid": 1734,
-    "eco": "D36/14",
-    "name": "QGD: Exchange: Modern Line (Markov)",
-    "pgn": "1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Bg5 Be7 5.cxd5 exd5 6.e3 Nbd7 7.Bd3 c6 8.Nge2 O-O 9.Qc2 Re8 10.O-O Nf8 11.f3 Ng6 12.Rad1 Nh5 13.Bxe7 Qxe7 1/2",
-    "FEN": "r1b1r1k1/pp2qppp/2p3n1/3p3n/3P4/2NBPP2/PPQ1N1PP/3R1RK1 w - - 0 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1734.svg"
-}

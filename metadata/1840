@@ -1,8 +1,0 @@
-{
-    "tokenid": 1840,
-    "eco": "D59/01",
-    "name": "QGD: Tartakower Variation: 5.e3",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6 8.Rc1 Bb7 9.cxd5 Nxd5 10.Bxe7 Qxe7 11.Be2 1/2",
-    "FEN": "rn3rk1/pbp1qpp1/1p2p2p/3n4/3P4/2N1PN2/PP2BPPP/2RQK2R b K - 1 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1840.svg"
-}

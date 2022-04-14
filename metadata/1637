@@ -1,8 +1,0 @@
-{
-    "tokenid": 1637,
-    "eco": "D16",
-    "name": "QGD: Slav: Smyslov Variation",
-    "pgn": "1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Na6 6.e4 Bg4 1/2",
-    "FEN": "r2qkb1r/pp2pppp/n1p2n2/8/P1pPP1b1/2N2N2/1P3PPP/R1BQKB1R w KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1637.svg"
-}

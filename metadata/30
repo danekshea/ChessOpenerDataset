@@ -1,8 +1,0 @@
-{
-    "tokenid": 30,
-    "eco": "A00",
-    "name": "Clemenz Opening",
-    "pgn": "1.h3 1/2",
-    "FEN": "rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQkq - 0 1",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/30.svg"
-}

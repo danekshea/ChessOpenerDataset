@@ -1,8 +1,0 @@
-{
-    "tokenid": 886,
-    "eco": "B73",
-    "name": "Sicilian: Dragon, Classical: Richter Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Qd2 1/2",
-    "FEN": "r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPPQBPPP/R4RK1 b - - 7 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/886.svg"
-}

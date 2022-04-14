@@ -1,8 +1,0 @@
-{
-    "tokenid": 1729,
-    "eco": "D36",
-    "name": "QGD: Exchange: Positional Line (6.Qc2)",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6 6.Qc2 1/2",
-    "FEN": "rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PPQ1PPPP/R3KBNR b KQkq - 1 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1729.svg"
-}

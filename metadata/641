@@ -1,8 +1,0 @@
-{
-    "tokenid": 641,
-    "eco": "B19/10",
-    "name": "Caro-Kann: Classical: Spassky Variation",
-    "pgn": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Qc7 12.O-O-O Ngf6 13.Ne4 O-O-O 14.g3 Nxe4\n 15.Qxe4 Bd6 16.c4 c5 1/2",
-    "FEN": "2kr3r/ppqn1pp1/3bp2p/2p4P/2PPQ3/5NP1/PP1B1P2/2KR3R w - - 0 17",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/641.svg"
-}

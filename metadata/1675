@@ -1,8 +1,0 @@
-{
-    "tokenid": 1675,
-    "eco": "D27/22",
-    "name": "QGA: Classical: 7.Bb3",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Bb3 Nc6 8.Nc3 Be7 1/2",
-    "FEN": "r1bqk2r/1p2bppp/p1n1pn2/2p5/3P4/1BN1PN2/PP3PPP/R1BQ1RK1 w kq - 4 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1675.svg"
-}

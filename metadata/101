@@ -1,8 +1,0 @@
-{
-    "tokenid": 101,
-    "eco": "A08",
-    "name": "Reti: KIA",
-    "pgn": "1.Nf3 d5 2.g3 c5 3.Bg2 Nc6 1/2",
-    "FEN": "r1bqkbnr/pp2pppp/2n5/2pp4/8/5NP1/PPPPPPBP/RNBQK2R w KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/101.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 1455,
-    "eco": "C71",
-    "name": "Ruy Lopez: Noah's Ark Trap",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 b5 6.Bb3 Nxd4 7.Nxd4 exd4 8.Qxd4 c5 1/2",
-    "FEN": "r1bqkbnr/5ppp/p2p4/1pp5/3QP3/1B6/PPP2PPP/RNB1K2R w KQkq c6 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1455.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 727,
-    "eco": "B31/03",
-    "name": "Sicilian: Nimzovich-Rossolimo Attack: 4.Bxc6",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 e5 7.Be3 Qe7 8.Nc3 Nf6 9.Qd2 Nd7 10.Bh6 f6 1/2",
-    "FEN": "r1b1k2r/pp1nq1bp/2p2ppB/2p1p3/4P3/2NP1N1P/PPPQ1PP1/R3K2R w KQkq - 0 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/727.svg"
-}

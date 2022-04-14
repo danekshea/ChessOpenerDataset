@@ -1,8 +1,0 @@
-{
-    "tokenid": 1972,
-    "eco": "E07",
-    "name": "Catalan: Closed: Botvinnik Variation",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O Nbd7 7.Nc3 c6 8.Qd3 1/2",
-    "FEN": "r1bq1rk1/pp1nbppp/2p1pn2/3p4/2PP4/2NQ1NP1/PP2PPBP/R1B2RK1 b - - 1 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1972.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 1804,
-    "eco": "D50",
-    "name": "QGD: Semi-Tarrasch: Primitive Pillsbury Variation",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.Nf3 cxd4 6.Qxd4 1/2",
-    "FEN": "rnbqkb1r/pp3ppp/4pn2/3p2B1/2PQ4/2N2N2/PP2PPPP/R3KB1R b KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1804.svg"
-}

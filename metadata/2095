@@ -1,8 +1,0 @@
-{
-    "tokenid": 2095,
-    "eco": "E52/02",
-    "name": "Nimzo-Indian: 4.e3: Modern Line",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 b6 6.Bd3 Bb7 7.O-O d5 8.a3 Bd6 9.cxd5 1/2",
-    "FEN": "rn1q1rk1/pbp2ppp/1p1bpn2/3P4/3P4/P1NBPN2/1P3PPP/R1BQ1RK1 b - - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2095.svg"
-}

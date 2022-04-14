@@ -1,8 +1,0 @@
-{
-    "tokenid": 962,
-    "eco": "B90/04",
-    "name": "Sicilian: Najdorf: Byrne-Almasi Attack",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.Qd2 Nbd7 9.f3 Be7 10.g4 h6 11.h4 b5 12.O-O-O Nb6 13.Qf2 Rb8 14.Kb1 Nc4 1/2",
-    "FEN": "1r1qk2r/4bpp1/p2pbn1p/1p2p3/2n1P1PP/1NN1BP2/PPP2Q2/1K1R1B1R w k - 6 15",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/962.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 1935,
-    "eco": "D94/23",
-    "name": "Gruenfeld (with e3 Be2): Main Line",
-    "pgn": "1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 g6 5.Nf3 Bg7 6.Be2 O-O 7.O-O dxc4 8.Bxc4 Bg4 9.h3 1/2",
-    "FEN": "rn1q1rk1/pp2ppbp/2p2np1/8/2BP2b1/2N1PN1P/PP3PP1/R1BQ1RK1 b - - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1935.svg"
-}

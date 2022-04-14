@@ -1,8 +1,0 @@
-{
-    "tokenid": 1742,
-    "eco": "D39",
-    "name": "QGD: Ragozin: Vienna Variation",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4 5.Bg5 dxc4 1/2",
-    "FEN": "rnbqk2r/ppp2ppp/4pn2/6B1/1bpP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1742.svg"
-}

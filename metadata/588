@@ -1,8 +1,0 @@
-{
-    "tokenid": 588,
-    "eco": "B10/05",
-    "name": "Caro-Kann (e5)",
-    "pgn": "1.e4 c6 2.c4 e5 3.Nf3 d6 4.d4 Bg4 1/2",
-    "FEN": "rn1qkbnr/pp3ppp/2pp4/4p3/2PPP1b1/5N2/PP3PPP/RNBQKB1R w KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/588.svg"
-}

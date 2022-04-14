@@ -1,8 +1,0 @@
-{
-    "tokenid": 1730,
-    "eco": "D36/14",
-    "name": "QGD: Exchange: Modern Line",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.cxd5 exd5 7.Bd3 O-O 8.Nf3 Re8 9.Qc2 Nf8 10.O-O c6 11.Rae1 Ne4 12.Bxe7 Qxe7 1/2",
-    "FEN": "r1b1rnk1/pp2qppp/2p5/3p4/3Pn3/2NBPN2/PPQ2PPP/4RRK1 w - - 0 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1730.svg"
-}

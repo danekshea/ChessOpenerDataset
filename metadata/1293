@@ -1,8 +1,0 @@
-{
-    "tokenid": 1293,
-    "eco": "C44",
-    "name": "Inverted Hungarian",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Be2 1/2",
-    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPPBPPP/RNBQK2R b KQkq - 3 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1293.svg"
-}

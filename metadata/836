@@ -1,8 +1,0 @@
-{
-    "tokenid": 836,
-    "eco": "B57",
-    "name": "Sicilian: Sozin",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 1/2",
-    "FEN": "r1bqkb1r/pp2pppp/2np1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 4 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/836.svg"
-}

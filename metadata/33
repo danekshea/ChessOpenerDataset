@@ -1,8 +1,0 @@
-{
-    "tokenid": 33,
-    "eco": "A00",
-    "name": "Dunst Opening",
-    "pgn": "1.Nc3 1/2",
-    "FEN": "rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/33.svg"
-}

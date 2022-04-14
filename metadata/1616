@@ -1,8 +1,0 @@
-{
-    "tokenid": 1616,
-    "eco": "D11",
-    "name": "QGD: Slav: 2...dxc4",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.Nf3 c6 1/2",
-    "FEN": "rnbqkbnr/pp2pppp/2p5/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1616.svg"
-}

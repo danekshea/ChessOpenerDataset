@@ -1,8 +1,0 @@
-{
-    "tokenid": 1794,
-    "eco": "D48/23",
-    "name": "QGD: Semi-Slav: Meran, Old Main Line",
-    "pgn": "1.d4 Nf6 2.c4 c6 3.Nf3 d5 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 Ng4 1/2",
-    "FEN": "r1bqkb1r/3n1ppp/p3p3/1pp1P3/3P2n1/2NB1N2/PP3PPP/R1BQK2R w KQkq - 1 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1794.svg"
-}

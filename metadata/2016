@@ -1,8 +1,0 @@
-{
-    "tokenid": 2016,
-    "eco": "E16",
-    "name": "Queen's Indian: Yates Variation",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 a5 1/2",
-    "FEN": "rn1qk2r/1bpp1ppp/1p2pn2/p7/1bPP4/5NP1/PP1BPPBP/RN1QK2R w KQkq a6 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2016.svg"
-}

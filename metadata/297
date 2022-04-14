@@ -1,8 +1,0 @@
-{
-    "tokenid": 297,
-    "eco": "A43",
-    "name": "Old Benoni: Franco-Benoni Defense",
-    "pgn": "1.d4 c5 2.d5 e6 3.e4 1/2",
-    "FEN": "rnbqkbnr/pp1p1ppp/4p3/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/297.svg"
-}

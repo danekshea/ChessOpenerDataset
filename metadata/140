@@ -1,8 +1,0 @@
-{
-    "tokenid": 140,
-    "eco": "A13",
-    "name": "English: Kurajica Exchange",
-    "pgn": "1.c4 e6 2.g3 d5 3.Bg2 c6 4.Qc2 dxc4 5.Qxc4 b5 6.Qc2 Bb7 1/2",
-    "FEN": "rn1qkbnr/pb3ppp/2p1p3/1p6/8/6P1/PPQPPPBP/RNB1K1NR w KQkq - 2 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/140.svg"
-}

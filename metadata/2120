@@ -1,8 +1,0 @@
-{
-    "tokenid": 2120,
-    "eco": "E62",
-    "name": "King's Indian: Fianchetto: Larsen System",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c6 7.O-O Bf5 1/2",
-    "FEN": "rn1q1rk1/pp2ppbp/2pp1np1/5b2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2120.svg"
-}

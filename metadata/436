@@ -1,8 +1,0 @@
-{
-    "tokenid": 436,
-    "eco": "A84",
-    "name": "Dutch Defense: Modern Line",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 f5 5.Nf3 Nf6 6.Bd3 Bd6 7.Qe2 1/2",
-    "FEN": "rnbqk2r/pp4pp/2pbpn2/3p1p2/2PP4/2NBPN2/PP2QPPP/R1B1K2R b KQkq - 5 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/436.svg"
-}

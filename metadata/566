@@ -1,8 +1,0 @@
-{
-    "tokenid": 566,
-    "eco": "B07",
-    "name": "Pirc-KID-East Indian",
-    "pgn": "1.d4 Nf6 2.g3 g6 3.Bg2 Bg7 4.e4 d6 5.Nc3 O-O 1/2",
-    "FEN": "rnbq1rk1/ppp1ppbp/3p1np1/8/3PP3/2N3P1/PPP2PBP/R1BQK1NR w KQ - 2 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/566.svg"
-}

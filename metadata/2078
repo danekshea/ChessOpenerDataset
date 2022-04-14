@@ -1,8 +1,0 @@
-{
-    "tokenid": 2078,
-    "eco": "E43/05",
-    "name": "Nimzo-Indian: ...b6 Nf3",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 b6 4.Nf3 Bb7 5.e3 Bb4 6.Bd3 Ne4 7.O-O Bxc3 8.bxc3 f5 1/2",
-    "FEN": "rn1qk2r/pbpp2pp/1p2p3/5p2/2PPn3/2PBPN2/P4PPP/R1BQ1RK1 w kq f6 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2078.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 391,
-    "eco": "A65",
-    "name": "Benoni: 6.e4",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 1/2",
-    "FEN": "rnbqkb1r/pp3ppp/3p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/391.svg"
-}

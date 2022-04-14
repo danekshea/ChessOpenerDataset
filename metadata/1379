@@ -1,8 +1,0 @@
-{
-    "tokenid": 1379,
-    "eco": "C55",
-    "name": "Two Knights Defense",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O 1/2",
-    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/8/2BpP3/5N2/PPP2PPP/RNBQ1RK1 b kq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1379.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 1013,
-    "eco": "C02/19",
-    "name": "French: Advance: Milner-Barry Gambit 6.a3",
-    "pgn": "1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 c4 7.Nbd2 Na5 8.Be2 1/2",
-    "FEN": "r1b1kbnr/pp3ppp/1q2p3/n2pP3/2pP4/P1P2N2/1P1NBPPP/R1BQK2R b KQkq - 3 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1013.svg"
-}

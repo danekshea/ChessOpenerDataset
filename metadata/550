@@ -1,8 +1,0 @@
-{
-    "tokenid": 550,
-    "eco": "B07/36",
-    "name": "Pirc: 150 Attack",
-    "pgn": "1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3 c6 5.Qd2 Bg7 6.f3 b5 7.g4 1/2",
-    "FEN": "rnbqk2r/p3ppbp/2pp1np1/1p6/3PP1P1/2N1BP2/PPPQ3P/R3KBNR b KQkq g3 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/550.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 333,
-    "eco": "A47",
-    "name": "Queen's Pawn: Yusupov-Rubinstein System",
-    "pgn": "1.d4 e6 2.Nf3 c5 3.e3 Nf6 4.Bd3 b6 5.O-O Bb7 6.Nbd2 Be7 7.b3 O-O 8.Bb2 d6 9.Re1 1/2",
-    "FEN": "rn1q1rk1/pb2bppp/1p1ppn2/2p5/3P4/1P1BPN2/PBPN1PPP/R2QR1K1 b - - 1 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/333.svg"
-}

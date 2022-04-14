@@ -1,8 +1,0 @@
-{
-    "tokenid": 1283,
-    "eco": "C44/01",
-    "name": "Green's Opening (d3)",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.d3 1/2",
-    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1283.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 716,
-    "eco": "B30",
-    "name": "Sicilian Defense",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.g3 b6 4.Bg2 1/2",
-    "FEN": "r1bqkbnr/p2ppppp/1pn5/2p5/4P3/5NP1/PPPP1PBP/RNBQK2R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/716.svg"
-}

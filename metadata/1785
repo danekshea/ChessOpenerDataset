@@ -1,8 +1,0 @@
-{
-    "tokenid": 1785,
-    "eco": "D47",
-    "name": "QGD: Semi-Slav: Meran Variation",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 1/2",
-    "FEN": "r1bqkb1r/p2n1ppp/2p1pn2/1p6/2BP4/2N1PN2/PP3PPP/R1BQK2R w KQkq b6 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1785.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 1998,
-    "eco": "E12",
-    "name": "Queen's Indian: Petrosian System",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 1/2",
-    "FEN": "rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/P4N2/1P2PPPP/RNBQKB1R b KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1998.svg"
-}

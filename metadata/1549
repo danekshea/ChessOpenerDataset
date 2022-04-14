@@ -1,8 +1,0 @@
-{
-    "tokenid": 1549,
-    "eco": "D00",
-    "name": "Queen's Pawn Game",
-    "pgn": "1.d4 d5 1/2",
-    "FEN": "rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq d6 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1549.svg"
-}

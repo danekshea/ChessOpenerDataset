@@ -1,8 +1,0 @@
-{
-    "tokenid": 455,
-    "eco": "A91",
-    "name": "Dutch Defense",
-    "pgn": "1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 1/2",
-    "FEN": "rnbqk2r/ppppb1pp/4pn2/5p2/2PP4/6P1/PP2PPBP/RNBQK1NR w KQkq - 2 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/455.svg"
-}

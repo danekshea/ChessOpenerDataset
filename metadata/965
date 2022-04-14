@@ -1,8 +1,0 @@
-{
-    "tokenid": 965,
-    "eco": "B91/04",
-    "name": "Sicilian: Najdorf: Fianchetto, with 6...e5",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nde2 Be7 8.Bg2 O-O 9.O-O Be6 1/2",
-    "FEN": "rn1q1rk1/1p2bppp/p2pbn2/4p3/4P3/2N3P1/PPP1NPBP/R1BQ1RK1 w - - 6 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/965.svg"
-}

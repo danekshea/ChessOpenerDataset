@@ -1,8 +1,0 @@
-{
-    "tokenid": 777,
-    "eco": "B40",
-    "name": "Sicilian: Pin Variation: (Sicilian Counter-Attack)",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 1/2",
-    "FEN": "rnbqk2r/pp1p1ppp/4pn2/8/1b1NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/777.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 1138,
-    "eco": "C30",
-    "name": "KGD: Classical: Heath Variation",
-    "pgn": "1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.b4 1/2",
-    "FEN": "rnbqk1nr/ppp2ppp/3p4/2b1p3/1P2PP2/5N2/P1PP2PP/RNBQKB1R b KQkq b3 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1138.svg"
-}
