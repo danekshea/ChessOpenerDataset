@@ -1,8 +1,0 @@
-{
-    "tokenid": 2199,
-    "eco": "E88/09",
-    "name": "King's Indian: Saemisch: Orthodox 7.d5 c6, Main Line",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Qd2 cxd5 9.cxd5 a6 10.Bd3 Nh5 11.Nge2 1/2",
-    "FEN": "rnbq1rk1/1p3pbp/p2p2p1/3Pp2n/4P3/2NBBP2/PP1QN1PP/R3K2R b KQ - 3 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2199.svg"
-}

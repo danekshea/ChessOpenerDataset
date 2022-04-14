@@ -1,8 +1,0 @@
-{
-    "tokenid": 2025,
-    "eco": "E18/09",
-    "name": "Queen's Indian: Old Main Line: 8.Nxe4",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4 Qe8 12.Qxe8 Rxe8 1/2",
-    "FEN": "rn2r1k1/p1p1bppp/1p2p3/3p4/2PP4/6P1/PP2PPNP/R1B2RK1 w - - 0 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2025.svg"
-}

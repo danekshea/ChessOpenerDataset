@@ -1,8 +1,0 @@
-{
-    "tokenid": 969,
-    "eco": "B93/18",
-    "name": "Sicilian: Najdorf: 6.f4 e5 7.Nf3",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Nbd7 8.a4 Be7 9.Bd3 O-O 10.O-O exf4 11.Kh1 Nc5 12.Bxf4 Bg4 13.Qe1 Rc8 1/2",
-    "FEN": "2rq1rk1/1p2bppp/p2p1n2/2n5/P3PBb1/2NB1N2/1PP3PP/R3QR1K w - - 3 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/969.svg"
-}

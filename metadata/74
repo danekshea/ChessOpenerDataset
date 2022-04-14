@@ -1,8 +1,0 @@
-{
-    "tokenid": 74,
-    "eco": "A05/08",
-    "name": "Reti: King's Indian Attack: Neo-Closed Sicilian",
-    "pgn": "1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d3 d6 6.e4 c5 7.Nbd2 Nc6 8.c3 Ne8 1/2",
-    "FEN": "r1bqnrk1/pp2ppbp/2np2p1/2p5/4P3/2PP1NP1/PP1N1PBP/R1BQ1RK1 w - - 1 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/74.svg"
-}

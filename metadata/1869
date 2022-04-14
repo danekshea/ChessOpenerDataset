@@ -1,8 +1,0 @@
-{
-    "tokenid": 1869,
-    "eco": "D73/03",
-    "name": "Neo-Gruenfeld: 5.Nf3 dxc4",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 dxc4 1/2",
-    "FEN": "rnbqk2r/ppp1ppbp/5np1/8/2pP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1869.svg"
-}

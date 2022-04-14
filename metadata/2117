@@ -1,8 +1,0 @@
-{
-    "tokenid": 2117,
-    "eco": "E61",
-    "name": "King's Indian (Bf4)",
-    "pgn": "1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.Bf4 d6 6.h3 c5 1/2",
-    "FEN": "rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP1B2/2N2N1P/PP2PPP1/R2QKB1R w KQ c6 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2117.svg"
-}

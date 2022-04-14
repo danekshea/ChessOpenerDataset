@@ -1,8 +1,0 @@
-{
-    "tokenid": 647,
-    "eco": "B20",
-    "name": "Sicilian: Wing Gambit: Carlsbad Variation",
-    "pgn": "1.e4 c5 2.b4 cxb4 3.a3 bxa3 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/8/4P3/p7/2PP1PPP/RNBQKBNR w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/647.svg"
-}

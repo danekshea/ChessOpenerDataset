@@ -1,8 +1,0 @@
-{
-    "tokenid": 1981,
-    "eco": "E09",
-    "name": "Catalan: Closed: Modern Line",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 c6 5.Bg2 Bb4+ 6.Bd2 Be7 7.Qc2 O-O 8.O-O Nbd7 9.Bf4 Nh5 10.Bc1 Nhf6 11.Nbd2 b6 1/2",
-    "FEN": "r1bq1rk1/p2nbppp/1pp1pn2/3p4/2PP4/5NP1/PPQNPPBP/R1B2RK1 w - - 0 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1981.svg"
-}

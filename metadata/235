@@ -1,8 +1,0 @@
-{
-    "tokenid": 235,
-    "eco": "A32",
-    "name": "English: Symmetrical: Modern Line",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 O-O 6.Bg2 cxd4 1/2",
-    "FEN": "rnbq1rk1/pp1p1ppp/4pn2/8/1bPp4/2N2NP1/PP2PPBP/R1BQK2R w KQ - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/235.svg"
-}

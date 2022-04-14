@@ -1,8 +1,0 @@
-{
-    "tokenid": 2240,
-    "eco": "E99/16",
-    "name": "King's Indian: Orthodox: Aronin-Taimanov 10.Nd3",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.Nd3 f5 11.f3 f4 12.Bd2 Nf6 13.c5 g5 14.cxd6 cxd6 15.Rc1 Ng6\n 16.Nb5 Rf7 17.Qc2 Ne8 18.a4 h5 19.Nf2 Bf8 1/2",
-    "FEN": "r1bqnbk1/pp3r2/3p2n1/1N1Pp1pp/P3Pp2/5P2/1PQBBNPP/2R2RK1 w - - 2 20",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2240.svg"
-}

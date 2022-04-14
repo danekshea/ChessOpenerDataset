@@ -1,8 +1,0 @@
-{
-    "tokenid": 441,
-    "eco": "A86",
-    "name": "Dutch: Leningrad Variation",
-    "pgn": "1.d4 f5 2.c4 Nf6 3.g3 g6 1/2",
-    "FEN": "rnbqkb1r/ppppp2p/5np1/5p2/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/441.svg"
-}

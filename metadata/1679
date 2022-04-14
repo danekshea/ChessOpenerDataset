@@ -1,8 +1,0 @@
-{
-    "tokenid": 1679,
-    "eco": "D28",
-    "name": "QGA: Classical: Flohr Variation",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5 8.Bb3 Nc6 9.Rd1 c4 10.Bc2 Nb4 11.Nc3 Nxc2 12.Qxc2 Bb7 13.d5 Qc7 1/2",
-    "FEN": "r3kb1r/1bq2ppp/p3pn2/1p1P4/2p5/2N1PN2/PPQ2PPP/R1BR2K1 w kq - 1 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1679.svg"
-}

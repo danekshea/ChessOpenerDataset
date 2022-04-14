@@ -1,8 +1,0 @@
-{
-    "tokenid": 191,
-    "eco": "A23",
-    "name": "English: Bremen System: Keres Variation",
-    "pgn": "1.c4 e5 2.Nc3 Nf6 3.g3 c6 1/2",
-    "FEN": "rnbqkb1r/pp1p1ppp/2p2n2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/191.svg"
-}

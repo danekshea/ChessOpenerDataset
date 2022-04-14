@@ -1,8 +1,0 @@
-{
-    "tokenid": 394,
-    "eco": "A65/17",
-    "name": "Benoni (Bd3)",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Bd3 Bg7 8.Nge2 O-O 9.O-O a6 10.a4 Re8 11.h3 Nbd7 12.Ng3 Qc7 13.f4 c4 14.Bc2 1/2",
-    "FEN": "r1b1r1k1/1pqn1pbp/p2p1np1/3P4/P1p1PP2/2N3NP/1PB3P1/R1BQ1RK1 b - - 1 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/394.svg"
-}

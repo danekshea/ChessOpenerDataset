@@ -1,8 +1,0 @@
-{
-    "tokenid": 859,
-    "eco": "B66",
-    "name": "Sicilian: Richter-Rauzer: Rauzer Attack (...a6)",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Nxd4 1/2",
-    "FEN": "r1bqkb1r/1p3ppp/p2ppn2/6B1/3nP3/2N5/PPPQ1PPP/2KR1B1R w kq - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/859.svg"
-}

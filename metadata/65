@@ -1,8 +1,0 @@
-{
-    "tokenid": 65,
-    "eco": "A04",
-    "name": "Reti",
-    "pgn": "1.Nf3 Nc6 1/2",
-    "FEN": "r1bqkbnr/pppppppp/2n5/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/65.svg"
-}

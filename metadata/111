@@ -1,8 +1,0 @@
-{
-    "tokenid": 111,
-    "eco": "A10",
-    "name": "English Opening: 3.e4",
-    "pgn": "1.c4 b6 2.Nc3 e6 3.e4 Bb7 4.g3 f5 5.Bg2 Nf6 1/2",
-    "FEN": "rn1qkb1r/pbpp2pp/1p2pn2/5p2/2P1P3/2N3P1/PP1P1PBP/R1BQK1NR w KQkq - 2 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/111.svg"
-}

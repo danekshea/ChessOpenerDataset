@@ -1,8 +1,0 @@
-{
-    "tokenid": 1872,
-    "eco": "D75",
-    "name": "Neo-Gruenfeld: 7...c5 8.dxc5",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O c5 8.dxc5 1/2",
-    "FEN": "rnbq1rk1/pp2ppbp/6p1/2Pn4/8/5NP1/PP2PPBP/RNBQ1RK1 b - - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1872.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 755,
-    "eco": "B35/07",
-    "name": "Sicilian: Accelerated Fianchetto: Uogele (Sax)",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 a5 9.a4 Ng4 10.Qxg4 Nxd4 11.Qh4 Nxb3 12.cxb3 Bf6 13.Qg3! d6 14.Nd5! 1/2",
-    "FEN": "r1bq1rk1/1p2pp1p/3p1bp1/p2N4/P3P3/1P2B1Q1/1P3PPP/R3K2R b KQ - 1 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/755.svg"
-}

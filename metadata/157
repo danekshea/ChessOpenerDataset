@@ -1,8 +1,0 @@
-{
-    "tokenid": 157,
-    "eco": "A15/01",
-    "name": "English: Neo-Catalan",
-    "pgn": "1.c4 Nf6 2.g3 e6 3.Bg2 d5 1/2",
-    "FEN": "rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/6P1/PP1PPPBP/RNBQK1NR w KQkq d6 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/157.svg"
-}

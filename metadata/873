@@ -1,8 +1,0 @@
-{
-    "tokenid": 873,
-    "eco": "B70/12",
-    "name": "Sicilian: Dragon Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.g3 g6 7.Bg2 Nxd4 8.Qxd4 Bg7 9.O-O O-O 10.h3 Be6 11.Qd1 1/2",
-    "FEN": "r2q1rk1/pp2ppbp/3pbnp1/8/4P3/2N3PP/PPP2PB1/R1BQ1RK1 b - - 2 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/873.svg"
-}

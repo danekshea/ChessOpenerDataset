@@ -1,8 +1,0 @@
-{
-    "tokenid": 1896,
-    "eco": "D85/04",
-    "name": "Gruenfeld: Modern Exchange (Bb5+)",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bb5+ c6 8.Ba4 b5 9.Bb3 b4 10.Be3 bxc3 11.Ne2 1/2",
-    "FEN": "rnbqk2r/p3ppbp/2p3p1/8/3PP3/1Bp1B3/P3NPPP/R2QK2R b KQkq - 1 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1896.svg"
-}

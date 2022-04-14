@@ -1,8 +1,0 @@
-{
-    "tokenid": 1611,
-    "eco": "D10",
-    "name": "QGD: Semi-Slav",
-    "pgn": "1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 1/2",
-    "FEN": "rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N1P3/PP3PPP/R1BQKBNR w KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1611.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 2193,
-    "eco": "E84/11",
-    "name": "King's Indian: Saemisch: Panno Main Line 9.h4",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6 8.Qd2 Rb8 9.h4 h5 10.O-O-O b5 11.Bh6 e5 12.Bxg7 Kxg7 1/2",
-    "FEN": "1rbq1r2/2p2pk1/p1np1np1/1p2p2p/2PPP2P/2N2P2/PP1QN1P1/2KR1B1R w - - 0 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2193.svg"
-}

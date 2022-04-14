@@ -1,8 +1,0 @@
-{
-    "tokenid": 1136,
-    "eco": "C30",
-    "name": "KGD: Mafia Defense",
-    "pgn": "1.e4 e5 2.f4 c5 1/2",
-    "FEN": "rnbqkbnr/pp1p1ppp/8/2p1p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq c6 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1136.svg"
-}

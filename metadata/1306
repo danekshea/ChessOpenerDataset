@@ -1,8 +1,0 @@
-{
-    "tokenid": 1306,
-    "eco": "C46",
-    "name": "Three Knights: Steinitz Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Nc3 g6 1/2",
-    "FEN": "r1bqkbnr/pppp1p1p/2n3p1/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1306.svg"
-}

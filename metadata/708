@@ -1,8 +1,0 @@
-{
-    "tokenid": 708,
-    "eco": "B27/03",
-    "name": "Sicilian: Hungarian Variation",
-    "pgn": "1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Bb5 Nc6 6.Bxc6 dxc6 7.Qxd8+ Kxd8 8.Nc3 1/2",
-    "FEN": "r1bk1b1r/pp2pp1p/2p2np1/8/4P3/2N2N2/PPP2PPP/R1B1K2R b KQ - 1 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/708.svg"
-}

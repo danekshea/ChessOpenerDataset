@@ -1,8 +1,0 @@
-{
-    "tokenid": 224,
-    "eco": "A30",
-    "name": "English: Symmetrical",
-    "pgn": "1.c4 c5 2.Nf3 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/224.svg"
-}

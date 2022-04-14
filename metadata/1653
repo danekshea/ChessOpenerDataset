@@ -1,8 +1,0 @@
-{
-    "tokenid": 1653,
-    "eco": "D20/31",
-    "name": "QGA: 3.e4 e5",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Nc6 6.O-O Be6 7.Bxe6 fxe6 8.Qb3 Qd7 9.Qxb7 Rb8 10.Qa6 Nf6 11.Nbd2 1/2",
-    "FEN": "1r2kb1r/p1pq2pp/Q1n1pn2/8/3pP3/5N2/PP1N1PPP/R1B2RK1 b k - 4 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1653.svg"
-}

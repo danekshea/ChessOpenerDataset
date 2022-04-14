@@ -1,8 +1,0 @@
-{
-    "tokenid": 389,
-    "eco": "A64",
-    "name": "Benoni: Fianchetto (...Re8)",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O 9.O-O Re8 10.Nd2 Nbd7 11.a4 a6 12.a5 Rb8 1/2",
-    "FEN": "1rbqr1k1/1p1n1pbp/p2p1np1/P1pP4/8/2N3P1/1P1NPPBP/R1BQ1RK1 w - - 1 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/389.svg"
-}

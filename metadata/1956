@@ -1,8 +1,0 @@
-{
-    "tokenid": 1956,
-    "eco": "E01",
-    "name": "Catalan: Closed",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 c5 5.Nf3 cxd4 6.O-O Be7 7.Nxd4 O-O 8.cxd5 Nxd5 1/2",
-    "FEN": "rnbq1rk1/pp2bppp/4p3/3n4/3N4/6P1/PP2PPBP/RNBQ1RK1 w - - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1956.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 1728,
-    "eco": "D35",
-    "name": "QGD: Exchange",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Be7 5.Nc3 d5 6.cxd5 exd5 7.Bf4 c6 8.Qc2 1/2",
-    "FEN": "rnbqk2r/pp2bppp/2p2n2/3p4/3P1B2/2N2N2/PPQ1PPPP/R3KB1R b KQkq - 1 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1728.svg"
-}

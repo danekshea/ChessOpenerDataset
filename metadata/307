@@ -1,8 +1,0 @@
-{
-    "tokenid": 307,
-    "eco": "A45",
-    "name": "Queen's Pawn (c3)",
-    "pgn": "1.d4 Nf6 2.c3 g6 3.Nd2 d5 4.Ngf3 1/2",
-    "FEN": "rnbqkb1r/ppp1pp1p/5np1/3p4/3P4/2P2N2/PP1NPPPP/R1BQKB1R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/307.svg"
-}

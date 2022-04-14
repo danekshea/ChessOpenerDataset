@@ -1,8 +1,0 @@
-{
-    "tokenid": 1192,
-    "eco": "C37",
-    "name": "KGA: King's Knight's Gambit",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 1/2",
-    "FEN": "rnbqkbnr/pppp1p1p/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1192.svg"
-}

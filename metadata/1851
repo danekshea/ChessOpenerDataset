@@ -1,8 +1,0 @@
-{
-    "tokenid": 1851,
-    "eco": "D64",
-    "name": "QGD: Orthodox Defense: Rubinstein Attack (with Rc1)",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 1/2",
-    "FEN": "r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/2R1KB1R b K - 1 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1851.svg"
-}

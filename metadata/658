@@ -1,8 +1,0 @@
-{
-    "tokenid": 658,
-    "eco": "B21/05",
-    "name": "Sicilian: Smith-Morra Gambit",
-    "pgn": "1.e4 c5 2.d4 cxd4 3.c3 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/658.svg"
-}

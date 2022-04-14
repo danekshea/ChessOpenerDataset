@@ -1,8 +1,0 @@
-{
-    "tokenid": 2045,
-    "eco": "E25",
-    "name": "Nimzo-Indian: Saemisch: Keres Variation",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.f3 d5 7.cxd5 Nxd5 8.dxc5 1/2",
-    "FEN": "rnbqk2r/pp3ppp/4p3/2Pn4/8/P1P2P2/4P1PP/R1BQKBNR b KQkq - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2045.svg"
-}

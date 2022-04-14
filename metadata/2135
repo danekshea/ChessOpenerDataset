@@ -1,8 +1,0 @@
-{
-    "tokenid": 2135,
-    "eco": "E67",
-    "name": "King's Indian: Fianchetto: Classical Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5 1/2",
-    "FEN": "r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - e6 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2135.svg"
-}

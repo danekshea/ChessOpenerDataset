@@ -1,8 +1,0 @@
-{
-    "tokenid": 1218,
-    "eco": "C39",
-    "name": "KGA: Kieseritsky: Salvio (Rosenthal) Defense",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Qe7 1/2",
-    "FEN": "rnb1kbnr/ppppqp1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 2 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1218.svg"
-}

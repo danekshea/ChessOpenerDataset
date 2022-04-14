@@ -1,8 +1,0 @@
-{
-    "tokenid": 452,
-    "eco": "A90",
-    "name": "Dutch-Indian: Alekhine Variation",
-    "pgn": "1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Bb4+ 5.Bd2 Be7 1/2",
-    "FEN": "rnbqk2r/ppppb1pp/4pn2/5p2/2PP4/6P1/PP1BPPBP/RN1QK1NR w KQkq - 4 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/452.svg"
-}

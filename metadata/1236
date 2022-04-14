@@ -1,8 +1,0 @@
-{
-    "tokenid": 1236,
-    "eco": "C40",
-    "name": "Greco Defense",
-    "pgn": "1.e4 e5 2.Nf3 Qf6 1/2",
-    "FEN": "rnb1kbnr/pppp1ppp/5q2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1236.svg"
-}

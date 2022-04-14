@@ -1,8 +1,0 @@
-{
-    "tokenid": 1205,
-    "eco": "C37",
-    "name": "KGA: Muzio Gambit: Kling and Horwitz Counter-Attack",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O Qe7 1/2",
-    "FEN": "rnb1kbnr/ppppqp1p/8/8/2B1Ppp1/5N2/PPPP2PP/RNBQ1RK1 w kq - 2 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1205.svg"
-}

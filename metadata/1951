@@ -1,8 +1,0 @@
-{
-    "tokenid": 1951,
-    "eco": "E00",
-    "name": "Catalan Opening",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Qe7 1/2",
-    "FEN": "rnb1k2r/ppppqppp/4pn2/8/1bPP4/6P1/PP1BPP1P/RN1QKBNR w KQkq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1951.svg"
-}

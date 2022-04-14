@@ -1,8 +1,0 @@
-{
-    "tokenid": 1016,
-    "eco": "C02",
-    "name": "French: Advance: Steinitz Variation",
-    "pgn": "1.e4 e6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.Nf3 1/2",
-    "FEN": "r1bqkbnr/pp3ppp/2n1p3/2PpP3/8/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1016.svg"
-}

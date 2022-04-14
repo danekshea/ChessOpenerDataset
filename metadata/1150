@@ -1,8 +1,0 @@
-{
-    "tokenid": 1150,
-    "eco": "C31",
-    "name": "KGD: Falkbeer: Morphy Gambit",
-    "pgn": "1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.Nc3 Bb4 6.Bd2 e3 1/2",
-    "FEN": "rnbqk2r/ppp2ppp/5n2/3P4/1b3P2/2NPp3/PPPB2PP/R2QKBNR w KQkq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1150.svg"
-}

@@ -1,8 +1,0 @@
-{
-    "tokenid": 1038,
-    "eco": "C09/02",
-    "name": "French: Tarrasch: Open (Huebner)",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Nc6 6.Ngf3 cxd4 7.Qe2 Qe7 8.Nxd4 Qxe2 9.Kxe2 Bd7 10.N2f3 Nf6 1/2",
-    "FEN": "r3kb1r/pp1b1ppp/2n2n2/1B1p4/3N4/5N2/PPP1KPPP/R1B4R w kq - 3 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1038.svg"
-}

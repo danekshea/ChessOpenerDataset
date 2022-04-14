@@ -1,8 +1,0 @@
-{
-    "tokenid": 288,
-    "eco": "A41",
-    "name": "Modern Defense",
-    "pgn": "1.d4 d6 2.c4 g6 3.Nc3 Bg7 1/2",
-    "FEN": "rnbqk1nr/ppp1ppbp/3p2p1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/288.svg"
-}

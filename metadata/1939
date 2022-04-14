@@ -1,8 +1,0 @@
-{
-    "tokenid": 1939,
-    "eco": "D96",
-    "name": "Gruenfeld: Russian Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 1/2",
-    "FEN": "rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/1QN2N2/PP2PPPP/R1B1KB1R b KQkq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1939.svg"
-}

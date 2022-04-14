@@ -1,8 +1,0 @@
-{
-    "tokenid": 204,
-    "eco": "A26/07",
-    "name": "English: Closed System: (with...f5)",
-    "pgn": "1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 d6 6.d3 f5 7.Rb1 a5 8.a3 Nf6 9.O-O O-O 10.b4 axb4 11.axb4 h6 12.b5 Ne7 13.Bb2 Be6 14.Ra1 Rc8 15.Ra7\n 1/2",
-    "FEN": "2rq1rk1/Rpp1n1b1/3pbnpp/1P2pp2/2P5/2NP1NP1/1B2PPBP/3Q1RK1 b - - 6 15",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/204.svg"
-}
