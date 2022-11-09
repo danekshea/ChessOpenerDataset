@@ -1,8 +1,8 @@
 {
     "tokenid": 1869,
-    "eco": "D73/03",
-    "name": "Neo-Gruenfeld: 5.Nf3 dxc4",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 dxc4 1/2",
-    "FEN": "rnbqk2r/ppp1ppbp/5np1/8/2pP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1869.svg"
+    "eco": "C34",
+    "name": "King's Gambit Accepted: Fischer Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 d6 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1869.svg"
 }

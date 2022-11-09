@@ -1,8 +1,8 @@
 {
     "tokenid": 301,
-    "eco": "A43",
-    "name": "Old Benoni Defense",
-    "pgn": "1.d4 c5 2.d5 Nf6 3.Nf3 1/2",
-    "FEN": "rnbqkb1r/pp1ppppp/5n2/2pP4/8/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/301.svg"
+    "eco": "A13",
+    "name": "English Opening: Agincourt Defense, Catalan Defense",
+    "pgn": "1. Nf3 d5 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O 1/2",
+    "FEN": "rn1qkbnr/pbp2ppp/1p2p3/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1 b kq - 3 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/301.svg"
 }

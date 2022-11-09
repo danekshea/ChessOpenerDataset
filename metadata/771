@@ -1,8 +1,8 @@
 {
     "tokenid": 771,
-    "eco": "B40",
-    "name": "Sicilian-KIA",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d3 Nc6 1/2",
-    "FEN": "r1bqkbnr/pp1p1ppp/2n1p3/2p5/4P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/771.svg"
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Scandinavian Variation, Advance Variation",
+    "pgn": "1. e4 Nc6 2. d4 d5 3. e5 1/2",
+    "FEN": "r1bqkbnr/ppp1pppp/2n5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/771.svg"
 }

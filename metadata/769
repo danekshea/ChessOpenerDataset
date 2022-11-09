@@ -1,8 +1,8 @@
 {
     "tokenid": 769,
-    "eco": "B40/02",
-    "name": "Sicilian Defense",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 d4 5.Bd3 Nc6 6.O-O 1/2",
-    "FEN": "r1bqkbnr/pp3ppp/2n1p3/2p1P3/3p4/2PB1N2/PP1P1PPP/RNBQ1RK1 b kq - 3 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/769.svg"
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Scandinavian Variation",
+    "pgn": "1. e4 Nc6 2. d4 d5 1/2",
+    "FEN": "r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/769.svg"
 }

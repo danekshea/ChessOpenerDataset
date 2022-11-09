@@ -1,8 +1,8 @@
 {
     "tokenid": 1133,
-    "eco": "C29",
-    "name": "Vienna Gambit: Breyer Variation",
-    "pgn": "1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Be7 1/2",
-    "FEN": "rnbqk2r/ppp1bppp/8/3pP3/4n3/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1133.svg"
+    "eco": "B22",
+    "name": "Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line",
+    "pgn": "1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 1/2",
+    "FEN": "rn2kb1r/pp2pppp/5n2/2pq4/3P2b1/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1133.svg"
 }

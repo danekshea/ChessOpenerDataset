@@ -1,8 +1,8 @@
 {
     "tokenid": 355,
-    "eco": "A52",
-    "name": "Budapest: Adler Variation",
-    "pgn": "1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Nf3 1/2",
-    "FEN": "rnbqkb1r/pppp1ppp/8/4P3/2P3n1/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/355.svg"
+    "eco": "A21",
+    "name": "English Opening: King's English Variation, Troger Defense",
+    "pgn": "1. c4 e5 2. Nc3 Nc6 3. g3 d6 4. Bg2 Be6 1/2",
+    "FEN": "r2qkbnr/ppp2ppp/2npb3/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/355.svg"
 }

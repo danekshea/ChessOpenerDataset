@@ -1,8 +1,8 @@
 {
     "tokenid": 1439,
-    "eco": "C67/08",
-    "name": "Ruy Lopez: Open Berlin Defense: 6.Bxc6",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 h6 1/2",
-    "FEN": "r1bk1b1r/ppp2pp1/2p4p/4Pn2/8/2N2N2/PPP2PPP/R1B2RK1 w - - 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1439.svg"
+    "eco": "B98",
+    "name": "Sicilian Defense: Najdorf Variation, Browne Variation",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 h6 9. Bh4 Qc7 1/2",
+    "FEN": "rnb1k2r/1pq1bpp1/p2ppn1p/8/3NPP1B/2N2Q2/PPP3PP/R3KB1R w KQkq - 2 10",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1439.svg"
 }

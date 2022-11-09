@@ -1,8 +1,8 @@
 {
     "tokenid": 1911,
-    "eco": "D90",
-    "name": "Gruenfeld: Schlechter Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 c6 5.cxd5 1/2",
-    "FEN": "rnbqkb1r/pp2pp1p/2p2np1/3P4/3P4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1911.svg"
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Rosentreter Gambit, S\u00f6rensen Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. d4 g4 5. Nc3 1/2",
+    "FEN": "rnbqkbnr/pppp1p1p/8/8/3PPpp1/2N2N2/PPP3PP/R1BQKB1R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1911.svg"
 }

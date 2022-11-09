@@ -1,8 +1,8 @@
 {
     "tokenid": 908,
-    "eco": "B80",
-    "name": "Sicilian: Scheveningen: English Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.Qd2 1/2",
-    "FEN": "rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N1B3/PPPQ1PPP/R3KB1R b KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/908.svg"
+    "eco": "B06",
+    "name": "Modern Defense: Lizard Defense, Mittenberger Gambit",
+    "pgn": "1. e4 g6 2. d4 Bg7 3. Nc3 d5 1/2",
+    "FEN": "rnbqk1nr/ppp1ppbp/6p1/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq d6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/908.svg"
 }

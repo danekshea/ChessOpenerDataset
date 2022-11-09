@@ -1,8 +1,8 @@
 {
     "tokenid": 341,
-    "eco": "A49/08",
-    "name": "King's Indian: Fianchetto (Nc3)",
-    "pgn": "1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 Nbd7 7.e4 e5 8.h3 Re8 9.Re1 1/2",
-    "FEN": "r1bqr1k1/pppn1pbp/3p1np1/4p3/3PP3/2N2NPP/PPP2PB1/R1BQR1K1 b - - 2 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/341.svg"
+    "eco": "A18",
+    "name": "English Opening: Mikenas-Carls Variation",
+    "pgn": "1. c4 Nf6 2. Nc3 e6 3. e4 Nc6 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n1pn2/8/2P1P3/2N5/PP1P1PPP/R1BQKBNR w KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/341.svg"
 }

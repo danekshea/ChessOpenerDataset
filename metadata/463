@@ -1,8 +1,8 @@
 {
     "tokenid": 463,
-    "eco": "A97",
-    "name": "Dutch: Ilyin-Genevsky Variation",
-    "pgn": "1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 1/2",
-    "FEN": "rnb1qrk1/ppp1b1pp/3ppn2/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/463.svg"
+    "eco": "A40",
+    "name": "Queen's Pawn Game: London System, Pterodactyl Variation",
+    "pgn": "1. d4 g6 2. Nf3 Bg7 3. Bf4 c5 4. c3 cxd4 5. cxd4 Qa5+ 1/2",
+    "FEN": "rnb1k1nr/pp1pppbp/6p1/q7/3P1B2/5N2/PP2PPPP/RN1QKB1R w KQkq - 1 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/463.svg"
 }

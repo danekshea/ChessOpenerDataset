@@ -1,8 +1,8 @@
 {
     "tokenid": 284,
-    "eco": "A41",
-    "name": "Queen's Pawn Game",
-    "pgn": "1.d4 d6 1/2",
-    "FEN": "rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/284.svg"
+    "eco": "A10",
+    "name": "English Opening: Zilbermints Gambit",
+    "pgn": "1. c4 g5 2. d4 e5 1/2",
+    "FEN": "rnbqkbnr/pppp1p1p/8/4p1p1/2PP4/8/PP2PPPP/RNBQKBNR w KQkq e6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/284.svg"
 }

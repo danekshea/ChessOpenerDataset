@@ -1,8 +1,8 @@
 {
     "tokenid": 551,
-    "eco": "B07",
-    "name": "Pirc: 150 Attack (4...Bg7)",
-    "pgn": "1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3 Bg7 5.Qd2 Ng4 1/2",
-    "FEN": "rnbqk2r/ppp1ppbp/3p2p1/8/3PP1n1/2N1B3/PPPQ1PPP/R3KBNR w KQkq - 4 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/551.svg"
+    "eco": "A46",
+    "name": "Torre Attack: Classical Defense, Petrosian Gambit",
+    "pgn": "1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 b6 5. d5 1/2",
+    "FEN": "rnbqkb1r/p2p1ppp/1p2pn2/2pP2B1/8/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/551.svg"
 }

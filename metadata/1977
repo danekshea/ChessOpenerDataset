@@ -1,8 +1,8 @@
 {
     "tokenid": 1977,
-    "eco": "E08/01",
-    "name": "Catalan: Closed: Modern Line (Bb4+)",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Be7 5.Bg2 d5 6.Nf3 O-O 7.O-O c6 8.Qc2 b6 9.Bf4 Bb7 10.Nbd2 Nbd7 1/2",
-    "FEN": "r2q1rk1/pb1nbppp/1pp1pn2/3p4/2PP1B2/5NP1/PPQNPPBP/R4RK1 w - - 4 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1977.svg"
+    "eco": "C40",
+    "name": "Latvian Gambit Accepted: Bronstein Gambit",
+    "pgn": "1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Qh5+ g6 7. Qe2 1/2",
+    "FEN": "rnb1kbnr/ppp4p/3p1qp1/8/2NPp3/8/PPP1QPPP/RNB1KB1R b KQkq - 1 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1977.svg"
 }

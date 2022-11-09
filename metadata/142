@@ -1,8 +1,8 @@
 {
     "tokenid": 142,
-    "eco": "A13",
-    "name": "English",
-    "pgn": "1.c4 e6 2.Nc3 1/2",
-    "FEN": "rnbqkbnr/pppp1ppp/4p3/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/142.svg"
+    "eco": "A00",
+    "name": "Ware Opening",
+    "pgn": "1. a4 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq a3 0 1",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/142.svg"
 }

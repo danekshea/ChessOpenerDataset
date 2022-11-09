@@ -1,8 +1,8 @@
 {
     "tokenid": 792,
-    "eco": "B44",
-    "name": "Sicilian: Szen Variation: Dely-Kasparov Gambit",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 d5 1/2",
-    "FEN": "r1bqkb1r/1p3ppp/p1n1pn2/3p4/2P1P3/N1N5/PP3PPP/R1BQKB1R w KQkq - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/792.svg"
+    "eco": "B00",
+    "name": "Pirc Defense",
+    "pgn": "1. e4 d6 2. d4 1/2",
+    "FEN": "rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/792.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1461,
-    "eco": "C74",
-    "name": "Ruy Lopez: Siesta: Kopayev Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 f5 6.exf5 Bxf5 7.O-O 1/2",
-    "FEN": "r2qkbnr/1pp3pp/p1np4/4pb2/B7/2P2N2/PP1P1PPP/RNBQ1RK1 b kq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1461.svg"
+    "eco": "C00",
+    "name": "French Defense: La Bourdonnais Variation, Reuter Gambit",
+    "pgn": "1. e4 e6 2. f4 d5 3. Nf3 dxe4 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/4p3/8/4pP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1461.svg"
 }

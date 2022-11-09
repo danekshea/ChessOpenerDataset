@@ -1,8 +1,8 @@
 {
     "tokenid": 1006,
-    "eco": "C01/01",
-    "name": "French: Exchange: Blackburne Variation",
-    "pgn": "1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Be6 5.Nbd2 1/2",
-    "FEN": "rn1qkbnr/ppp2ppp/4b3/3p4/3P4/5N2/PPPN1PPP/R1BQKB1R b KQkq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1006.svg"
+    "eco": "B12",
+    "name": "Caro-Kann Defense",
+    "pgn": "1. e4 c6 2. d4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1006.svg"
 }

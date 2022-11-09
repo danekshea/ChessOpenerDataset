@@ -1,8 +1,8 @@
 {
     "tokenid": 374,
-    "eco": "A57",
-    "name": "Benko Gambit: Nescafe Frappe Attack",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.Nc3 axb5 6.e4 b4 7.Nb5 d6 8.Bc4 1/2",
-    "FEN": "rnbqkb1r/4pppp/3p1n2/1NpP4/1pB1P3/8/PP3PPP/R1BQK1NR b KQkq - 1 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/374.svg"
+    "eco": "A27",
+    "name": "English Opening: King's English Variation, Three Knights System",
+    "pgn": "1. c4 e5 2. Nc3 Nc6 3. Nf3 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/374.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1932,
-    "eco": "D94",
-    "name": "Gruenfeld: Smyslov Defense",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd3 c6 7.O-O Bg4 1/2",
-    "FEN": "rn1q1rk1/pp2ppbp/2p2np1/3p4/2PP2b1/2NBPN2/PP3PPP/R1BQ1RK1 w - - 2 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1932.svg"
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Allgaier, Horny Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. Qxg4 Nf6 8. Qxf4 Bd6 1/2",
+    "FEN": "rnbq3r/pppp1k2/3b1n1p/8/4PQ1P/8/PPPP2P1/RNB1KB1R w KQ - 1 9",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1932.svg"
 }

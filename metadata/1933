@@ -1,8 +1,8 @@
 {
     "tokenid": 1933,
-    "eco": "D94/18",
-    "name": "Gruenfeld (with e3 Be2...c5)",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Be2 c5 7.O-O cxd4 8.exd4 Nc6 9.h3 1/2",
-    "FEN": "r1bq1rk1/pp2ppbp/2n2np1/3p4/2PP4/2N2N1P/PP2BPP1/R1BQ1RK1 b - - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1933.svg"
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Allgaier, Schlechter Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 Nf6 1/2",
+    "FEN": "rnbqkb1r/pppp1p1p/5n2/6N1/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 2 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1933.svg"
 }

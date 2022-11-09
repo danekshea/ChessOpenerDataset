@@ -1,8 +1,8 @@
 {
     "tokenid": 279,
-    "eco": "A40",
-    "name": "Queen's Pawn: Lundin (Kevitz-Mikenas) Defense",
-    "pgn": "1.d4 Nc6 1/2",
-    "FEN": "r1bqkbnr/pppppppp/2n5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/279.svg"
+    "eco": "A10",
+    "name": "English Opening: Jaenisch Gambit",
+    "pgn": "1. c4 b5 1/2",
+    "FEN": "rnbqkbnr/p1pppppp/8/1p6/2P5/8/PP1PPPPP/RNBQKBNR w KQkq b6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/279.svg"
 }

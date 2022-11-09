@@ -1,8 +1,8 @@
 {
     "tokenid": 1726,
-    "eco": "D35",
-    "name": "QGD: Exchange Variation",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Be7 4.cxd5 exd5 5.Bf4 Nf6 1/2",
-    "FEN": "rnbqk2r/ppp1bppp/5n2/3p4/3P1B2/2N5/PP2PPPP/R2QKBNR w KQkq - 2 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1726.svg"
+    "eco": "C25",
+    "name": "Vienna Game: Vienna Gambit, Hamppe-Muzio Gambit",
+    "pgn": "1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. Bc4 g4 6. O-O gxf3 1/2",
+    "FEN": "r1bqkbnr/pppp1p1p/2n5/8/2B1Pp2/2N2p2/PPPP2PP/R1BQ1RK1 w kq - 0 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1726.svg"
 }

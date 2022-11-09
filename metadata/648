@@ -1,8 +1,8 @@
 {
     "tokenid": 648,
-    "eco": "B20",
-    "name": "Sicilian: Wing Gambit: Marienbad Variation",
-    "pgn": "1.e4 c5 2.b4 cxb4 3.a3 d5 4.exd5 Qxd5 5.Bb2 1/2",
-    "FEN": "rnb1kbnr/pp2pppp/8/3q4/1p6/P7/1BPP1PPP/RN1QKBNR b KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/648.svg"
+    "eco": "A75",
+    "name": "Benoni Defense: Classical Variation, Argentine Counterattack",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2 O-O 9. O-O a6 10. a4 Bg4 1/2",
+    "FEN": "rn1q1rk1/1p3pbp/p2p1np1/2pP4/P3P1b1/2N2N2/1P2BPPP/R1BQ1RK1 w - - 1 11",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/648.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1658,
-    "eco": "D23",
-    "name": "Queen's Gambit Accepted",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 1/2",
-    "FEN": "rnbqkb1r/ppp1pppp/5n2/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1658.svg"
+    "eco": "C21",
+    "name": "Danish Gambit",
+    "pgn": "1. e4 e5 2. d4 exd4 3. c3 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1658.svg"
 }

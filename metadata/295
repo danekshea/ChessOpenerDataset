@@ -1,8 +1,8 @@
 {
     "tokenid": 295,
-    "eco": "A43",
-    "name": "Old Benoni Defense",
-    "pgn": "1.d4 c5 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq c6 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/295.svg"
+    "eco": "A12",
+    "name": "R\u00e9ti Opening: Anglo-Slav Variation, New York System",
+    "pgn": "1. Nf3 Nf6 2. c4 c6 3. b3 d5 4. Bb2 Bf5 1/2",
+    "FEN": "rn1qkb1r/pp2pppp/2p2n2/3p1b2/2P5/1P3N2/PB1PPPPP/RN1QKB1R w KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/295.svg"
 }

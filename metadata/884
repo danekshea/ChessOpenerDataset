@@ -1,8 +1,8 @@
 {
     "tokenid": 884,
-    "eco": "B73",
-    "name": "Sicilian: Dragon, Classical: 8.O-O",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O 1/2",
-    "FEN": "r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPP1BPPP/R2Q1RK1 b kq - 5 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/884.svg"
+    "eco": "B03",
+    "name": "Alekhine Defense: Four Pawns Attack, Trifunovic Variation",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 Bf5 1/2",
+    "FEN": "rn1qkb1r/ppp1pppp/1n1p4/4Pb2/2PP1P2/8/PP4PP/RNBQKBNR w KQkq - 1 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/884.svg"
 }

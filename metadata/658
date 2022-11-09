@@ -1,8 +1,8 @@
 {
     "tokenid": 658,
-    "eco": "B21/05",
-    "name": "Sicilian: Smith-Morra Gambit",
-    "pgn": "1.e4 c5 2.d4 cxd4 3.c3 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/658.svg"
+    "eco": "A80",
+    "name": "Dutch Defense: Janzen-Korchnoi Gambit",
+    "pgn": "1. d4 f5 2. h3 Nf6 3. g4 1/2",
+    "FEN": "rnbqkb1r/ppppp1pp/5n2/5p2/3P2P1/7P/PPP1PP2/RNBQKBNR b KQkq g3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/658.svg"
 }

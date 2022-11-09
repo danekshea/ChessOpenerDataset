@@ -1,8 +1,8 @@
 {
     "tokenid": 2040,
-    "eco": "E22",
-    "name": "Nimzo-Indian: Spielmann Variation",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Bxc5 6.Nf3 1/2",
-    "FEN": "rnbqk2r/pp1p1ppp/4pn2/2b5/2P5/1QN2N2/PP2PPPP/R1B1KB1R b KQkq - 1 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2040.svg"
+    "eco": "C41",
+    "name": "Philidor Defense: Philidor Gambit",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Bd7 1/2",
+    "FEN": "rn1qkbnr/pppb1ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2040.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1305,
-    "eco": "C46",
-    "name": "Three Knights Game",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Nc3 1/2",
-    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1305.svg"
+    "eco": "B51",
+    "name": "Sicilian Defense: Canal Attack, Dorfman Gambit",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Qe2 g6 6. e5 1/2",
+    "FEN": "r2qkbnr/pp1bpp1p/2np2p1/1Bp1P3/8/5N2/PPPPQPPP/RNB2RK1 b kq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1305.svg"
 }

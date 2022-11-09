@@ -1,8 +1,8 @@
 {
     "tokenid": 1312,
-    "eco": "C47",
-    "name": "Four Knights: Scotch Variation: 4...d6",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 d6 1/2",
-    "FEN": "r1bqkb1r/ppp2ppp/2np1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1312.svg"
+    "eco": "B53",
+    "name": "Sicilian Defense: Chekhover Variation, Zaitsev Defense",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Qd7 1/2",
+    "FEN": "r1b1kbnr/pp1qpppp/2np4/1B6/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq - 3 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1312.svg"
 }

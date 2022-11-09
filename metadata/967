@@ -1,8 +1,8 @@
 {
     "tokenid": 967,
-    "eco": "B92/21",
-    "name": "Sicilian: Najdorf: Opovcensky, Main Line",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Be3 Be6 10.Qd2 Nbd7 11.a4 Rc8 12.a5 Qc7 13.Rfd1 Rfe8 14.f3 1/2",
-    "FEN": "2r1r1k1/1pqnbppp/p2pbn2/P3p3/4P3/1NN1BP2/1PPQB1PP/R2R2K1 b - - 0 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/967.svg"
+    "eco": "B08",
+    "name": "Pirc Defense: Classical Variation, Quiet System, Chigorin Line",
+    "pgn": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Nc6 1/2",
+    "FEN": "r1bq1rk1/ppp1ppbp/2np1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQ1RK1 w - - 6 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/967.svg"
 }

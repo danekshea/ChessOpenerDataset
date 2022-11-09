@@ -1,8 +1,8 @@
 {
     "tokenid": 195,
-    "eco": "A25",
-    "name": "English: Sicilian Reversed",
-    "pgn": "1.c4 e5 2.Nc3 Nc6 1/2",
-    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/195.svg"
+    "eco": "A04",
+    "name": "Zukertort Opening",
+    "pgn": "1. Nf3 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/195.svg"
 }

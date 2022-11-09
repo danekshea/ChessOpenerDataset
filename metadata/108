@@ -1,8 +1,8 @@
 {
     "tokenid": 108,
-    "eco": "A09",
-    "name": "Reti Accepted",
-    "pgn": "1.Nf3 d5 2.c4 dxc4 1/2",
-    "FEN": "rnbqkbnr/ppp1pppp/8/8/2p5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/108.svg"
+    "eco": "A00",
+    "name": "Van Geet Opening: Caro-Kann Variation, St. Patrick's Attack",
+    "pgn": "1. Nc3 d5 2. e4 c6 3. h3 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N4P/PPPP1PP1/R1BQKBNR b KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/108.svg"
 }

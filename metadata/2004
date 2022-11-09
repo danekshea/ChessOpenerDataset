@@ -1,8 +1,8 @@
 {
     "tokenid": 2004,
-    "eco": "E13",
-    "name": "Queen's Indian: Main Line",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5 h6 6.Bh4 Bb4 1/2",
-    "FEN": "rn1qk2r/pbpp1pp1/1p2pn1p/8/1bPP3B/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2004.svg"
+    "eco": "C41",
+    "name": "Philidor Defense: Bird Gambit",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 exd4 4. c3 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/3p4/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2004.svg"
 }

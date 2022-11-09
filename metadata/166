@@ -1,8 +1,8 @@
 {
     "tokenid": 166,
-    "eco": "A16",
-    "name": "English: Anglo-Gruenfeld Defense: 3...d5",
-    "pgn": "1.c4 Nf6 2.Nf3 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qa4+ Bd7 6.Qh4 Nxc3 7.dxc3 Nc6 8.e4 e5 9.Bg5 Be7 10.Bc4 h6 11.Bxe7 1/2",
-    "FEN": "r2qk2r/pppbBp2/2n3pp/4p3/2B1P2Q/2P2N2/PP3PPP/R3K2R b KQkq - 0 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/166.svg"
+    "eco": "A02",
+    "name": "Bird Opening: From's Gambit",
+    "pgn": "1. f4 e5 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/5P2/8/PPPPP1PP/RNBQKBNR w KQkq e6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/166.svg"
 }

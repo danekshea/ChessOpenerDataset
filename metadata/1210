@@ -1,8 +1,8 @@
 {
     "tokenid": 1210,
-    "eco": "C38",
-    "name": "KGA: Hanstein Gambit",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.O-O 1/2",
-    "FEN": "rnbqk1nr/pppp1pbp/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQ1RK1 b kq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1210.svg"
+    "eco": "B30",
+    "name": "Sicilian Defense: Rossolimo Variation, Brooklyn Retreat Defense",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. Bb5 Nb8 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1210.svg"
 }

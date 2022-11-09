@@ -1,8 +1,8 @@
 {
     "tokenid": 2159,
-    "eco": "E75",
-    "name": "King's Indian: Averbakh: Main Line",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5 7.d5 e6 1/2",
-    "FEN": "rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR w KQ - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2159.svg"
+    "eco": "C45",
+    "name": "Scotch Game: Horwitz Attack, McDonnell Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bb4+ 6. Bd2 Qxe4+ 7. Be2 Kd8 8. O-O Bxd2 9. Nxd2 Qf4 10. a4 1/2",
+    "FEN": "r1bk2nr/pppp1ppp/2n5/1N6/P4q2/8/1PPNBPPP/R2Q1RK1 b - a3 0 10",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2159.svg"
 }

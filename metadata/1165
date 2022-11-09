@@ -1,8 +1,8 @@
 {
     "tokenid": 1165,
-    "eco": "C33",
-    "name": "KGA: Bishop's Gambit: Steinitz Defense",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Bc4 Ne7 1/2",
-    "FEN": "rnbqkb1r/ppppnppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1165.svg"
+    "eco": "B27",
+    "name": "Pterodactyl Defense: Western, Rhamphorhynchus",
+    "pgn": "1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. dxc5 Qa5+ 1/2",
+    "FEN": "rnb1k1nr/pp1pppbp/6p1/q1P5/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1165.svg"
 }

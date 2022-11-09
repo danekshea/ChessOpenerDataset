@@ -1,8 +1,8 @@
 {
     "tokenid": 953,
-    "eco": "B88",
-    "name": "Sicilian: Sozin: Leonhardt Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 Nc6 1/2",
-    "FEN": "r1bqkb1r/pp3ppp/2nppn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 2 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/953.svg"
+    "eco": "B07",
+    "name": "Pirc Defense",
+    "pgn": "1. e4 d6 2. d4 Nf6 3. Nc3 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/953.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 181,
-    "eco": "A21",
-    "name": "English: Troeger Defense",
-    "pgn": "1.c4 e5 2.Nc3 d6 3.g3 Be6 4.Bg2 Nc6 1/2",
-    "FEN": "r2qkbnr/ppp2ppp/2npb3/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/181.svg"
+    "eco": "A02",
+    "name": "Bird Opening: Wagner-Zwitersch Gambit",
+    "pgn": "1. f4 f5 2. e4 1/2",
+    "FEN": "rnbqkbnr/ppppp1pp/8/5p2/4PP2/8/PPPP2PP/RNBQKBNR b KQkq e3 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/181.svg"
 }

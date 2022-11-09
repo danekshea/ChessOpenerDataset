@@ -1,8 +1,8 @@
 {
     "tokenid": 2221,
-    "eco": "E94/04",
-    "name": "King's Indian: Orthodox: 7...exd4",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O exd4 8.Nxd4 Re8 9.f3 c6 10.Be3 1/2",
-    "FEN": "rnbqr1k1/pp3pbp/2pp1np1/8/2PNP3/2N1BP2/PP2B1PP/R2Q1RK1 b - - 1 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2221.svg"
+    "eco": "C49",
+    "name": "Four Knights Game: Symmetrical, Blake Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Ne7 8. Nh4 c6 9. Bc4 d5 10. Bb3 Qd6 1/2",
+    "FEN": "r1b2rk1/pp2nppp/2pq1n2/3pp1B1/1b2P2N/1BNP4/PPP2PPP/R2Q1RK1 w - - 2 11",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2221.svg"
 }

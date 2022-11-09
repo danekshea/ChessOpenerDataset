@@ -1,8 +1,8 @@
 {
     "tokenid": 593,
-    "eco": "B11",
-    "name": "Caro-Kann: Two Knights: 3...Bg4",
-    "pgn": "1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 1/2",
-    "FEN": "rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/593.svg"
+    "eco": "A54",
+    "name": "Old Indian Defense: Ukrainian Variation",
+    "pgn": "1. d4 Nf6 2. c4 d6 3. Nc3 e5 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/3p1n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq e6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/593.svg"
 }

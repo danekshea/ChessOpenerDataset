@@ -1,8 +1,8 @@
 {
     "tokenid": 826,
-    "eco": "B53",
-    "name": "Sicilian: Chekhover: Zaitsev Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Qd7 1/2",
-    "FEN": "r1b1kbnr/pp1qpppp/2np4/1B6/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq - 3 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/826.svg"
+    "eco": "B01",
+    "name": "Scandinavian Defense: Main Line, Leonhardt Gambit",
+    "pgn": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. b4 1/2",
+    "FEN": "rnb1kbnr/ppp1pppp/8/q7/1P6/2N5/P1PP1PPP/R1BQKBNR b KQkq b3 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/826.svg"
 }

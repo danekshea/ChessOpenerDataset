@@ -1,8 +1,8 @@
 {
     "tokenid": 1512,
-    "eco": "C88",
-    "name": "Ruy Lopez: Closed: Balla Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 Na5 9.Bc2 c5 10.d4 Qc7 11.a4 1/2",
-    "FEN": "r1b1k2r/2q1bppp/p2p1n2/npp1p3/P2PP3/2P2N2/1PB2PPP/RNBQR1K1 b kq a3 0 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1512.svg"
+    "eco": "C05",
+    "name": "French Defense: Tarrasch Variation, Botvinnik Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6 1/2",
+    "FEN": "rnbqkb1r/p2n1ppp/1p2p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR w KQkq - 0 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1512.svg"
 }

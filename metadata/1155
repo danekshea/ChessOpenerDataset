@@ -1,8 +1,8 @@
 {
     "tokenid": 1155,
-    "eco": "C32",
-    "name": "KGD: Falkbeer: Main Line 7...Bf5",
-    "pgn": "1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Nf3 Bc5 7.Qe2 Bf5 1/2",
-    "FEN": "rn1qk2r/ppp2ppp/8/2bP1b2/4nP2/5N2/PPP1Q1PP/RNB1KB1R w KQkq - 4 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1155.svg"
+    "eco": "B25",
+    "name": "Sicilian Defense: Closed, Botvinnik Defense",
+    "pgn": "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e5 1/2",
+    "FEN": "r1bqk1nr/pp3pbp/2np2p1/2p1p3/4P3/2NP2P1/PPP1NPBP/R1BQK2R w KQkq e6 0 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1155.svg"
 }

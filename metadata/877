@@ -1,8 +1,8 @@
 {
     "tokenid": 877,
-    "eco": "B71",
-    "name": "Sicilian: Dragon: Levenfish Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.f4 1/2",
-    "FEN": "rnbqkb1r/pp2pp1p/3p1np1/8/3NPP2/2N5/PPP3PP/R1BQKB1R b KQkq f3 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/877.svg"
+    "eco": "B03",
+    "name": "Alekhine Defense: Four Pawns Attack",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP1P2/8/PP4PP/RNBQKBNR b KQkq f3 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/877.svg"
 }

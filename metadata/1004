@@ -1,8 +1,8 @@
 {
     "tokenid": 1004,
-    "eco": "C00",
-    "name": "French: Chigorin Variation",
-    "pgn": "1.e4 e6 2.Qe2 1/2",
-    "FEN": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPPQPPP/RNB1KBNR b KQkq - 1 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1004.svg"
+    "eco": "B11",
+    "name": "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line",
+    "pgn": "1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 1/2",
+    "FEN": "rn1qkbnr/pp2pppp/2p5/3p4/4P3/2N2b1P/PPPP1PP1/R1BQKB1R w KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1004.svg"
 }

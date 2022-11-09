@@ -1,8 +1,8 @@
 {
     "tokenid": 1908,
-    "eco": "D89",
-    "name": "Gruenfeld: Spassky Variation: Main Line 13.Bd3",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3 Be6 1/2",
-    "FEN": "r2q1rk1/pp2ppbp/4b1p1/n7/3PP3/3BBP2/P3N1PP/R2Q1RK1 w - - 3 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1908.svg"
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Quade Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3 1/2",
+    "FEN": "rnbqkbnr/pppp1p1p/8/6p1/4Pp2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1908.svg"
 }

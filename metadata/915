@@ -1,8 +1,8 @@
 {
     "tokenid": 915,
-    "eco": "B81/32",
-    "name": "Sicilian: Scheveningen: Keres Attack",
-    "pgn": "1.d4 e6 2.Nf3 c5 3.e4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.g5 1/2",
-    "FEN": "rnbqkb1r/pp3pp1/3ppn1p/6P1/3NP3/2N5/PPP2P1P/R1BQKB1R b KQkq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/915.svg"
+    "eco": "B06",
+    "name": "Modern Defense: Pseudo-Austrian Attack",
+    "pgn": "1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 1/2",
+    "FEN": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq f3 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/915.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1928,
-    "eco": "D94",
-    "name": "Gruenfeld: Makogonov Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.b4 1/2",
-    "FEN": "rnbq1rk1/ppp1ppbp/5np1/3p4/1PPP4/2N1PN2/P4PPP/R1BQKB1R b KQ b3 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1928.svg"
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Allgaier Gambit, Thorold Attack",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. d4 1/2",
+    "FEN": "rnbq1bnr/pppp1k2/7p/8/3PPppP/8/PPP3P1/RNBQKB1R b KQ d3 0 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1928.svg"
 }

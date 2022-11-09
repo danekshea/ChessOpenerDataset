@@ -1,8 +1,8 @@
 {
     "tokenid": 1904,
-    "eco": "D87",
-    "name": "Gruenfeld: Exchange: Spassky Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 1/2",
-    "FEN": "rnbq1rk1/pp2ppbp/6p1/2p5/2BPP3/2P5/P3NPPP/R1BQK2R w KQ c6 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1904.svg"
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Muzio Gambit, Holloway Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Nc6 1/2",
+    "FEN": "r1bqkbnr/pppp1p1p/2n5/8/2B1Pp2/5Q2/PPPP2PP/RNB2RK1 w kq - 1 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1904.svg"
 }

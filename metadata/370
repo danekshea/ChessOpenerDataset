@@ -1,8 +1,8 @@
 {
     "tokenid": 370,
-    "eco": "A56",
-    "name": "Czech Benoni: King's Indian System",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 e5 4.Nc3 d6 5.e4 g6 1/2",
-    "FEN": "rnbqkb1r/pp3p1p/3p1np1/2pPp3/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/370.svg"
+    "eco": "A25",
+    "name": "English Opening: King's English Variation, Reversed Closed Sicilian",
+    "pgn": "1. c4 e5 2. Nc3 Nc6 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/370.svg"
 }

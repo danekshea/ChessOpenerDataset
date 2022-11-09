@@ -1,8 +1,8 @@
 {
     "tokenid": 1743,
-    "eco": "D39/09",
-    "name": "QGD: Ragozin: Vienna Variation, Main Line",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 dxc4 5.e4 Bb4 6.Bg5 c5 7.Bxc4 cxd4 8.Nxd4 Bxc3+ 9.bxc3 Qa5 10.Nb5 a6 11.Nd6+ Ke7 12.Qd2 1/2",
-    "FEN": "rnb4r/1p2kppp/p2Npn2/q5B1/2B1P3/2P5/P2Q1PPP/R3K2R b KQ - 3 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1743.svg"
+    "eco": "C26",
+    "name": "Vienna Game: Paulsen Variation, Pollock Gambit",
+    "pgn": "1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 d5 6. exd5 1/2",
+    "FEN": "r1bqk2r/ppp2ppp/2n2n2/2bPp3/8/2N3P1/PPPPNPBP/R1BQK2R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1743.svg"
 }

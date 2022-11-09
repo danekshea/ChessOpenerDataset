@@ -1,8 +1,8 @@
 {
     "tokenid": 1744,
-    "eco": "D40",
-    "name": "QGD: Semi-Tarrasch Defense",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 1/2",
-    "FEN": "rnbqkb1r/pp3ppp/4pn2/2pp4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq c6 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1744.svg"
+    "eco": "C26",
+    "name": "Vienna Game: Stanley Variation",
+    "pgn": "1. e4 e5 2. Nc3 Nf6 3. Bc4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1744.svg"
 }

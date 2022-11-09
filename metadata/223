@@ -1,8 +1,8 @@
 {
     "tokenid": 223,
-    "eco": "A30",
-    "name": "English: Symmetrical Variation",
-    "pgn": "1.c4 c5 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR w KQkq c6 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/223.svg"
+    "eco": "A05",
+    "name": "King's Indian Attack: Symmetrical Defense",
+    "pgn": "1. Nf3 Nf6 2. g3 g6 1/2",
+    "FEN": "rnbqkb1r/pppppp1p/5np1/8/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/223.svg"
 }

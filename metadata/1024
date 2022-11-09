@@ -1,8 +1,8 @@
 {
     "tokenid": 1024,
-    "eco": "C05",
-    "name": "French: Tarrasch: Closed Variation",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nd2 Nf6 1/2",
-    "FEN": "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1024.svg"
+    "eco": "B12",
+    "name": "Caro-Kann Defense: Masi Variation",
+    "pgn": "1. e4 c6 2. d4 Nf6 1/2",
+    "FEN": "rnbqkb1r/pp1ppppp/2p2n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1024.svg"
 }

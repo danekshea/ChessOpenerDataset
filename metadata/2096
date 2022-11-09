@@ -1,8 +1,8 @@
 {
     "tokenid": 2096,
-    "eco": "E53",
-    "name": "Nimzo-Indian: 4.e3: Main Line (with...c5)",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 1/2",
-    "FEN": "rnbq1rk1/pp3ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQK2R w KQ c6 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2096.svg"
+    "eco": "C44",
+    "name": "King's Knight Opening: Normal Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2096.svg"
 }

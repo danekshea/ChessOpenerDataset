@@ -1,8 +1,8 @@
 {
     "tokenid": 1867,
-    "eco": "D72",
-    "name": "Neo-Gruenfeld: 5.cxd5, Main Line",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.cxd5 Nxd5 6.e4 Nb6 7.Ne2 1/2",
-    "FEN": "rnbqk2r/ppp1ppbp/1n4p1/8/3PP3/6P1/PP2NPBP/RNBQK2R b KQkq - 2 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1867.svg"
+    "eco": "C34",
+    "name": "King's Gambit Accepted: Becker Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 h6 1/2",
+    "FEN": "rnbqkbnr/pppp1pp1/7p/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1867.svg"
 }

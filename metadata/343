@@ -1,8 +1,8 @@
 {
     "tokenid": 343,
-    "eco": "A50",
-    "name": "Queen's Pawn Game",
-    "pgn": "1.d4 Nf6 2.c4 1/2",
-    "FEN": "rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/343.svg"
+    "eco": "A19",
+    "name": "English Opening: Anglo-Indian Defense, Flohr-Mikenas-Carls Variation, Nei Gambit",
+    "pgn": "1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 1/2",
+    "FEN": "rnbqkbnr/pp1p1ppp/4p3/2p1P3/2P5/2N5/PP1P1PPP/R1BQKBNR w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/343.svg"
 }

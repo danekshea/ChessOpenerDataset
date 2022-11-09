@@ -1,8 +1,8 @@
 {
     "tokenid": 1697,
-    "eco": "D31",
-    "name": "QGD: Semi-Slav",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Bd6 1/2",
-    "FEN": "rnbqk1nr/pp3ppp/2pbp3/3p4/2PP4/2N1P3/PP3PPP/R1BQKBNR w KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1697.svg"
+    "eco": "C24",
+    "name": "Bishop's Opening: Berlin Defense",
+    "pgn": "1. e4 e5 2. Bc4 Nf6 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1697.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1979,
-    "eco": "E09",
-    "name": "Catalan: Closed: Main Line",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O Nbd7 7.Qc2 c6 8.Nbd2 1/2",
-    "FEN": "r1bq1rk1/pp1nbppp/2p1pn2/3p4/2PP4/5NP1/PPQNPPBP/R1B2RK1 b - - 1 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1979.svg"
+    "eco": "C40",
+    "name": "Latvian Gambit Accepted: Foltys-Leonhardt Variation",
+    "pgn": "1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 1/2",
+    "FEN": "rnb1kbnr/pppp2pp/5q2/5p2/2N1P3/8/PPPP1PPP/RNBQKB1R b KQkq - 2 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1979.svg"
 }

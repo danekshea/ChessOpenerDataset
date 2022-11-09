@@ -1,8 +1,8 @@
 {
     "tokenid": 2003,
-    "eco": "E12",
-    "name": "Queen's Indian: 4.Nc3: Botvinnik Variation",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5 h6 6.Bh4 g5 7.Bg3 Nh5 1/2",
-    "FEN": "rn1qkb1r/pbpp1p2/1p2p2p/6pn/2PP4/2N2NB1/PP2PPPP/R2QKB1R w KQkq - 2 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2003.svg"
+    "eco": "C41",
+    "name": "Philidor Defense: Berger Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Be2 O-O 7. O-O c5 8. Nf3 Nc6 9. Bg5 Be6 10. Re1 1/2",
+    "FEN": "r2q1rk1/pp2bppp/2npbn2/2p3B1/4P3/2N2N2/PPP1BPPP/R2QR1K1 b - - 5 10",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2003.svg"
 }

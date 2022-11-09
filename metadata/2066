@@ -1,8 +1,8 @@
 {
     "tokenid": 2066,
-    "eco": "E38",
-    "name": "Nimzo-Indian: Classical: 4...c5",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 1/2",
-    "FEN": "rnbqk2r/pp1p1ppp/4pn2/2P5/1bP5/2N5/PPQ1PPPP/R1B1KBNR b KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2066.svg"
+    "eco": "C42",
+    "name": "Russian Game: Cozio Attack",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPPQPPP/RNB1KB1R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2066.svg"
 }

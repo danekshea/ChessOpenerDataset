@@ -1,8 +1,8 @@
 {
     "tokenid": 2148,
-    "eco": "E70/09",
-    "name": "King's Indian: Kramer System: 6.Ng3",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2 O-O 6.Ng3 e5 7.d5 c6 8.Be2 cxd5 9.cxd5 a6 1/2",
-    "FEN": "rnbq1rk1/1p3pbp/p2p1np1/3Pp3/4P3/2N3N1/PP2BPPP/R1BQK2R w KQ - 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2148.svg"
+    "eco": "C45",
+    "name": "Scotch Game: Blumenfeld Attack",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. Nb5 1/2",
+    "FEN": "r1b1k1nr/pppp1ppp/2n2q2/1Nb5/4P3/4B3/PPP2PPP/RN1QKB1R b KQkq - 4 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2148.svg"
 }

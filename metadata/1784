@@ -1,8 +1,8 @@
 {
     "tokenid": 1784,
-    "eco": "D47",
-    "name": "QGD: Semi-Slav: 7.Bc4",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 1/2",
-    "FEN": "r1bqkb1r/pp1n1ppp/2p1pn2/8/2BP4/2N1PN2/PP3PPP/R1BQK2R b KQkq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1784.svg"
+    "eco": "C30",
+    "name": "King's Gambit Declined: Norwalde Variation, B\u00fccker Gambit",
+    "pgn": "1. e4 e5 2. f4 Qf6 3. Nc3 Qxf4 4. Nf3 Bb4 5. Bc4 1/2",
+    "FEN": "rnb1k1nr/pppp1ppp/8/4p3/1bB1Pq2/2N2N2/PPPP2PP/R1BQK2R b KQkq - 3 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1784.svg"
 }

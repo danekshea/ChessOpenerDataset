@@ -1,8 +1,8 @@
 {
     "tokenid": 494,
-    "eco": "B01",
-    "name": "Scandinavian: Pytel-Wade Variation",
-    "pgn": "1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 1/2",
-    "FEN": "rnb1kbnr/ppp1pppp/3q4/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/494.svg"
+    "eco": "A43",
+    "name": "Benoni Defense: Old Benoni, Mujannah Formation",
+    "pgn": "1. d4 c5 2. d5 f5 1/2",
+    "FEN": "rnbqkbnr/pp1pp1pp/8/2pP1p2/8/8/PPP1PPPP/RNBQKBNR w KQkq f6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/494.svg"
 }

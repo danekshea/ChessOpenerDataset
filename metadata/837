@@ -1,8 +1,8 @@
 {
     "tokenid": 837,
-    "eco": "B57",
-    "name": "Sicilian: Magnus Smith Trap",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 g6 7.Nxc6 bxc6 8.e5 dxe5? 9.Bxf7+ 1/2",
-    "FEN": "r1bqkb1r/p3pB1p/2p2np1/4p3/8/2N5/PPP2PPP/R1BQK2R b KQkq - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/837.svg"
+    "eco": "B01",
+    "name": "Scandinavian Defense: Richter Variation",
+    "pgn": "1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 g6 1/2",
+    "FEN": "rnbqkb1r/ppp1pp1p/6p1/3n4/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/837.svg"
 }

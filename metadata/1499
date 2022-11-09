@@ -1,8 +1,8 @@
 {
     "tokenid": 1499,
-    "eco": "C83",
-    "name": "Ruy Lopez: Open: Breslau Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.c3 Be7 10.Re1 O-O 11.Nd4 Nxe5 1/2",
-    "FEN": "r2q1rk1/2p1bppp/p3b3/1p1pn3/3Nn3/1BP5/PP3PPP/RNBQR1K1 w - - 0 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1499.svg"
+    "eco": "C02",
+    "name": "French Defense: Advance Variation, Nimzowitsch Gambit",
+    "pgn": "1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 cxd4 5. Nf3 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/3pP3/3p2Q1/5N2/PPP2PPP/RNB1KB1R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1499.svg"
 }

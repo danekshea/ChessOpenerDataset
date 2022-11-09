@@ -1,8 +1,8 @@
 {
     "tokenid": 1162,
-    "eco": "C33",
-    "name": "KGA: Bishop's Gambit: Bledow Variation",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Bc4 d5 1/2",
-    "FEN": "rnbqkbnr/ppp2ppp/8/3p4/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq d6 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1162.svg"
+    "eco": "B27",
+    "name": "Pterodactyl Defense: Sicilian, Rhamphorhynchus",
+    "pgn": "1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. dxc5 Qa5+ 5. Nc3 1/2",
+    "FEN": "rnb1k1nr/pp1pppbp/6p1/q1P5/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1162.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 642,
-    "eco": "B20",
-    "name": "Sicilian Defense",
-    "pgn": "1.e4 c5 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/642.svg"
+    "eco": "A70",
+    "name": "Benoni Defense: Classical Variation, New York Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. h3 1/2",
+    "FEN": "rnbqk2r/pp3pbp/3p1np1/2pP4/4P3/2N2N1P/PP3PP1/R1BQKB1R b KQkq - 0 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/642.svg"
 }

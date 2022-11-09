@@ -1,8 +1,8 @@
 {
     "tokenid": 1879,
-    "eco": "D78",
-    "name": "Neo-Gruenfeld: 7.Nbd2",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O c6 7.Nbd2 Bf5 8.b3 Ne4 9.Bb2 1/2",
-    "FEN": "rn1q1rk1/pp2ppbp/2p3p1/3p1b2/2PPn3/1P3NP1/PB1NPPBP/R2Q1RK1 b - - 2 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1879.svg"
+    "eco": "C35",
+    "name": "King's Gambit Accepted: Cunningham Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 Be7 1/2",
+    "FEN": "rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1879.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 666,
-    "eco": "B21",
-    "name": "Sicilian: Grand Prix: Tal Gambit",
-    "pgn": "1.e4 c5 2.f4 d5 3.exd5 Nf6 1/2",
-    "FEN": "rnbqkb1r/pp2pppp/5n2/2pP4/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/666.svg"
+    "eco": "A80",
+    "name": "Dutch Defense: Manhattan Gambit, Anti-Stonewall",
+    "pgn": "1. d4 f5 2. Qd3 d5 3. g4 1/2",
+    "FEN": "rnbqkbnr/ppp1p1pp/8/3p1p2/3P2P1/3Q4/PPP1PP1P/RNB1KBNR b KQkq g3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/666.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1966,
-    "eco": "E05",
-    "name": "Catalan: Open:, Classical Line",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 Be7 6.O-O O-O 1/2",
-    "FEN": "rnbq1rk1/ppp1bppp/4pn2/8/2pP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 4 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1966.svg"
+    "eco": "C40",
+    "name": "King's Pawn Game: Damiano Defense",
+    "pgn": "1. e4 e5 2. Nf3 f6 1/2",
+    "FEN": "rnbqkbnr/pppp2pp/5p2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1966.svg"
 }

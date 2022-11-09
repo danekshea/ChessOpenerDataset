@@ -1,8 +1,8 @@
 {
     "tokenid": 30,
     "eco": "A00",
-    "name": "Clemenz Opening",
-    "pgn": "1.h3 1/2",
-    "FEN": "rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQkq - 0 1",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/30.svg"
+    "name": "Grob Opening: Grob Gambit, Fritz Gambit, Romford Countergambit",
+    "pgn": "1. g4 d5 2. Bg2 Bxg4 3. c4 d4 4. Bxb7 Nd7 5. Bxa8 Qxa8 1/2",
+    "FEN": "q3kbnr/p1pnpppp/8/8/2Pp2b1/8/PP1PPP1P/RNBQK1NR w KQk - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/30.svg"
 }

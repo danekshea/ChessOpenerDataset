@@ -1,8 +1,8 @@
 {
     "tokenid": 2136,
-    "eco": "E68",
-    "name": "King's Indian: Fianchetto: Classical Variation 8.e4",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5 8.e4 c6 1/2",
-    "FEN": "r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 w - - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2136.svg"
+    "eco": "C44",
+    "name": "Scotch Game: Scotch Gambit, Dubois R\u00e9ti Defense",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/8/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2136.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 84,
-    "eco": "A07",
-    "name": "Reti: King's Indian Attack (Barcza System)",
-    "pgn": "1.Nf3 d5 2.g3 1/2",
-    "FEN": "rnbqkbnr/ppp1pppp/8/3p4/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq - 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/84.svg"
+    "eco": "A00",
+    "name": "Polish Opening: King's Indian Variation",
+    "pgn": "1. b4 Nf6 2. Bb2 g6 1/2",
+    "FEN": "rnbqkb1r/pppppp1p/5np1/8/1P6/8/PBPPPPPP/RN1QKBNR w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/84.svg"
 }

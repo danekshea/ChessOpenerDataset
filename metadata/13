@@ -1,8 +1,8 @@
 {
     "tokenid": 13,
     "eco": "A00",
-    "name": "Sokolsky: ...e5 ...Bxb4",
-    "pgn": "1.b4 e5 2.Bb2 Bxb4 3.Bxe5 Nf6 4.c4 O-O 5.e3 1/2",
-    "FEN": "rnbq1rk1/pppp1ppp/5n2/4B3/1bP5/4P3/P2P1PPP/RN1QKBNR b KQ - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/13.svg"
+    "name": "Clemenz Opening: Spike Lee Gambit",
+    "pgn": "1. h3 h5 2. g4 1/2",
+    "FEN": "rnbqkbnr/ppppppp1/8/7p/6P1/7P/PPPPPP2/RNBQKBNR b KQkq g3 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/13.svg"
 }

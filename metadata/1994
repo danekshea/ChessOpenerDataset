@@ -1,8 +1,8 @@
 {
     "tokenid": 1994,
-    "eco": "E11/07",
-    "name": "Bogo-Indian Defense: Yusupov",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Bxd2 Bb7 7.Bg5 d6 8.e3 Nbd7 9.Qc2 h6 10.Bh4 a5 11.Bd3 Qe7 12.O-O-O 1/2",
-    "FEN": "r3k2r/1bpnqpp1/1p1ppn1p/p7/2PP3B/P2BPN2/1PQ2PPP/2KR3R b kq - 3 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1994.svg"
+    "eco": "C40",
+    "name": "Latvian Gambit: Mayet Attack, Polerio-Svedenborg Variation",
+    "pgn": "1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 1/2",
+    "FEN": "rnbqkbnr/ppp3pp/8/3pN3/2B1p3/8/PPPP1PPP/RNBQK2R w KQkq d6 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1994.svg"
 }

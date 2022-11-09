@@ -1,8 +1,8 @@
 {
     "tokenid": 1698,
-    "eco": "D31",
-    "name": "QGD: Semi-Slav: Marshall Gambit",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4 1/2",
-    "FEN": "rnbqkbnr/pp3ppp/2p1p3/3p4/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1698.svg"
+    "eco": "C24",
+    "name": "Bishop's Opening: Berlin Defense, Greco Gambit",
+    "pgn": "1. e4 e5 2. Bc4 Nf6 3. f4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/2B1PP2/8/PPPP2PP/RNBQK1NR b KQkq f3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1698.svg"
 }

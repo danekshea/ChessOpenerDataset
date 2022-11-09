@@ -1,8 +1,8 @@
 {
     "tokenid": 1141,
-    "eco": "C30",
-    "name": "KGD: Classical: Soldatenkov Variation",
-    "pgn": "1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.fxe5 1/2",
-    "FEN": "rnbqk1nr/ppp2ppp/3p4/2b1P3/4P3/5N2/PPPP2PP/RNBQKB1R b KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1141.svg"
+    "eco": "B23",
+    "name": "Sicilian Defense: Closed",
+    "pgn": "1. e4 c5 2. Nc3 e6 3. g3 1/2",
+    "FEN": "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1141.svg"
 }

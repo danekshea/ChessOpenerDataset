@@ -1,8 +1,8 @@
 {
     "tokenid": 1647,
-    "eco": "D19",
-    "name": "QGD: Slav: Dutch Variation, Main Line",
-    "pgn": "1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O 9.Qe2 1/2",
-    "FEN": "rn1q1rk1/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P2QPPP/R1B2RK1 b - - 4 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1647.svg"
+    "eco": "C21",
+    "name": "Center Game Accepted",
+    "pgn": "1. e4 e5 2. d4 exd4 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1647.svg"
 }

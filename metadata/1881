@@ -1,8 +1,8 @@
 {
     "tokenid": 1881,
-    "eco": "D78/14",
-    "name": "Neo-Gruenfeld: O-O...c6 7.b3",
-    "pgn": "1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 c6 6.O-O d5 7.b3 Ne4 8.Bb2 Be6 1/2",
-    "FEN": "rn1q1rk1/pp2ppbp/2p1b1p1/3p4/2PPn3/1P3NP1/PB2PPBP/RN1Q1RK1 w - - 3 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1881.svg"
+    "eco": "C35",
+    "name": "King's Gambit Accepted: Cunningham Defense, Bertin Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1 1/2",
+    "FEN": "rnbqk1nr/pppp1ppp/8/8/2B1P2b/5N2/PPPP3p/RNBQ1R1K b kq - 1 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1881.svg"
 }

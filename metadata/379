@@ -1,8 +1,8 @@
 {
     "tokenid": 379,
-    "eco": "A59",
-    "name": "Benko Gambit: Main Line",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4 Bxf1 8.Kxf1 g6 9.g3 Bg7 10.Kg2 O-O 11.Nf3 1/2",
-    "FEN": "rn1q1rk1/4ppbp/3p1np1/2pP4/4P3/2N2NP1/PP3PKP/R1BQ3R b - - 4 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/379.svg"
+    "eco": "A28",
+    "name": "English Opening: King's English Variation, Four Knights Variation, Flexible Line",
+    "pgn": "1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2NP1N2/PP2PPPP/R1BQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/379.svg"
 }

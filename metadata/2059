@@ -1,8 +1,8 @@
 {
     "tokenid": 2059,
-    "eco": "E33",
-    "name": "Nimzo-Indian: Classical: Milner-Barry (Zurich) Variation",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 d6 1/2",
-    "FEN": "r1bqk2r/ppp2ppp/2nppn2/8/1bPP4/2N2N2/PPQ1PPPP/R1B1KB1R w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2059.svg"
+    "eco": "C42",
+    "name": "Russian Game: Classical Attack, Mason Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 1/2",
+    "FEN": "rnbq1rk1/ppp1bppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 w - - 4 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2059.svg"
 }

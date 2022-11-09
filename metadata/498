@@ -1,8 +1,8 @@
 {
     "tokenid": 498,
-    "eco": "B02",
-    "name": "Alekhine's Defense: Kmoch Variation",
-    "pgn": "1.e4 Nf6 2.e5 Nd5 3.Bc4 Nb6 4.Bb3 c5 5.d3 1/2",
-    "FEN": "rnbqkb1r/pp1ppppp/1n6/2p1P3/8/1B1P4/PPP2PPP/RNBQK1NR b KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/498.svg"
+    "eco": "A43",
+    "name": "Benoni Defense: Zilbermints-Benoni Gambit",
+    "pgn": "1. d4 c5 2. b4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/1P1P4/8/P1P1PPPP/RNBQKBNR b KQkq b3 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/498.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1584,
-    "eco": "D04",
-    "name": "Queen's Pawn Game: Cobo Variation",
-    "pgn": "1.d4 Nf6 2.Nf3 d5 3.e3 g6 4.Bd3 Bg7 5.Nbd2 O-O 6.O-O 1/2",
-    "FEN": "rnbq1rk1/ppp1ppbp/5np1/3p4/3P4/3BPN2/PPPN1PPP/R1BQ1RK1 b - - 5 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1584.svg"
+    "eco": "C15",
+    "name": "French Defense: MacCutcheon Variation, Wolf Gambit",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nf6 5. Bg5 1/2",
+    "FEN": "rnbqk2r/ppp2ppp/4pn2/3p2B1/1b1PP3/2N5/PPP1NPPP/R2QKB1R b KQkq - 5 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1584.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 807,
-    "eco": "B49",
-    "name": "Sicilian: Taimanov Variation",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Be2 1/2",
-    "FEN": "r1b1kbnr/1pqp1ppp/p1n1p3/8/3NP3/2N1B3/PPP1BPPP/R2QK2R b KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/807.svg"
+    "eco": "B01",
+    "name": "Scandinavian Defense",
+    "pgn": "1. e4 d5 1/2",
+    "FEN": "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/807.svg"
 }

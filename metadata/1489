@@ -1,8 +1,8 @@
 {
     "tokenid": 1489,
-    "eco": "C80",
-    "name": "Ruy Lopez: Open: Bernstein Variation, Karpov Gambit",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.Nbd2 Nc5 10.c3 d4 11.Ng5 1/2",
-    "FEN": "r2qkb1r/2p2ppp/p1n1b3/1pn1P1N1/3p4/1BP5/PP1N1PPP/R1BQ1RK1 b kq - 1 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1489.svg"
+    "eco": "C02",
+    "name": "French Defense: Advance Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. e5 c5 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq c6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1489.svg"
 }

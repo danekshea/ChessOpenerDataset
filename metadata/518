@@ -1,8 +1,8 @@
 {
     "tokenid": 518,
-    "eco": "B05",
-    "name": "Alekhine's Defense: Modern: Flohr Variation",
-    "pgn": "1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.Be2 c6 1/2",
-    "FEN": "rn1qkb1r/pp2pppp/2pp4/3nP3/3P2b1/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/518.svg"
+    "eco": "A45",
+    "name": "Indian Defense: Omega Gambit",
+    "pgn": "1. d4 Nf6 2. e4 1/2",
+    "FEN": "rnbqkb1r/pppppppp/5n2/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/518.svg"
 }

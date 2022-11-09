@@ -1,8 +1,8 @@
 {
     "tokenid": 699,
-    "eco": "B25",
-    "name": "Sicilian: Closed",
-    "pgn": "1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 1/2",
-    "FEN": "r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NP2P1/PPP2PBP/R1BQK1NR w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/699.svg"
+    "eco": "A88",
+    "name": "Dutch Defense: Leningrad Variation, Warsaw Variation",
+    "pgn": "1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 1/2",
+    "FEN": "rnbq1rk1/pp2p1bp/2pp1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/699.svg"
 }

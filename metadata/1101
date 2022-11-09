@@ -1,8 +1,8 @@
 {
     "tokenid": 1101,
-    "eco": "C23",
-    "name": "Bishop's Opening",
-    "pgn": "1.e4 e5 2.Bc4 1/2",
-    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1101.svg"
+    "eco": "B21",
+    "name": "Sicilian Defense: Coles Sicilian Gambit",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Bc4 1/2",
+    "FEN": "r1bqkb1r/pp1ppppp/2n2n2/8/2B1P3/8/PPP2PPP/RNBQK1NR b KQkq - 4 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1101.svg"
 }

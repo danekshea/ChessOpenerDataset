@@ -1,8 +1,8 @@
 {
     "tokenid": 2006,
-    "eco": "E13/06",
-    "name": "Queen's Indian: Main Line (Nd2)",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Bg5 Bb7 6.e3 Bxc3+ 7.bxc3 d6 8.Nd2 h6 9.Bh4 Nbd7 10.f3 Qe7 11.e4 e5 12.Bd3 g5 13.Bf2 Nh5 1/2",
-    "FEN": "r3k2r/pbpnqp2/1p1p3p/4p1pn/2PPP3/2PB1P2/P2N1BPP/R2QK2R w KQkq - 2 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2006.svg"
+    "eco": "C41",
+    "name": "Philidor Defense: Exchange Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 exd4 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2006.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 675,
-    "eco": "B22/04",
-    "name": "Sicilian: Alapin: 2...d6",
-    "pgn": "1.e4 c5 2.c3 d6 3.d4 Nf6 4.Bd3 g6 5.h3 Bg7 6.Nf3 O-O 7.O-O Nc6 1/2",
-    "FEN": "r1bq1rk1/pp2ppbp/2np1np1/2p5/3PP3/2PB1N1P/PP3PP1/RNBQ1RK1 w - - 5 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/675.svg"
+    "eco": "A81",
+    "name": "Dutch Defense: Semi-Leningrad Variation",
+    "pgn": "1. d4 f5 2. g3 Nf6 3. Bg2 g6 1/2",
+    "FEN": "rnbqkb1r/ppppp2p/5np1/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/675.svg"
 }

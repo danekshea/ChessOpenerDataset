@@ -1,8 +1,8 @@
 {
     "tokenid": 1616,
-    "eco": "D11",
-    "name": "QGD: Slav: 2...dxc4",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.Nf3 c6 1/2",
-    "FEN": "rnbqkbnr/pp2pppp/2p5/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1616.svg"
+    "eco": "C19",
+    "name": "French Defense: Winawer Variation, Positional Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 1/2",
+    "FEN": "rnbqk2r/pp2nppp/4p3/2ppP3/3P4/P1P2N2/2P2PPP/R1BQKB1R b KQkq - 2 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1616.svg"
 }

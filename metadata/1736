@@ -1,8 +1,8 @@
 {
     "tokenid": 1736,
-    "eco": "D37/22",
-    "name": "QGD: 5.Bf4",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.Qc2 1/2",
-    "FEN": "rnbq1rk1/pp3ppp/4pn2/2bp4/2P2B2/2N1PN2/PPQ2PPP/R3KB1R b KQ - 1 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1736.svg"
+    "eco": "C25",
+    "name": "Vienna Game: Zhuravlev Countergambit",
+    "pgn": "1. e4 e5 2. Nc3 Bb4 3. Qg4 Nf6 1/2",
+    "FEN": "rnbqk2r/pppp1ppp/5n2/4p3/1b2P1Q1/2N5/PPPP1PPP/R1B1KBNR w KQkq - 4 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1736.svg"
 }

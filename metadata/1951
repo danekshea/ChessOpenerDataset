@@ -1,8 +1,8 @@
 {
     "tokenid": 1951,
-    "eco": "E00",
-    "name": "Catalan Opening",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Qe7 1/2",
-    "FEN": "rnb1k2r/ppppqppp/4pn2/8/1bPP4/6P1/PP1BPP1P/RN1QKBNR w KQkq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1951.svg"
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Kieseritzky Gambit, Rice Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O Bxe5 1/2",
+    "FEN": "rnbqk2r/ppp2p1p/5n2/3Pb3/2B2ppP/8/PPPP2P1/RNBQ1RK1 w kq - 0 9",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1951.svg"
 }

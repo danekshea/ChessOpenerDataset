@@ -1,8 +1,8 @@
 {
     "tokenid": 936,
-    "eco": "B85",
-    "name": "Sicilian: Scheveningen: Classical (with...Qc7 &...Nc6)",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.O-O Qc7 8.f4 Nc6 1/2",
-    "FEN": "r1b1kb1r/1pq2ppp/p1nppn2/8/3NPP2/2N5/PPP1B1PP/R1BQ1RK1 w kq - 1 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/936.svg"
+    "eco": "B06",
+    "name": "Pterodactyl Defense: Eastern, Pteranodon",
+    "pgn": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 4. dxc5 Bxc3+ 5. bxc3 Qa5 1/2",
+    "FEN": "rnb1k1nr/pp1ppp1p/6p1/q1P5/4P3/2P5/P1P2PPP/R1BQKBNR w KQkq - 1 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/936.svg"
 }

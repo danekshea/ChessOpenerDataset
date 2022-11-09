@@ -1,8 +1,8 @@
 {
     "tokenid": 694,
-    "eco": "B23",
-    "name": "Sicilian: Mieses-Spassky Attack (Bb5)",
-    "pgn": "1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Bc4 g6 5.Nf3 Bg7 6.Nxd4 cxd4 7.Qf3 Nh6 8.Ne2 1/2",
-    "FEN": "r1bqk2r/pp1pppbp/6pn/8/2BpP3/5Q2/PPPPNPPP/R1B1K2R b KQkq - 3 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/694.svg"
+    "eco": "A85",
+    "name": "Dutch Defense: Queen's Knight Variation",
+    "pgn": "1. d4 f5 2. c4 Nf6 3. Nc3 1/2",
+    "FEN": "rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/694.svg"
 }

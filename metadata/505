@@ -1,8 +1,8 @@
 {
     "tokenid": 505,
-    "eco": "B03",
-    "name": "Alekhine's Defense",
-    "pgn": "1.e4 Nf6 2.e5 Nd5 3.d4 d6 1/2",
-    "FEN": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/505.svg"
+    "eco": "A45",
+    "name": "Amazon Attack: Siberian Attack",
+    "pgn": "1. d4 Nf6 2. Nc3 d5 3. Qd3 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2NQ4/PPP1PPPP/R1B1KBNR b KQkq - 1 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/505.svg"
 }

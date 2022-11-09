@@ -1,8 +1,8 @@
 {
     "tokenid": 170,
-    "eco": "A17/02",
-    "name": "English: Queens Indian Formation: (postponed d4)",
-    "pgn": "1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Re1 1/2",
-    "FEN": "rn1q1rk1/pbppbppp/1p2pn2/8/2P5/2N2NP1/PP1PPPBP/R1BQR1K1 b - - 6 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/170.svg"
+    "eco": "A02",
+    "name": "Bird Opening: From's Gambit, Lipke Variation",
+    "pgn": "1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d4 1/2",
+    "FEN": "rnbqk2r/ppp2ppp/3b3n/8/3P4/5N2/PPP1P1PP/RNBQKB1R b KQkq d3 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/170.svg"
 }

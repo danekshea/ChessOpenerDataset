@@ -1,8 +1,8 @@
 {
     "tokenid": 806,
-    "eco": "B49/10",
-    "name": "Sicilian: Taimanov: Larsen",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.O-O Nf6 8.Be3 Bb4 9.Na4 O-O 10.Nxc6 bxc6 11.f4 Be7 12.Bd3 c5 13.c4 Bb7 14.Nc3 d6 1/2",
-    "FEN": "r4rk1/1bq1bppp/p2ppn2/2p5/2P1PP2/2NBB3/PP4PP/R2Q1RK1 w - - 0 15",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/806.svg"
+    "eco": "B00",
+    "name": "Zukertort Defense: Sicilian Knight Variation",
+    "pgn": "1. e4 Na6 2. Nf3 c5 1/2",
+    "FEN": "r1bqkbnr/pp1ppppp/n7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq c6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/806.svg"
 }

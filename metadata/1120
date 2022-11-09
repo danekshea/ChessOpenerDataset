@@ -1,8 +1,8 @@
 {
     "tokenid": 1120,
-    "eco": "C25",
-    "name": "Vienna Gambit",
-    "pgn": "1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 1/2",
-    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/4Pp2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1120.svg"
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Taimanov Formation",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Bc4 a6 6. Nf3 Ne7 1/2",
+    "FEN": "rnbqkb1r/1p1pnppp/p3p3/8/2B1P3/2N2N2/PP3PPP/R1BQK2R w KQkq - 2 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1120.svg"
 }

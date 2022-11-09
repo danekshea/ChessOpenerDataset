@@ -1,8 +1,8 @@
 {
     "tokenid": 1274,
-    "eco": "C42",
-    "name": "Petrov: Damiano Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 1/2",
-    "FEN": "rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1274.svg"
+    "eco": "B42",
+    "name": "Sicilian Defense: Kan Variation, Modern Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 1/2",
+    "FEN": "rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/3B4/PPP2PPP/RNBQK2R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1274.svg"
 }

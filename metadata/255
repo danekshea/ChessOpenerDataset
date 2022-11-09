@@ -1,8 +1,8 @@
 {
     "tokenid": 255,
-    "eco": "A37",
-    "name": "English: Symmetrical Variation",
-    "pgn": "1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 1/2",
-    "FEN": "r1bqk1nr/pp1pppbp/2n3p1/2p5/2P5/2N2NP1/PP1PPPBP/R1BQK2R b KQkq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/255.svg"
+    "eco": "A08",
+    "name": "King's Indian Attack: Sicilian Variation",
+    "pgn": "1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Nc6 6. Bg2 Be7 7. O-O O-O 8. Re1 1/2",
+    "FEN": "r1bq1rk1/pp2bppp/2n1pn2/2pp4/4P3/3P1NP1/PPPN1PBP/R1BQR1K1 b - - 6 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/255.svg"
 }

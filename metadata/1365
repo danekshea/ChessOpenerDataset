@@ -1,8 +1,8 @@
 {
     "tokenid": 1365,
-    "eco": "C53",
-    "name": "Giuoco Piano: Close Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 1/2",
-    "FEN": "r1b1k1nr/ppppqppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1365.svg"
+    "eco": "B73",
+    "name": "Sicilian Defense: Dragon Variation, Classical Variation, Battery Variation",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8. Be3 Nc6 9. Qd2 1/2",
+    "FEN": "r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPPQBPPP/R4RK1 b - - 7 9",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1365.svg"
 }

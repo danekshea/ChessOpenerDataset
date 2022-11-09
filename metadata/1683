@@ -1,8 +1,8 @@
 {
     "tokenid": 1683,
-    "eco": "D29/08",
-    "name": "QGA: Classical: Smyslov Variation",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.Nf3 c5 4.e3 e6 5.Bxc4 Nf6 6.O-O a6 7.Qe2 b5 8.Bb3 Bb7 9.Nc3 Nbd7 10.Rd1 Qb8 11.d5 exd5 1/2",
-    "FEN": "rq2kb1r/1b1n1ppp/p4n2/1ppp4/8/1BN1PN2/PP2QPPP/R1BR2K1 w kq - 0 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1683.svg"
+    "eco": "C23",
+    "name": "Bishop's Opening: Lewis Gambit",
+    "pgn": "1. e4 e5 2. Bc4 Bc5 3. d4 1/2",
+    "FEN": "rnbqk1nr/pppp1ppp/8/2b1p3/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq d3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1683.svg"
 }

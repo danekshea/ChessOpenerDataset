@@ -1,8 +1,8 @@
 {
     "tokenid": 1502,
-    "eco": "C84/01",
-    "name": "Ruy Lopez: Closed Centre (6.d3)",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 1/2",
-    "FEN": "r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1502.svg"
+    "eco": "C02",
+    "name": "French Defense: Advance Variation, Ruisdonk Gambit",
+    "pgn": "1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Bd3 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/3pP3/3p4/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1502.svg"
 }

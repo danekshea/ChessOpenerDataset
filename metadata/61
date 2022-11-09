@@ -1,8 +1,8 @@
 {
     "tokenid": 61,
-    "eco": "A04",
-    "name": "Reti-KID",
-    "pgn": "1.Nf3 g6 2.c4 Bg7 3.Nc3 Nf6 1/2",
-    "FEN": "rnbqk2r/ppppppbp/5np1/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 3 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/61.svg"
+    "eco": "A00",
+    "name": "Indian Defense: Colle System, King's Indian Variation",
+    "pgn": "1. e3 d6 2. d4 g6 3. Nf3 Bg7 4. Bd3 Nf6 1/2",
+    "FEN": "rnbqk2r/ppp1ppbp/3p1np1/8/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq - 4 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/61.svg"
 }

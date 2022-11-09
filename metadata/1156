@@ -1,8 +1,8 @@
 {
     "tokenid": 1156,
-    "eco": "C32",
-    "name": "KGD: Falkbeer: Charousek Gambit",
-    "pgn": "1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Qe2 1/2",
-    "FEN": "rnbqkb1r/ppp2ppp/8/3P4/4nP2/8/PPP1Q1PP/RNB1KBNR b KQkq - 1 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1156.svg"
+    "eco": "B25",
+    "name": "Sicilian Defense: Closed, Botvinnik Defense, Edge Variation",
+    "pgn": "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 1/2",
+    "FEN": "r1bqk2r/pp2npbp/2np2p1/2p1p3/4PP2/2NP2PN/PPP3BP/R1BQK2R w KQkq - 2 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1156.svg"
 }

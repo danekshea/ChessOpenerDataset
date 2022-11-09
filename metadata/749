@@ -1,8 +1,8 @@
 {
     "tokenid": 749,
-    "eco": "B33/04",
-    "name": "Sicilian: Neo-Pelikan: (...Qb6 Nb3)",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.Bd3 Be7 8.O-O d5 9.exd5 exd5 1/2",
-    "FEN": "r1b1k2r/pp2bppp/1qn2n2/3p4/8/1NNB4/PPP2PPP/R1BQ1RK1 w kq - 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/749.svg"
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Franco-Hiva Gambit",
+    "pgn": "1. e4 Nc6 2. d4 e6 3. Nf3 f5 4. exf5 Nf6 1/2",
+    "FEN": "r1bqkb1r/pppp2pp/2n1pn2/5P2/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/749.svg"
 }

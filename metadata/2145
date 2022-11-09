@@ -1,8 +1,8 @@
 {
     "tokenid": 2145,
-    "eco": "E70/11",
-    "name": "King's Indian Defense: Bd3",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6 7.O-O e5 8.d5 Nd4 9.Nxd4 exd4 10.Nb5 1/2",
-    "FEN": "r1bq1rk1/ppp2pbp/3p1np1/1N1P4/2PpP3/3B4/PP3PPP/R1BQ1RK1 b - - 1 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2145.svg"
+    "eco": "C45",
+    "name": "Scotch Game",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bb4+ 6. Bd2 1/2",
+    "FEN": "r1b1k1nr/pppp1ppp/2n5/1N6/1b2P2q/8/PPPB1PPP/RN1QKB1R b KQkq - 4 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2145.svg"
 }

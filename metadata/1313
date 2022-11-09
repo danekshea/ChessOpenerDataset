@@ -1,8 +1,8 @@
 {
     "tokenid": 1313,
-    "eco": "C47",
-    "name": "Four Knights: Belgrade Gambit",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5 1/2",
-    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/3N4/3pP3/5N2/PPP2PPP/R1BQKB1R b KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1313.svg"
+    "eco": "B54",
+    "name": "Sicilian Defense: Accelerated Dragon",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 1/2",
+    "FEN": "rnbqkbnr/pp2pp1p/3p2p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1313.svg"
 }

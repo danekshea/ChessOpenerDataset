@@ -1,8 +1,8 @@
 {
     "tokenid": 212,
-    "eco": "A28",
-    "name": "English: Four Knights: Marini Variation",
-    "pgn": "1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.a3 1/2",
-    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/P1N2N2/1P1PPPPP/R1BQKB1R b KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/212.svg"
+    "eco": "A04",
+    "name": "Zukertort Opening: Sicilian Invitation",
+    "pgn": "1. Nf3 c5 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/8/5N2/PPPPPPPP/RNBQKB1R w KQkq c6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/212.svg"
 }

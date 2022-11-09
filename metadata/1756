@@ -1,8 +1,8 @@
 {
     "tokenid": 1756,
-    "eco": "D43",
-    "name": "QGD: Semi-Slav",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 1/2",
-    "FEN": "rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1756.svg"
+    "eco": "C28",
+    "name": "Vienna Game: Stanley Variation, Bronstein Gambit",
+    "pgn": "1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. f4 Nxe4 5. Nf3 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n5/4p3/2B1nP2/2N2N2/PPPP2PP/R1BQK2R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1756.svg"
 }

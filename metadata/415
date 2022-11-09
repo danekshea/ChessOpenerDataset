@@ -1,8 +1,8 @@
 {
     "tokenid": 415,
-    "eco": "A78",
-    "name": "Benoni: Classical (with...Re8 &...Na6)",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6 1/2",
-    "FEN": "r1bqr1k1/pp3pbp/n2p1np1/2pP4/4P3/2N5/PP1NBPPP/R1BQ1RK1 w - - 8 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/415.svg"
+    "eco": "A40",
+    "name": "Dutch Defense: Senechaud Gambit",
+    "pgn": "1. d4 e6 2. Bf4 f5 3. g4 1/2",
+    "FEN": "rnbqkbnr/pppp2pp/4p3/5p2/3P1BP1/8/PPP1PP1P/RN1QKBNR b KQkq g3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/415.svg"
 }

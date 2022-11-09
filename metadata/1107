@@ -1,8 +1,8 @@
 {
     "tokenid": 1107,
-    "eco": "C23",
-    "name": "Bishop's Opening: Philidor Variation",
-    "pgn": "1.e4 e5 2.Bc4 Bc5 3.c3 1/2",
-    "FEN": "rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/2P5/PP1P1PPP/RNBQK1NR b KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1107.svg"
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit",
+    "pgn": "1. e4 c5 2. d4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1107.svg"
 }

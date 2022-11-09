@@ -1,8 +1,8 @@
 {
     "tokenid": 834,
-    "eco": "B56",
-    "name": "Sicilian: Venice Attack",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Bb5+ 1/2",
-    "FEN": "rnbqkb1r/pp3ppp/3p1n2/1B2p3/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/834.svg"
+    "eco": "B01",
+    "name": "Scandinavian Defense: Panov Transfer",
+    "pgn": "1. e4 d5 2. exd5 Nf6 3. c4 c6 1/2",
+    "FEN": "rnbqkb1r/pp2pppp/2p2n2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/834.svg"
 }

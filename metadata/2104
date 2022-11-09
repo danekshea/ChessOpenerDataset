@@ -1,8 +1,8 @@
 {
     "tokenid": 2104,
-    "eco": "E57",
-    "name": "Nimzo-Indian: 4.e3: Main Line with 8...dxc4",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 dxc4 9.Bxc4 cxd4 1/2",
-    "FEN": "r1bq1rk1/pp3ppp/2n1pn2/8/1bBp4/P1N1PN2/1P3PPP/R1BQ1RK1 w - - 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2104.svg"
+    "eco": "C44",
+    "name": "Ponziani Opening",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. c3 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2104.svg"
 }

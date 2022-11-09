@@ -1,8 +1,8 @@
 {
     "tokenid": 652,
-    "eco": "B20/05",
-    "name": "Sicilian: Short Variation (f4)",
-    "pgn": "1.e4 c5 2.d3 Nc6 3.f4 g6 4.Nf3 Bg7 5.Be2 e6 1/2",
-    "FEN": "r1bqk1nr/pp1p1pbp/2n1p1p1/2p5/4PP2/3P1N2/PPP1B1PP/RNBQK2R w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/652.svg"
+    "eco": "A79",
+    "name": "Benoni Defense: Classical Variation, Czerniak Defense",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O Re8 10. Nd2 Na6 1 1/2",
+    "FEN": "r1bqr1k1/pp3pbp/n2p1np1/2pP4/4P3/2N5/PP1NBPPP/R1BQ1RK1 w - - 8 11",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/652.svg"
 }

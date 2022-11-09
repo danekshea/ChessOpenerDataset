@@ -1,8 +1,8 @@
 {
     "tokenid": 454,
-    "eco": "A90/05",
-    "name": "Dutch: Stonewall (Bd6)",
-    "pgn": "1.d4 e6 2.Nf3 f5 3.g3 Nf6 4.Bg2 d5 5.O-O Bd6 6.c4 c6 7.b3 Qe7 8.Bb2 1/2",
-    "FEN": "rnb1k2r/pp2q1pp/2pbpn2/3p1p2/2PP4/1P3NP1/PB2PPBP/RN1Q1RK1 b kq - 2 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/454.svg"
+    "eco": "A40",
+    "name": "Pterodactyl Defense: Central, Benoni Beefeater Pterodactyl",
+    "pgn": "1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 d6 5. e4 Bxc3+ 6. bxc3 Qa5 1/2",
+    "FEN": "rnb1k1nr/pp2pp1p/3p2p1/q1pP4/2P1P3/2P5/P4PPP/R1BQKBNR w KQkq - 1 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/454.svg"
 }

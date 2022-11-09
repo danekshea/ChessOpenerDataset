@@ -1,8 +1,8 @@
 {
     "tokenid": 224,
-    "eco": "A30",
-    "name": "English: Symmetrical",
-    "pgn": "1.c4 c5 2.Nf3 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/224.svg"
+    "eco": "A05",
+    "name": "King's Indian Attack: Wahls Defense",
+    "pgn": "1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d5 1/2",
+    "FEN": "rnbq1rk1/ppp1ppbp/5np1/3p4/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w - d6 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/224.svg"
 }

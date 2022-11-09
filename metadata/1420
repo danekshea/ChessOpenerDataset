@@ -1,8 +1,8 @@
 {
     "tokenid": 1420,
-    "eco": "C65",
-    "name": "Ruy Lopez: Berlin Defense: Nyholm Attack",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d4 exd4 5.O-O 1/2",
-    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/1B6/3pP3/5N2/PPP2PPP/RNBQ1RK1 b kq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1420.svg"
+    "eco": "B90",
+    "name": "Sicilian Defense: Najdorf Variation, Lipnitsky Attack",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 1/2",
+    "FEN": "rnbqkb1r/1p2pppp/p2p1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1420.svg"
 }

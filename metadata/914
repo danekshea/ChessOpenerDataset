@@ -1,8 +1,8 @@
 {
     "tokenid": 914,
-    "eco": "B81/27",
-    "name": "Sicilian: Scheveningen: Keres Attack 7.h4",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.h4 Nc6 8.Rg1 h5 9.gxh5 Nxh5 10.Bg5 Nf6 11.Qd2 Qb6 12.Nb3 a6 13.Be2 Bd7 1/2",
-    "FEN": "r3kb1r/1p1b1pp1/pqnppn2/6B1/4P2P/1NN5/PPPQBP2/R3K1R1 w Qkq - 2 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/914.svg"
+    "eco": "B06",
+    "name": "Modern Defense: Norwegian Defense, Norwegian Gambit",
+    "pgn": "1. e4 g6 2. d4 Nf6 3. e5 Nh5 4. Be2 d6 1/2",
+    "FEN": "rnbqkb1r/ppp1pp1p/3p2p1/4P2n/3P4/8/PPP1BPPP/RNBQK1NR w KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/914.svg"
 }

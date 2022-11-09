@@ -1,8 +1,8 @@
 {
     "tokenid": 1392,
-    "eco": "C58",
-    "name": "Two Knights Defense",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ 1/2",
-    "FEN": "r1bqkb1r/ppp2ppp/5n2/nB1Pp1N1/8/8/PPPP1PPP/RNBQK2R b KQkq - 2 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1392.svg"
+    "eco": "B80",
+    "name": "Sicilian Defense: Scheveningen Variation, Vitolins Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5+ 1/2",
+    "FEN": "rnbqkb1r/pp3ppp/3ppn2/1B6/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1392.svg"
 }

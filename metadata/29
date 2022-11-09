@@ -1,8 +1,8 @@
 {
     "tokenid": 29,
     "eco": "A00",
-    "name": "Grob: Spike Attack",
-    "pgn": "1.g4 d5 2.Bg2 c6 3.g5 1/2",
-    "FEN": "rnbqkbnr/pp2pppp/2p5/3p2P1/8/8/PPPPPPBP/RNBQK1NR b KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/29.svg"
+    "name": "Grob Opening: Grob Gambit, Fritz Gambit",
+    "pgn": "1. g4 d5 2. Bg2 Bxg4 3. c4 1/2",
+    "FEN": "rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR b KQkq c3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/29.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1094,
-    "eco": "C21",
-    "name": "Danish Gambit",
-    "pgn": "1.e4 e5 2.d4 exd4 3.c3 1/2",
-    "FEN": "rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1094.svg"
+    "eco": "B20",
+    "name": "Sicilian Defense: Wing Gambit, Carlsbad Variation",
+    "pgn": "1. e4 c5 2. b4 cxb4 3. a3 bxa3 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/8/4P3/p7/2PP1PPP/RNBQKBNR w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1094.svg"
 }

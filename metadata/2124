@@ -1,8 +1,8 @@
 {
     "tokenid": 2124,
-    "eco": "E62",
-    "name": "King's Indian: Fianchetto: Lesser Simagin (Spassky) Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O Bf5 1/2",
-    "FEN": "r2q1rk1/ppp1ppbp/2np1np1/5b2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2124.svg"
+    "eco": "C44",
+    "name": "Scotch Game: G\u00f6ring Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2124.svg"
 }

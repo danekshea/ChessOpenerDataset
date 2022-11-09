@@ -1,8 +1,8 @@
 {
     "tokenid": 1349,
-    "eco": "C51",
-    "name": "Evans Gambit: Morphy Attack",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 1/2",
-    "FEN": "r1bqk1nr/ppp2ppp/1bnp4/8/2BPP3/2N2N2/P4PPP/R1BQ1RK1 b kq - 2 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1349.svg"
+    "eco": "B66",
+    "name": "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 1/2",
+    "FEN": "r1bqkb1r/1p3ppp/p1nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R w KQkq - 0 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1349.svg"
 }

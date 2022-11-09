@@ -1,8 +1,8 @@
 {
     "tokenid": 448,
-    "eco": "A89",
-    "name": "Dutch: Leningrad: Main Variation (with Nc6)",
-    "pgn": "1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 Nc6 1/2",
-    "FEN": "r1bq1rk1/ppp1p1bp/2np1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/448.svg"
+    "eco": "A40",
+    "name": "Modern Defense",
+    "pgn": "1. d4 g6 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/448.svg"
 }

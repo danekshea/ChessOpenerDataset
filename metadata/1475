@@ -1,8 +1,8 @@
 {
     "tokenid": 1475,
-    "eco": "C78",
-    "name": "Ruy Lopez: Archangel Variation (...Bc5)",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 1/2",
-    "FEN": "r1bqk2r/2pp1ppp/p1n2n2/1pb1p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 w kq - 2 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1475.svg"
+    "eco": "C00",
+    "name": "French Defense: Wing Gambit",
+    "pgn": "1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/2ppP3/1P6/5N2/P1PP1PPP/RNBQKB1R b KQkq b3 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1475.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 2068,
-    "eco": "E39",
-    "name": "Nimzo-Indian: Classical: Pirc Variation",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 1/2",
-    "FEN": "rnbq1rk1/pp1p1ppp/4pn2/2P5/1bP5/2N5/PPQ1PPPP/R1B1KBNR w KQ - 1 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2068.svg"
+    "eco": "C42",
+    "name": "Russian Game: Damiano Variation, Kholmov Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 1/2",
+    "FEN": "rnb1kb1r/ppppqppp/8/4N3/4n3/8/PPPPQPPP/RNB1KB1R w KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2068.svg"
 }

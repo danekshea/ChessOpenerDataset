@@ -1,8 +1,8 @@
 {
     "tokenid": 247,
-    "eco": "A35",
-    "name": "English: Symmetrical: Four Knights System",
-    "pgn": "1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6 1/2",
-    "FEN": "r1bqkb1r/pp1ppppp/2n2n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 4 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/247.svg"
+    "eco": "A07",
+    "name": "King's Indian Attack: Double Fianchetto",
+    "pgn": "1. Nf3 d5 2. g3 g6 1/2",
+    "FEN": "rnbqkbnr/ppp1pp1p/6p1/3p4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/247.svg"
 }

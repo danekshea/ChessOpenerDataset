@@ -1,8 +1,8 @@
 {
     "tokenid": 2119,
-    "eco": "E61",
-    "name": "King's Indian: Smyslov System",
-    "pgn": "1.Nf3 g6 2.c4 Bg7 3.Nc3 Nf6 4.d4 d6 1/2",
-    "FEN": "rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2119.svg"
+    "eco": "C44",
+    "name": "Scotch Game",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2119.svg"
 }

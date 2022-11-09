@@ -1,8 +1,8 @@
 {
     "tokenid": 726,
-    "eco": "B31",
-    "name": "Sicilian: Nimzovich-Rossolimo Attack",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 1/2",
-    "FEN": "r1bqkbnr/pp1ppp1p/2n3p1/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/726.svg"
+    "eco": "B00",
+    "name": "Borg Opening: Zilbermints Gambit",
+    "pgn": "1. e4 g5 2. d4 e5 1/2",
+    "FEN": "rnbqkbnr/pppp1p1p/8/4p1p1/3PP3/8/PPP2PPP/RNBQKBNR w KQkq e6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/726.svg"
 }

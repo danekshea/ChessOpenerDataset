@@ -1,8 +1,8 @@
 {
     "tokenid": 442,
-    "eco": "A87",
-    "name": "Dutch: Leningrad: Main Variation",
-    "pgn": "1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 1/2",
-    "FEN": "rnbqk2r/ppppp1bp/5np1/5p2/2PP4/5NP1/PP2PPBP/RNBQK2R b KQkq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/442.svg"
+    "eco": "A40",
+    "name": "Kangaroo Defense",
+    "pgn": "1. d4 e6 2. c4 Bb4+ 1/2",
+    "FEN": "rnbqk1nr/pppp1ppp/4p3/8/1bPP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/442.svg"
 }

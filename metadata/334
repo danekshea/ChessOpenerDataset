@@ -1,8 +1,8 @@
 {
     "tokenid": 334,
-    "eco": "A48",
-    "name": "King's Indian: East Indian Defense",
-    "pgn": "1.d4 Nf6 2.Nf3 g6 1/2",
-    "FEN": "rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/334.svg"
+    "eco": "A16",
+    "name": "English Opening: Anglo-Indian Defense, Queen's Knight Variation",
+    "pgn": "1. c4 Nf6 2. Nc3 1/2",
+    "FEN": "rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/334.svg"
 }

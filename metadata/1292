@@ -1,8 +1,8 @@
 {
     "tokenid": 1292,
-    "eco": "C44",
-    "name": "Konstantinopolsky Opening",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.g3 1/2",
-    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5NP1/PPPP1P1P/RNBQKB1R b KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1292.svg"
+    "eco": "B48",
+    "name": "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 1/2",
+    "FEN": "r1b1kbnr/1pqp1ppp/p1n1p3/8/3NP3/2N1B3/PPPQ1PPP/R3KB1R b KQkq - 1 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1292.svg"
 }

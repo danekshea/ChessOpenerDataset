@@ -1,8 +1,8 @@
 {
     "tokenid": 422,
-    "eco": "A81",
-    "name": "Dutch: Leningrad: Karlsbad Variation",
-    "pgn": "1.d4 f5 2.g3 g6 3.Bg2 Bg7 4.Nh3 1/2",
-    "FEN": "rnbqk1nr/ppppp1bp/6p1/5p2/3P4/6PN/PPP1PPBP/RNBQK2R b KQkq - 3 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/422.svg"
+    "eco": "A40",
+    "name": "English Defense: Hartlaub Gambit Declined",
+    "pgn": "1. c4 e6 2. d4 b6 3. Nc3 Bb7 4. e4 f5 5. d5 1/2",
+    "FEN": "rn1qkbnr/pbpp2pp/1p2p3/3P1p2/2P1P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/422.svg"
 }

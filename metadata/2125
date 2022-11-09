@@ -1,8 +1,8 @@
 {
     "tokenid": 2125,
-    "eco": "E62",
-    "name": "King's Indian: Fianchetto: Simagin Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O Bg4 1/2",
-    "FEN": "r2q1rk1/ppp1ppbp/2np1np1/8/2PP2b1/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2125.svg"
+    "eco": "C44",
+    "name": "Scotch Game: G\u00f6ring Gambit, Bardeleben Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Nf6 6. Nxc3 Bb4 1/2",
+    "FEN": "r1bqk2r/pppp1ppp/2n2n2/8/1bB1P3/2N2N2/PP3PPP/R1BQK2R w KQkq - 1 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2125.svg"
 }

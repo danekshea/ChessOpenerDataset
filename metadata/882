@@ -1,8 +1,8 @@
 {
     "tokenid": 882,
-    "eco": "B72",
-    "name": "Sicilian: Dragon, Classical: Amsterdam Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Qd2 1/2",
-    "FEN": "r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPPQBPPP/R3K2R b KQkq - 5 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/882.svg"
+    "eco": "B03",
+    "name": "Alekhine Defense: Four Pawns Attack, Main Line",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 1/2",
+    "FEN": "r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/4B3/PP4PP/RN1QKBNR b KQkq - 2 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/882.svg"
 }

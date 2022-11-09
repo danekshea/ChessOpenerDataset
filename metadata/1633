@@ -1,8 +1,8 @@
 {
     "tokenid": 1633,
-    "eco": "D15/07",
-    "name": "QGD: Slav: Tolush-Geller Gambit",
-    "pgn": "1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4 b5 6.e5 1/2",
-    "FEN": "rnbqkb1r/p3pppp/2p2n2/1p2P3/2pP4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1633.svg"
+    "eco": "C20",
+    "name": "King's Pawn Game: Napoleon Attack",
+    "pgn": "1. e4 e5 2. Qf3 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1633.svg"
 }

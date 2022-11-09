@@ -1,8 +1,8 @@
 {
     "tokenid": 411,
-    "eco": "A74",
-    "name": "Benoni: Classical (9...a6 10.a4)",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6 10.a4 1/2",
-    "FEN": "rnbq1rk1/1p3pbp/p2p1np1/2pP4/P3P3/2N2N2/1P2BPPP/R1BQ1RK1 b - a3 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/411.svg"
+    "eco": "A40",
+    "name": "Benoni Defense: Franco-Sicilian Hybrid",
+    "pgn": "1. d4 e6 2. c4 c5 3. d5 exd5 4. cxd5 d6 5. Nc3 g6 6. e4 Bg7 7. Nf3 Ne7 1/2",
+    "FEN": "rnbqk2r/pp2npbp/3p2p1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 3 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/411.svg"
 }

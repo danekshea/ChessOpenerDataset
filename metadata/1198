@@ -1,8 +1,8 @@
 {
     "tokenid": 1198,
-    "eco": "C37",
-    "name": "KGA: Silberschmidt Gambit",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4+ 6.Kf1 Nh6 7.d4 f3 1/2",
-    "FEN": "rnb1kb1r/pppp1p1p/7n/4N3/2BPP1pq/5p2/PPP3PP/RNBQ1K1R w kq - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1198.svg"
+    "eco": "B28",
+    "name": "Sicilian Defense: O'Kelly Variation, Venice System, Steiner Line",
+    "pgn": "1. e4 c5 2. Nf3 a6 3. c3 d6 1/2",
+    "FEN": "rnbqkbnr/1p2pppp/p2p4/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1198.svg"
 }

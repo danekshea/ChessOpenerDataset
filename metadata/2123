@@ -1,8 +1,8 @@
 {
     "tokenid": 2123,
-    "eco": "E62",
-    "name": "King's Indian: Fianchetto: Uhlmann (Szabo) Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O e5 1/2",
-    "FEN": "r1bq1rk1/ppp2pbp/2np1np1/4p3/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - e6 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2123.svg"
+    "eco": "C44",
+    "name": "Scotch Game: Cochrane-Shumov Defense",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Nxf7 Nxf7 7. Bxf7+ Kxf7 8. Qh5+ g6 9. Qxc5 d5 1/2",
+    "FEN": "r1bq3r/ppp2k1p/2n3p1/2Qp4/3pP3/8/PPP2PPP/RNB1K2R w KQ d6 0 10",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2123.svg"
 }

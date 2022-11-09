@@ -1,8 +1,8 @@
 {
     "tokenid": 1226,
-    "eco": "C40",
-    "name": "QP Counter-Gambit: Maroczy Gambit",
-    "pgn": "1.e4 e5 2.Nf3 d5 3.exd5 Bd6 1/2",
-    "FEN": "rnbqk1nr/ppp2ppp/3b4/3Pp3/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1226.svg"
+    "eco": "B32",
+    "name": "Sicilian Defense: Open",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 1/2",
+    "FEN": "r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1226.svg"
 }

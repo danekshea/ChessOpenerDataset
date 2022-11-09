@@ -1,8 +1,8 @@
 {
     "tokenid": 599,
-    "eco": "B12/02",
-    "name": "Caro-Kann: 3.e5 c5",
-    "pgn": "1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 1/2",
-    "FEN": "rnbqkbnr/pp3ppp/4p3/2PpP3/8/8/PPP2PPP/RNBQKBNR w KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/599.svg"
+    "eco": "A56",
+    "name": "Benoni Defense: Weenink Variation",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. dxc5 e6 1/2",
+    "FEN": "rnbqkb1r/pp1p1ppp/4pn2/2P5/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/599.svg"
 }

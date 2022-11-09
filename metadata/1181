@@ -1,8 +1,8 @@
 {
     "tokenid": 1181,
-    "eco": "C35",
-    "name": "KGA: Cunningham: Bertin Gambit",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+ 5.g3 1/2",
-    "FEN": "rnbqk1nr/pppp1ppp/8/8/2B1Pp1b/5NP1/PPPP3P/RNBQK2R b KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1181.svg"
+    "eco": "B28",
+    "name": "Sicilian Defense: O'Kelly Variation",
+    "pgn": "1. e4 c5 2. Nf3 a6 1/2",
+    "FEN": "rnbqkbnr/1p1ppppp/p7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1181.svg"
 }

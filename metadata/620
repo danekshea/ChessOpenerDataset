@@ -1,8 +1,8 @@
 {
     "tokenid": 620,
-    "eco": "B14",
-    "name": "Caro-Kann: Panov-Botvinnik Attack: 5...g6",
-    "pgn": "1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 1/2",
-    "FEN": "rnbqkb1r/pp2pp1p/5np1/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/620.svg"
+    "eco": "A58",
+    "name": "Benko Gambit: Fianchetto Variation",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. g3 1/2",
+    "FEN": "rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/620.svg"
 }

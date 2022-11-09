@@ -1,8 +1,8 @@
 {
     "tokenid": 1454,
-    "eco": "C71",
-    "name": "Ruy Lopez: Modern Steinitz Defense: Duras (Keres) Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c4 1/2",
-    "FEN": "r1bqkbnr/1pp2ppp/p1np4/4p3/B1P1P3/5N2/PP1P1PPP/RNBQK2R b KQkq c3 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1454.svg"
+    "eco": "C00",
+    "name": "French Defense: Franco-Hiva Gambit Accepted",
+    "pgn": "1. e4 e6 2. d4 f5 3. exf5 Nf6 1/2",
+    "FEN": "rnbqkb1r/pppp2pp/4pn2/5P2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1454.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1084,
-    "eco": "C18",
-    "name": "French: Winawer: Classical Variation",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7 1/2",
-    "FEN": "rnb1k1nr/ppq2ppp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1BQKBNR w KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1084.svg"
+    "eco": "B20",
+    "name": "Sicilian Defense: Kronberger Variation, Nemeth Gambit",
+    "pgn": "1. e4 c5 2. Na3 Nc6 3. d4 cxd4 4. Bc4 1/2",
+    "FEN": "r1bqkbnr/pp1ppppp/2n5/8/2BpP3/N7/PPP2PPP/R1BQK1NR b KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1084.svg"
 }

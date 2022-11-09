@@ -1,8 +1,8 @@
 {
     "tokenid": 1601,
-    "eco": "D08",
-    "name": "QGD: Albin Counter-Gambit: Lasker Trap",
-    "pgn": "1.d4 d5 2.c4 e5 3.dxe5 d4 4.e3 Bb4+ 5.Bd2 dxe3 1/2",
-    "FEN": "rnbqk1nr/ppp2ppp/8/4P3/1bP5/4p3/PP1B1PPP/RN1QKBNR w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1601.svg"
+    "eco": "C17",
+    "name": "French Defense: Winawer Variation, Advance Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 1/2",
+    "FEN": "rnbqk1nr/pp3ppp/4p3/2ppP3/1b1P4/P1N5/1PP2PPP/R1BQKBNR b KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1601.svg"
 }

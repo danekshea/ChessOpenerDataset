@@ -1,8 +1,8 @@
 {
     "tokenid": 959,
-    "eco": "B90",
-    "name": "Sicilian: Najdorf: Adams Attack",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 1/2",
-    "FEN": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N4P/PPP2PP1/R1BQKB1R b KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/959.svg"
+    "eco": "B07",
+    "name": "Pirc Defense: Byrne Variation",
+    "pgn": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 1/2",
+    "FEN": "rnbqkb1r/ppp1pp1p/3p1np1/6B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/959.svg"
 }

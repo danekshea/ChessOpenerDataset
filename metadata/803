@@ -1,8 +1,8 @@
 {
     "tokenid": 803,
-    "eco": "B47/06",
-    "name": "Sicilian: Taimanov (Bastrikov): 6.g3",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.g3 a6 7.Bg2 Nf6 8.O-O Nxd4 9.Qxd4 Bc5 10.Bf4 d6 11.Qd2 h6 12.Rad1 e5 13.Be3 Ke7 14.Bxc5 Qxc5 1/2",
-    "FEN": "r1b4r/1p2kpp1/p2p1n1p/2q1p3/4P3/2N3P1/PPPQ1PBP/3R1RK1 w - - 0 15",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/803.svg"
+    "eco": "B00",
+    "name": "Van Geet Opening: Berlin Gambit",
+    "pgn": "1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 1/2",
+    "FEN": "r1bqkbnr/ppp1pppp/2n5/3P4/4p3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/803.svg"
 }

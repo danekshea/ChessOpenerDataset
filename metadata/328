@@ -1,8 +1,8 @@
 {
     "tokenid": 328,
-    "eco": "A46/08",
-    "name": "Queen's Pawn: Torre Attack (...h6 4.Bh4)",
-    "pgn": "1.d4 Nf6 2.Nf3 e6 3.Bg5 h6 4.Bh4 b6 5.e3 Bb7 6.Nbd2 Be7 7.c3 c5 8.Bd3 O-O 1/2",
-    "FEN": "rn1q1rk1/pb1pbpp1/1p2pn1p/2p5/3P3B/2PBPN2/PP1N1PPP/R2QK2R w KQ - 2 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/328.svg"
+    "eco": "A15",
+    "name": "Polish Opening: King's Indian Variation, Sokolsky Attack",
+    "pgn": "1. Nf3 Nf6 2. c4 g6 3. b4 Bg7 4. Bb2 O-O 5. e3 d6 6. d4 1/2",
+    "FEN": "rnbq1rk1/ppp1ppbp/3p1np1/8/1PPP4/4PN2/PB3PPP/RN1QKB1R b KQ d3 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/328.svg"
 }

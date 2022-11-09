@@ -1,8 +1,8 @@
 {
     "tokenid": 1838,
-    "eco": "D59",
-    "name": "QGD: Tartakower: (Makagonov-Bondarevsky) System 8.cd Nxd5",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6 8.cxd5 Nxd5 1/2",
-    "FEN": "rnbq1rk1/p1p1bpp1/1p2p2p/3n4/3P3B/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1838.svg"
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Bishop's Gambit, First Jaenisch Variation",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Nf6 1/2",
+    "FEN": "rnb1kb1r/pppp1ppp/5n2/8/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq - 4 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1838.svg"
 }

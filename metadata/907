@@ -1,8 +1,8 @@
 {
     "tokenid": 907,
-    "eco": "B80",
-    "name": "Sicilian: Scheveningen Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 1/2",
-    "FEN": "rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/907.svg"
+    "eco": "B06",
+    "name": "Modern Defense: Gurgenidze Defense",
+    "pgn": "1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 5. e5 h5 1/2",
+    "FEN": "rnbqk1nr/pp2ppb1/2p3p1/3pP2p/3P1P2/2N5/PPP3PP/R1BQKBNR w KQkq h6 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/907.svg"
 }

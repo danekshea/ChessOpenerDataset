@@ -1,8 +1,8 @@
 {
     "tokenid": 1405,
-    "eco": "C62/02",
-    "name": "Ruy Lopez: Old Steinitz Defense: (d4 ...exd4)",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 exd4 5.Qxd4 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 Be7 9.O-O-O O-O 10.Rhe1 Re8 1/2",
-    "FEN": "r2qr1k1/ppp1bppp/2bp1n2/6B1/3QP3/2N2N2/PPP2PPP/2KRR3 w - - 8 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1405.svg"
+    "eco": "B85",
+    "name": "Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8. Be3 d6 9. f4 1/2",
+    "FEN": "r1b1kb1r/1pq2ppp/p1nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b kq f3 0 9",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1405.svg"
 }

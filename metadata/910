@@ -1,8 +1,8 @@
 {
     "tokenid": 910,
-    "eco": "B80/03",
-    "name": "Sicilian: Scheveningen: Fianchetto Variation",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.g3 a6 7.Bg2 Bd7 8.O-O Nf6 9.Re1 Be7 10.Nxc6 Bxc6 11.a4 O-O 12.a5 Nd7 13.Be3 Qc7 1/2",
-    "FEN": "r4rk1/1pqnbppp/p1bpp3/P7/4P3/2N1B1P1/1PP2PBP/R2QR1K1 w - - 3 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/910.svg"
+    "eco": "B06",
+    "name": "Modern Defense: Modern Pterodactyl",
+    "pgn": "1. e4 g6 2. d4 Bg7 3. Nc3 c5 1/2",
+    "FEN": "rnbqk1nr/pp1pppbp/6p1/2p5/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq c6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/910.svg"
 }

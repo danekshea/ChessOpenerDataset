@@ -1,8 +1,8 @@
 {
     "tokenid": 746,
-    "eco": "B33/32",
-    "name": "Sicilian: Sveshnikov: Novosibirsk Variation 11.Bd3",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 Bg7 11.Bd3 Ne7 12.Nxe7 Qxe7 13.c4 f5 14.O-O O-O 15.Qh5\n 1/2",
-    "FEN": "r1b2rk1/4qpbp/p2p4/1p2pp1Q/2P1P3/N2B4/PP3PPP/R4RK1 b - - 3 15",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/746.svg"
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: El Columpio Defense, Exchange Variation",
+    "pgn": "1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4 4. d4 d6 5. h3 Nh6 6. exd6 1/2",
+    "FEN": "r1bqkb1r/ppp1pppp/2nP3n/8/3P4/5N1P/PPP2PP1/RNBQKB1R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/746.svg"
 }

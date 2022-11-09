@@ -1,8 +1,8 @@
 {
     "tokenid": 1443,
-    "eco": "C68",
-    "name": "Ruy Lopez: Exchange: Romanovsky Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 f6 6.d3 1/2",
-    "FEN": "r1bqkbnr/1pp3pp/p1p2p2/4p3/4P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1443.svg"
+    "eco": "C00",
+    "name": "French Defense",
+    "pgn": "1. e4 e6 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1443.svg"
 }

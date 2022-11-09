@@ -1,8 +1,8 @@
 {
     "tokenid": 2034,
-    "eco": "E20/05",
-    "name": "Nimzo-Indian: Kasparov System",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 Nc6 6.Bg2 Ne4 7.Bd2 Bxc3 8.bxc3 O-O 9.O-O Na5 1/2",
-    "FEN": "r1bq1rk1/pp1p1ppp/4p3/n1p5/2PPn3/2P2NP1/P2BPPBP/R2Q1RK1 w - - 3 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2034.svg"
+    "eco": "C41",
+    "name": "Philidor Defense: Nimzowitsch, Locock Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Ng5 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/3p1n2/4p1N1/3PP3/8/PPP2PPP/RNBQKB1R b KQkq - 2 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2034.svg"
 }

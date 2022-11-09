@@ -1,8 +1,8 @@
 {
     "tokenid": 1948,
-    "eco": "E00",
-    "name": "Queen's Pawn Game",
-    "pgn": "1.d4 Nf6 2.c4 e6 1/2",
-    "FEN": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1948.svg"
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Kieseritzky Gambit, Neumann Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nc6 1/2",
+    "FEN": "r1bqkbnr/pppp1p1p/2n5/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 2 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1948.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1191,
-    "eco": "C37",
-    "name": "KGA: Soerensen Gambit",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4 5.Ne5 1/2",
-    "FEN": "rnbqkbnr/pppp1p1p/8/4N3/3PPpp1/8/PPP3PP/RNBQKB1R b KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1191.svg"
+    "eco": "B28",
+    "name": "Sicilian Defense: O'Kelly Variation, Normal System, Zagorovsky Line",
+    "pgn": "1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Qxd4 1/2",
+    "FEN": "rnbqkbnr/1p1ppppp/p7/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1191.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 2156,
-    "eco": "E73/04",
-    "name": "King's Indian: Averbakh System (...Na6)",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 Na6 7.Qd2 e5 8.d5 Qe8 9.Bd1 Nc5 10.Bc2 a5 11.Nge2 Bd7 12.f3 h5 1/2",
-    "FEN": "r3qrk1/1ppb1pb1/3p1np1/p1nPp1Bp/2P1P3/2N2P2/PPBQN1PP/R3K2R w KQ h6 0 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2156.svg"
+    "eco": "C45",
+    "name": "Scotch Game: Gottschall Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Qd2 d5 8. Nb5 Bxe3 9. Qxe3 O-O 10. Nxc7 Rb8 1 1/2",
+    "FEN": "1rb2rk1/ppN1nppp/2n2q2/3p4/4P3/2P1Q3/PP3PPP/RN2KB1R w KQ - 1 11",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2156.svg"
 }

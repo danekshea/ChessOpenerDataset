@@ -1,8 +1,8 @@
 {
     "tokenid": 1189,
-    "eco": "C36/01",
-    "name": "KGA: Abbazia Defense (...Bd6)",
-    "pgn": "1.e4 e5 2.f4 d5 3.exd5 exf4 4.Nf3 Bd6 5.d4 Ne7 6.c4 1/2",
-    "FEN": "rnbqk2r/ppp1nppp/3b4/3P4/2PP1p2/5N2/PP4PP/RNBQKB1R b KQkq c3 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1189.svg"
+    "eco": "B28",
+    "name": "Sicilian Defense: O'Kelly Variation, Normal System, Smith-Morra Line",
+    "pgn": "1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. c3 1/2",
+    "FEN": "rnbqkbnr/1p1ppppp/p7/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1189.svg"
 }

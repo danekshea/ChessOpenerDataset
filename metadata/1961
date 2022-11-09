@@ -1,8 +1,8 @@
 {
     "tokenid": 1961,
-    "eco": "E03",
-    "name": "Catalan: Open: 5.Qa4 Nbd7 6.Qxc4",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Qxc4 1/2",
-    "FEN": "r1bqkb1r/pppn1ppp/4pn2/8/2QP4/6P1/PP2PPBP/RNB1K1NR b KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1961.svg"
+    "eco": "C40",
+    "name": "Elephant Gambit: Wasp Variation",
+    "pgn": "1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. Bc4 Qg5 1/2",
+    "FEN": "rnb1kbnr/ppp2ppp/8/4N1q1/2B1p3/8/PPPP1PPP/RNBQK2R w KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1961.svg"
 }

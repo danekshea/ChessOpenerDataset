@@ -1,8 +1,8 @@
 {
     "tokenid": 1509,
-    "eco": "C86",
-    "name": "Ruy Lopez: Worrall Attack: Solid Line",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3 d6 1/2",
-    "FEN": "r1bqk2r/2p1bppp/p1np1n2/1p2p3/4P3/1B3N2/PPPPQPPP/RNB2RK1 w kq - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1509.svg"
+    "eco": "C03",
+    "name": "French Defense: Tarrasch Variation, Modern System",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 a6 1/2",
+    "FEN": "rnbqkbnr/1pp2ppp/p3p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1509.svg"
 }

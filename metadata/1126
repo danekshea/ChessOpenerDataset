@@ -1,8 +1,8 @@
 {
     "tokenid": 1126,
-    "eco": "C26/09",
-    "name": "Vienna Game: (Bc4...Bc5)",
-    "pgn": "1.e4 e5 2.Nc3 Nf6 3.Bc4 Bc5 4.d3 d6 5.Bg5 h6 1/2",
-    "FEN": "rnbqk2r/ppp2pp1/3p1n1p/2b1p1B1/2B1P3/2NP4/PPP2PPP/R2QK1NR w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1126.svg"
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit, Chicago Defense",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Bc4 e6 6. Nf3 d6 7. O-O a6 8. Qe2 b5 9. Bb3 Ra7 1/2",
+    "FEN": "2bqkbnr/r4ppp/p1npp3/1p6/4P3/1BN2N2/PP2QPPP/R1B2RK1 w k - 2 10",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1126.svg"
 }

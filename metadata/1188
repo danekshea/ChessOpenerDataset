@@ -1,8 +1,8 @@
 {
     "tokenid": 1188,
-    "eco": "C36/08",
-    "name": "KGA: Abbazia Defense: 5.Bc4",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.Bc4 Nxd5 6.O-O Be7 7.d4 O-O 8.Bxd5 Qxd5 9.Bxf4 1/2",
-    "FEN": "rnb2rk1/ppp1bppp/8/3q4/3P1B2/5N2/PPP3PP/RN1Q1RK1 b - - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1188.svg"
+    "eco": "B28",
+    "name": "Sicilian Defense: O'Kelly Variation, Normal System, Cortlever Gambit",
+    "pgn": "1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Bc4 1/2",
+    "FEN": "rnbqkbnr/1p1ppppp/p7/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1188.svg"
 }

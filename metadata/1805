@@ -1,8 +1,8 @@
 {
     "tokenid": 1805,
-    "eco": "D51",
-    "name": "QGD: 4.Bg5 Nbd7",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 1/2",
-    "FEN": "r1bqkb1r/pppn1ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 4 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1805.svg"
+    "eco": "C31",
+    "name": "King's Gambit Declined: Falkbeer Countergambit, Miles Gambit",
+    "pgn": "1. e4 e5 2. f4 d5 3. exd5 Bc5 1/2",
+    "FEN": "rnbqk1nr/ppp2ppp/8/2bPp3/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1805.svg"
 }

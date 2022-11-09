@@ -1,8 +1,8 @@
 {
     "tokenid": 798,
-    "eco": "B46",
-    "name": "Sicilian: Taimanov Variation",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 1/2",
-    "FEN": "r1bqkbnr/1p1p1ppp/p1n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/798.svg"
+    "eco": "B00",
+    "name": "Rat Defense: Petruccioli Attack",
+    "pgn": "1. e4 d6 2. h4 1/2",
+    "FEN": "rnbqkbnr/ppp1pppp/3p4/8/4P2P/8/PPPP1PP1/RNBQKBNR b KQkq h3 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/798.svg"
 }

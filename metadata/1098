@@ -1,8 +1,8 @@
 {
     "tokenid": 1098,
-    "eco": "C22",
-    "name": "Centre Game: Paulsen Attack",
-    "pgn": "1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 1/2",
-    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/4P3/4Q3/PPP2PPP/RNB1KBNR b KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1098.svg"
+    "eco": "B20",
+    "name": "Sicilian Defense: Wing Gambit, Romanian Defense",
+    "pgn": "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. Bb2 Nc6 7. c4 Qe6 1/2",
+    "FEN": "r1b1kbnr/pp3ppp/2n1q3/4p3/1pP5/P4N2/1B1P1PPP/RN1QKB1R w KQkq - 1 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1098.svg"
 }

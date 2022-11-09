@@ -1,8 +1,8 @@
 {
     "tokenid": 274,
-    "eco": "A40",
-    "name": "Queen's Pawn-English Symmetrical",
-    "pgn": "1.d4 e6 2.Nf3 b6 3.Bf4 Bb7 4.e3 d6 5.Nbd2 Nd7 1/2",
-    "FEN": "r2qkbnr/pbpn1ppp/1p1pp3/8/3P1B2/4PN2/PPPN1PPP/R2QKB1R w KQkq - 2 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/274.svg"
+    "eco": "A10",
+    "name": "English Opening: Anglo-Scandinavian Defense",
+    "pgn": "1. c4 d5 1/2",
+    "FEN": "rnbqkbnr/ppp1pppp/8/3p4/2P5/8/PP1PPPPP/RNBQKBNR w KQkq d6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/274.svg"
 }

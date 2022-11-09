@@ -1,8 +1,8 @@
 {
     "tokenid": 531,
-    "eco": "B06",
-    "name": "Pirc-Robatsch: 4.Be3 Nf6",
-    "pgn": "1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 Nf6 1/2",
-    "FEN": "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR w KQkq - 2 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/531.svg"
+    "eco": "A45",
+    "name": "Trompowsky Attack: Edge Variation",
+    "pgn": "1. d4 Nf6 2. Bg5 Ne4 3. Bh4 1/2",
+    "FEN": "rnbqkb1r/pppppppp/8/8/3Pn2B/8/PPP1PPPP/RN1QKBNR b KQkq - 4 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/531.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 312,
-    "eco": "A45/06",
-    "name": "Trompovsky Attack: ...e6 3.e4",
-    "pgn": "1.d4 Nf6 2.Bg5 e6 3.e4 h6 4.Bxf6 Qxf6 5.Nf3 d6 6.Nc3 Nd7 7.Qd2 c6 8.O-O-O e5 9.dxe5 Nxe5 1/2",
-    "FEN": "r1b1kb1r/pp3pp1/2pp1q1p/4n3/4P3/2N2N2/PPPQ1PPP/2KR1B1R w kq - 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/312.svg"
+    "eco": "A14",
+    "name": "English Opening: Agincourt Defense, Keres Defense",
+    "pgn": "1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc6 7. O-O Be7 1/2",
+    "FEN": "r1bqk2r/pp2bppp/2n1p3/2pn4/8/2N2NP1/PP1PPPBP/R1BQ1RK1 w kq - 4 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/312.svg"
 }

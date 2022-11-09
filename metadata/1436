@@ -1,8 +1,8 @@
 {
     "tokenid": 1436,
-    "eco": "C67",
-    "name": "Ruy Lopez: Berlin Defense: Rio de Janeiro Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6 7.Bxc6 bxc6 8.dxe5 Nb7 9.Nc3 O-O 10.Re1 Nc5 11.Nd4 Ne6 12.Be3 Nxd4 13.Bxd4 c5 1/2",
-    "FEN": "r1bq1rk1/p1ppbppp/8/2p1P3/3B4/2N5/PPP1QPPP/R3R1K1 w - - 0 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1436.svg"
+    "eco": "B97",
+    "name": "Sicilian Defense: Najdorf Variation, Poisoned Pawn Accepted",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Rb1 Qa3 1/2",
+    "FEN": "rnb1kb1r/1p3ppp/p2ppn2/6B1/3NPP2/q1N5/P1PQ2PP/1R2KB1R w Kkq - 2 10",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1436.svg"
 }

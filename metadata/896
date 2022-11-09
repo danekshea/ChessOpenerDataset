@@ -1,8 +1,8 @@
 {
     "tokenid": 896,
-    "eco": "B77/04",
-    "name": "Sicilian: Dragon, Yugoslav Attack: 9...Bd7",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.h4 Nxd4 11.Bxd4 b5 12.Bb3 1/2",
-    "FEN": "r2q1rk1/p2bppbp/3p1np1/1p6/3BP2P/1BN2P2/PPPQ2P1/R3K2R b KQ - 1 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/896.svg"
+    "eco": "B05",
+    "name": "Alekhine Defense: Modern Variation, Main Line",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 1/2",
+    "FEN": "rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/896.svg"
 }

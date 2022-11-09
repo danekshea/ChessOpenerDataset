@@ -1,8 +1,8 @@
 {
     "tokenid": 2036,
-    "eco": "E21",
-    "name": "Nimzo-Indian: Three Knights Variation",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 1/2",
-    "FEN": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2036.svg"
+    "eco": "C41",
+    "name": "Philidor Defense: Philidor Countergambit",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 f5 1/2",
+    "FEN": "rnbqkbnr/ppp3pp/3p4/4pp2/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq f6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2036.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1130,
-    "eco": "C28",
-    "name": "Vienna Game: 4.d3",
-    "pgn": "1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6 4.d3 1/2",
-    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2NP4/PPP2PPP/R1BQK1NR b KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1130.svg"
+    "eco": "B22",
+    "name": "Sicilian Defense: Alapin Variation, Barmen Defense, Central Exchange",
+    "pgn": "1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 1/2",
+    "FEN": "r3kbnr/pp2pppp/2n5/3q4/3P2b1/5N2/PP3PPP/RNBQKB1R w KQkq - 3 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1130.svg"
 }

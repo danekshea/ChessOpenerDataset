@@ -1,8 +1,8 @@
 {
     "tokenid": 200,
-    "eco": "A25",
-    "name": "English: Closed: (5.Rb1)",
-    "pgn": "1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1 1/2",
-    "FEN": "r1bqk1nr/pppp1pbp/2n3p1/4p3/2P5/2N3P1/PP1PPPBP/1RBQK1NR b Kkq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/200.svg"
+    "eco": "A04",
+    "name": "Zukertort Opening: Drunken Cavalry Variation",
+    "pgn": "1. Nf3 Na6 2. e4 Nh6 1/2",
+    "FEN": "r1bqkb1r/pppppppp/n6n/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 1 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/200.svg"
 }

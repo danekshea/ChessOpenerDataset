@@ -1,8 +1,8 @@
 {
     "tokenid": 1186,
-    "eco": "C36/13",
-    "name": "KGA: Abbazia Defense: Modern Variation 6...Nxc6",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.Bb5+ c6 6.dxc6 Nxc6 7.d4 Bd6 8.O-O O-O 9.Nbd2 Bg4 10.Nc4 Bc7 11.Bxc6 bxc6 12.Qd3 Bxf3 13.Rxf3 Nh5 1/2",
-    "FEN": "r2q1rk1/p1b2ppp/2p5/7n/2NP1p2/3Q1R2/PPP3PP/R1B3K1 w - - 1 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1186.svg"
+    "eco": "B28",
+    "name": "Sicilian Defense: O'Kelly Variation, Mar\u00f3czy Bind, Robatsch Line",
+    "pgn": "1. e4 c5 2. Nf3 a6 3. c4 d6 1/2",
+    "FEN": "rnbqkbnr/1p2pppp/p2p4/2p5/2P1P3/5N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1186.svg"
 }

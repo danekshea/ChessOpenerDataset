@@ -1,8 +1,8 @@
 {
     "tokenid": 1257,
-    "eco": "C42",
-    "name": "Petrov's Defense",
-    "pgn": "1.e4 e5 2.Nf3 Nf6 1/2",
-    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1257.svg"
+    "eco": "B40",
+    "name": "Sicilian Defense: Gaw-Paw Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qb6 1/2",
+    "FEN": "rnb1kb1r/pp1p1ppp/1q2pn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1257.svg"
 }

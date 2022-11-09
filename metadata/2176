@@ -1,8 +1,8 @@
 {
     "tokenid": 2176,
-    "eco": "E81",
-    "name": "King's Indian: Saemisch: Byrne Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c6 7.Bd3 a6 1/2",
-    "FEN": "rnbq1rk1/1p2ppbp/p1pp1np1/8/2PPP3/2NBBP2/PP4PP/R2QK1NR w KQ - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2176.svg"
+    "eco": "C46",
+    "name": "Four Knights Game: Gunsberg Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. a3 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/P1N2N2/1PPP1PPP/R1BQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2176.svg"
 }

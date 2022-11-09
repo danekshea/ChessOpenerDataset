@@ -1,8 +1,8 @@
 {
     "tokenid": 124,
-    "eco": "A11",
-    "name": "English",
-    "pgn": "1.c4 c6 2.Nf3 d5 3.e3 Nf6 1/2",
-    "FEN": "rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/4PN2/PP1P1PPP/RNBQKB1R w KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/124.svg"
+    "eco": "A00",
+    "name": "Van Geet Opening: Novosibirsk Variation",
+    "pgn": "1. Nc3 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qh4 1/2",
+    "FEN": "r1bqkbnr/pp1ppppp/2n5/8/7Q/2N5/PPP1PPPP/R1B1KBNR b KQkq - 2 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/124.svg"
 }

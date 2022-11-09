@@ -1,8 +1,8 @@
 {
     "tokenid": 1219,
-    "eco": "C39",
-    "name": "KGA: Allgaier Gambit",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 1/2",
-    "FEN": "rnbqkbnr/pppp1p1p/8/6N1/4PppP/8/PPPP2P1/RNBQKB1R b KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1219.svg"
+    "eco": "B32",
+    "name": "Sicilian Defense: Godiva Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 1/2",
+    "FEN": "r1b1kbnr/pp1ppppp/1qn5/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1219.svg"
 }

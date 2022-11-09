@@ -1,8 +1,8 @@
 {
     "tokenid": 1796,
-    "eco": "D49",
-    "name": "QGD: Semi-Slav: Meran, Rabinovich Variation",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Ng4 1/2",
-    "FEN": "r1bqkb1r/3n1ppp/p3p3/1N2P3/3p2n1/3B1N2/PP3PPP/R1BQK2R w KQkq - 1 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1796.svg"
+    "eco": "C30",
+    "name": "King's Gambit Declined: Zilbermints Double Gambit",
+    "pgn": "1. e4 e5 2. f4 Nc6 3. Nf3 g5 1/2",
+    "FEN": "r1bqkbnr/pppp1p1p/2n5/4p1p1/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq g6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1796.svg"
 }

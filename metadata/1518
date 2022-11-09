@@ -1,8 +1,8 @@
 {
     "tokenid": 1518,
-    "eco": "C89",
-    "name": "Ruy Lopez: Marshall Counter-Attack",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 1/2",
-    "FEN": "r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - d6 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1518.svg"
+    "eco": "C07",
+    "name": "French Defense: Tarrasch Variation, Chistyakov Defense",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 1/2",
+    "FEN": "rnb1kbnr/pp3ppp/4p3/2pq4/3P4/8/PPPN1PPP/R1BQKBNR w KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1518.svg"
 }

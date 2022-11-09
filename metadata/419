@@ -1,8 +1,8 @@
 {
     "tokenid": 419,
-    "eco": "A80",
-    "name": "Dutch: Spielmann Gambit",
-    "pgn": "1.d4 f5 2.Nc3 Nf6 3.g4 1/2",
-    "FEN": "rnbqkb1r/ppppp1pp/5n2/5p2/3P2P1/2N5/PPP1PP1P/R1BQKBNR b KQkq g3 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/419.svg"
+    "eco": "A40",
+    "name": "English Defense: Blumenfeld-Hiva Gambit",
+    "pgn": "1. d4 b6 2. c4 c5 3. d5 e6 4. e4 b5 5. cxb5 f5 1/2",
+    "FEN": "rnbqkbnr/p2p2pp/4p3/1PpP1p2/4P3/8/PP3PPP/RNBQKBNR w KQkq f6 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/419.svg"
 }

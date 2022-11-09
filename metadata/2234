@@ -1,8 +1,8 @@
 {
     "tokenid": 2234,
-    "eco": "E98",
-    "name": "King's Indian: Orthodox: Aronin-Taimanov 9.Ne1",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 1/2",
-    "FEN": "r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 b - - 2 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2234.svg"
+    "eco": "C50",
+    "name": "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 1/2",
+    "FEN": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2234.svg"
 }

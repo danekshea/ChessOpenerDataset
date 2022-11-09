@@ -1,8 +1,8 @@
 {
     "tokenid": 1794,
-    "eco": "D48/23",
-    "name": "QGD: Semi-Slav: Meran, Old Main Line",
-    "pgn": "1.d4 Nf6 2.c4 c6 3.Nf3 d5 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 Ng4 1/2",
-    "FEN": "r1bqkb1r/3n1ppp/p3p3/1pp1P3/3P2n1/2NB1N2/PP3PPP/R1BQK2R w KQkq - 1 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1794.svg"
+    "eco": "C30",
+    "name": "King's Gambit Declined: Senechaud Countergambit",
+    "pgn": "1. e4 e5 2. f4 Bc5 3. Nf3 g5 1/2",
+    "FEN": "rnbqk1nr/pppp1p1p/8/2b1p1p1/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq g6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1794.svg"
 }

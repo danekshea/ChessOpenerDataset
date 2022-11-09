@@ -1,8 +1,8 @@
 {
     "tokenid": 1122,
-    "eco": "C25",
-    "name": "Vienna: Paulsen Variation",
-    "pgn": "1.e4 e5 2.Nc3 Nc6 3.g3 1/2",
-    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1122.svg"
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Declined, Dubois Variation",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 d3 4. c4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/8/2P1P3/3p4/PP3PPP/RNBQKBNR b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1122.svg"
 }

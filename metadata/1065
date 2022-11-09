@@ -1,8 +1,8 @@
 {
     "tokenid": 1065,
-    "eco": "C13",
-    "name": "French: Classical: Anderssen-Richter Variation",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.e5 Be7 7.Qg4 1/2",
-    "FEN": "rnbqk2r/ppp1bppp/4p3/3pP3/3P2Q1/2N5/PPP2PPP/R3KBNR b KQkq - 2 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1065.svg"
+    "eco": "B18",
+    "name": "Caro-Kann Defense: Classical Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 1/2",
+    "FEN": "rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1065.svg"
 }

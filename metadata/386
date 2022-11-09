@@ -1,8 +1,8 @@
 {
     "tokenid": 386,
-    "eco": "A61",
-    "name": "Benoni: Nimzovich (Knight's Tour)",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Nd2 1/2",
-    "FEN": "rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N5/PP1NPPPP/R1BQKB1R b KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/386.svg"
+    "eco": "A30",
+    "name": "English Opening: Symmetrical Variation, Hedgehog Defense",
+    "pgn": "1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 1/2",
+    "FEN": "rn1qk2r/pb1pbppp/1p2pn2/2p5/2P5/2N2NP1/PP1PPPBP/R1BQ1RK1 w kq - 4 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/386.svg"
 }

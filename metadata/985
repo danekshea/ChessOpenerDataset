@@ -1,8 +1,8 @@
 {
     "tokenid": 985,
-    "eco": "B98",
-    "name": "Sicilian: Najdorf: Goteborg (Argentine) Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 h6 9.Bh4 g5 1/2",
-    "FEN": "rnbqk2r/1p2bp2/p2ppn1p/6p1/3NPP1B/2N2Q2/PPP3PP/R3KB1R w KQkq g6 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/985.svg"
+    "eco": "B10",
+    "name": "Caro-Kann Defense: Accelerated Panov Attack, Open Variation",
+    "pgn": "1. e4 c6 2. c4 e5 1/2",
+    "FEN": "rnbqkbnr/pp1p1ppp/2p5/4p3/2P1P3/8/PP1P1PPP/RNBQKBNR w KQkq e6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/985.svg"
 }

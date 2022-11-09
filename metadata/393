@@ -1,8 +1,8 @@
 {
     "tokenid": 393,
-    "eco": "A65/03",
-    "name": "Benoni (Bd3)",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Bd3 Bg7 8.h3 O-O 9.Nf3 a6 10.a4 Re8 11.O-O Nbd7 12.Re1 Qc7 13.Bf4 1/2",
-    "FEN": "r1b1r1k1/1pqn1pbp/p2p1np1/2pP4/P3PB2/2NB1N1P/1P3PP1/R2QR1K1 b - - 6 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/393.svg"
+    "eco": "A33",
+    "name": "English Opening: Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense",
+    "pgn": "1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 1/2",
+    "FEN": "r1bqkb1r/pp1p1ppp/2n1pn2/8/2PN4/2N5/PP2PPPP/R1BQKB1R w KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/393.svg"
 }

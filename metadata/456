@@ -1,8 +1,8 @@
 {
     "tokenid": 456,
-    "eco": "A92",
-    "name": "Dutch Defense",
-    "pgn": "1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 1/2",
-    "FEN": "rnbq1rk1/ppppb1pp/4pn2/5p2/2PP4/5NP1/PP2PPBP/RNBQK2R w KQ - 4 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/456.svg"
+    "eco": "A40",
+    "name": "Pterodactyl Defense: Fianchetto, Queen Benoni Pterodactyl",
+    "pgn": "1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 Qa5 1/2",
+    "FEN": "rnb1k1nr/pp1pppbp/6p1/q1pP4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/456.svg"
 }

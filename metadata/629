@@ -1,8 +1,8 @@
 {
     "tokenid": 629,
-    "eco": "B15/07",
-    "name": "Caro-Kann: Gurgenidze: (f4 e5)",
-    "pgn": "1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.f4 d5 5.e5 Nh6 6.Nf3 Bg4 7.h3 1/2",
-    "FEN": "rn1qk2r/pp2ppbp/2p3pn/3pP3/3P1Pb1/2N2N1P/PPP3P1/R1BQKB1R b KQkq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/629.svg"
+    "eco": "A61",
+    "name": "Benoni Defense: Fianchetto Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 1/2",
+    "FEN": "rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/629.svg"
 }

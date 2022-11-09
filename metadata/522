@@ -1,8 +1,8 @@
 {
     "tokenid": 522,
-    "eco": "B06",
-    "name": "Robatsch Defense",
-    "pgn": "1.e4 g6 2.d4 Bg7 3.Nc3 1/2",
-    "FEN": "rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/522.svg"
+    "eco": "A45",
+    "name": "Indian Defense: Reversed Chigorin Defense",
+    "pgn": "1. d4 Nf6 2. Nc3 c5 1/2",
+    "FEN": "rnbqkb1r/pp1ppppp/5n2/2p5/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq c6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/522.svg"
 }

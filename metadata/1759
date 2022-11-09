@@ -1,8 +1,8 @@
 {
     "tokenid": 1759,
-    "eco": "D44",
-    "name": "QGD: Semi-Slav: 5.Bg5 dxc4",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 1/2",
-    "FEN": "rnbqkb1r/pp3ppp/2p1pn2/6B1/2pP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1759.svg"
+    "eco": "C29",
+    "name": "Vienna Game: Vienna Gambit, Bardeleben Variation",
+    "pgn": "1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 f5 1/2",
+    "FEN": "rnbqkb1r/ppp3pp/8/3pPp2/4n3/2N2Q2/PPPP2PP/R1B1KBNR w KQkq f6 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1759.svg"
 }

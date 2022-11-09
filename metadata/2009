@@ -1,8 +1,8 @@
 {
     "tokenid": 2009,
-    "eco": "E14",
-    "name": "Queen's Indian: Averbakh Variation",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3 O-O 8.Bb2 cxd4 9.Nxd4 1/2",
-    "FEN": "rn1q1rk1/pb1pbppp/1p2pn2/8/2PN4/1P1BP3/PB3PPP/RN1Q1RK1 b - - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2009.svg"
+    "eco": "C41",
+    "name": "Philidor Defense: Hanham Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Nd7 1/2",
+    "FEN": "r1bqkbnr/pppn1ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2009.svg"
 }

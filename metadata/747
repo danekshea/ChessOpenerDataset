@@ -1,8 +1,8 @@
 {
     "tokenid": 747,
-    "eco": "B33/27",
-    "name": "Sicilian: Sveshnikov: 9.Nd5",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Bg5 13.Be2 Rb8 14.O-O a5 15.Qd3 Be6\n 1/2",
-    "FEN": "1r1q1rk1/5ppp/2npb3/pp1Np1b1/4P3/2PQ4/PPN1BPPP/R4RK1 w - - 2 16",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/747.svg"
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: El Columpio Defense, Pin Variation",
+    "pgn": "1. e4 Nc6 2. Nf3 Nf6 3. e5 Ng4 4. d4 d6 5. h3 Nh6 6. Bb5 1/2",
+    "FEN": "r1bqkb1r/ppp1pppp/2np3n/1B2P3/3P4/5N1P/PPP2PP1/RNBQK2R b KQkq - 2 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/747.svg"
 }

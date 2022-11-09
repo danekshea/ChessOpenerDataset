@@ -1,8 +1,8 @@
 {
     "tokenid": 852,
-    "eco": "B64",
-    "name": "Sicilian: Richter-Rauzer: Rauzer Attack (...Be7...f4)",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 1/2",
-    "FEN": "r1bq1rk1/pp2bppp/2nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R b - f3 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/852.svg"
+    "eco": "B02",
+    "name": "Alekhine Defense: Krejcik Variation, Krejcik Gambit",
+    "pgn": "1. e4 Nf6 2. Bc4 Nxe4 3. Bxf7+ 1/2",
+    "FEN": "rnbqkb1r/pppppBpp/8/8/4n3/8/PPPP1PPP/RNBQK1NR b KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/852.svg"
 }

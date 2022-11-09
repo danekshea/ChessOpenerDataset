@@ -1,8 +1,8 @@
 {
     "tokenid": 333,
-    "eco": "A47",
-    "name": "Queen's Pawn: Yusupov-Rubinstein System",
-    "pgn": "1.d4 e6 2.Nf3 c5 3.e3 Nf6 4.Bd3 b6 5.O-O Bb7 6.Nbd2 Be7 7.b3 O-O 8.Bb2 d6 9.Re1 1/2",
-    "FEN": "rn1q1rk1/pb2bppp/1p1ppn2/2p5/3P4/1P1BPN2/PBPN1PPP/R2QR1K1 b - - 1 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/333.svg"
+    "eco": "A16",
+    "name": "English Opening: Anglo-Indian Defense, Anglo-Gr\u00fcnfeld Variation",
+    "pgn": "1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nxc3 1/2",
+    "FEN": "rnbqkb1r/ppp1pp1p/6p1/8/8/2n3P1/PP1PPPBP/R1BQK1NR w KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/333.svg"
 }

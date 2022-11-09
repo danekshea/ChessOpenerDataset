@@ -1,8 +1,8 @@
 {
     "tokenid": 176,
-    "eco": "A20",
-    "name": "English: Modern Nimzovich",
-    "pgn": "1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.O-O 1/2",
-    "FEN": "r1bqkb1r/ppp2ppp/2n5/3np3/8/5NP1/PP1PPPBP/RNBQ1RK1 b kq - 3 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/176.svg"
+    "eco": "A02",
+    "name": "Bird Opening: Myers Defense",
+    "pgn": "1. f4 b5 1/2",
+    "FEN": "rnbqkbnr/p1pppppp/8/1p6/5P2/8/PPPPP1PP/RNBQKBNR w KQkq b6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/176.svg"
 }

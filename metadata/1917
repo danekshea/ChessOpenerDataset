@@ -1,8 +1,8 @@
 {
     "tokenid": 1917,
-    "eco": "D91/22",
-    "name": "Gruenfeld: 5.Bg5, Main Line",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.cxd5 Nxg5 7.Nxg5 e6 8.Nf3 exd5 9.e3 O-O 10.b4 c6 11.Be2 1/2",
-    "FEN": "rnbq1rk1/pp3pbp/2p3p1/3p4/1P1P4/2N1PN2/P3BPPP/R2QK2R b KQ - 1 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1917.svg"
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Salvio Gambit, Silberschmidt Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Nh6 1/2",
+    "FEN": "rnb1kb1r/pppp1p1p/7n/4N3/2B1Pppq/8/PPPP2PP/RNBQ1K1R w kq - 4 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1917.svg"
 }

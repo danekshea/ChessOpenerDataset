@@ -1,8 +1,8 @@
 {
     "tokenid": 362,
-    "eco": "A54",
-    "name": "Old Indian: Ukrainian Variation (4.Nf3)",
-    "pgn": "1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 1/2",
-    "FEN": "rnbqkb1r/ppp2ppp/3p1n2/4p3/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/362.svg"
+    "eco": "A22",
+    "name": "English Opening: King's English, Mazedonisch",
+    "pgn": "1. c4 e5 2. Nc3 Nf6 3. f4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/2P2P2/2N5/PP1PP1PP/R1BQKBNR b KQkq f3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/362.svg"
 }

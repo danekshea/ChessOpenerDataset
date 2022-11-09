@@ -1,8 +1,8 @@
 {
     "tokenid": 2240,
-    "eco": "E99/16",
-    "name": "King's Indian: Orthodox: Aronin-Taimanov 10.Nd3",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.Nd3 f5 11.f3 f4 12.Bd2 Nf6 13.c5 g5 14.cxd6 cxd6 15.Rc1 Ng6\n 16.Nb5 Rf7 17.Qc2 Ne8 18.a4 h5 19.Nf2 Bf8 1/2",
-    "FEN": "r1bqnbk1/pp3r2/3p2n1/1N1Pp1pp/P3Pp2/5P2/1PQBBNPP/2R2RK1 w - - 2 20",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2240.svg"
+    "eco": "C50",
+    "name": "Italian Game: Rosentreter Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 1/2",
+    "FEN": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq d3 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2240.svg"
 }

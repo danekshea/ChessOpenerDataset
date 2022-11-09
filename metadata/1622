@@ -1,8 +1,8 @@
 {
     "tokenid": 1622,
-    "eco": "D13/03",
-    "name": "QGD: Slav: Exchange Variation",
-    "pgn": "1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 e6 7.e3 Bd6 8.Bxd6 Qxd6 9.Bd3 O-O 10.O-O e5 1/2",
-    "FEN": "r1b2rk1/pp3ppp/2nq1n2/3pp3/3P4/2NBPN2/PP3PPP/R2Q1RK1 w - - 0 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1622.svg"
+    "eco": "C20",
+    "name": "King's Pawn Game: Alapin Opening",
+    "pgn": "1. e4 e5 2. Ne2 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPPNPPP/RNBQKB1R b KQkq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1622.svg"
 }

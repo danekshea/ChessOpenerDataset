@@ -1,8 +1,8 @@
 {
     "tokenid": 543,
-    "eco": "B06",
-    "name": "Pirc-Robatsch",
-    "pgn": "1.e4 d6 2.d4 g6 3.Be3 Bg7 4.Bd3 c5 5.Ne2 Nc6 6.c3 b6 1/2",
-    "FEN": "r1bqk1nr/p3ppbp/1pnp2p1/2p5/3PP3/2PBB3/PP2NPPP/RN1QK2R w KQkq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/543.svg"
+    "eco": "A46",
+    "name": "Indian Defense: Spielmann-Indian",
+    "pgn": "1. d4 Nf6 2. Nf3 c5 1/2",
+    "FEN": "rnbqkb1r/pp1ppppp/5n2/2p5/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq c6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/543.svg"
 }

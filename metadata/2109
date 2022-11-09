@@ -1,8 +1,8 @@
 {
     "tokenid": 2109,
-    "eco": "E60",
-    "name": "King's Indian: 3.g3: Counterthrust Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d5 1/2",
-    "FEN": "rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR w KQkq d6 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2109.svg"
+    "eco": "C44",
+    "name": "Ponziani Opening: Ponziani Countergambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. c3 f5 1/2",
+    "FEN": "r1bqkbnr/pppp2pp/2n5/4pp2/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq f6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2109.svg"
 }

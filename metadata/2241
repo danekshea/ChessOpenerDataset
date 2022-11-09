@@ -1,8 +1,8 @@
 {
     "tokenid": 2241,
-    "eco": "E99/07",
-    "name": "King's Indian: Orthodox: Aronin-Taimanov (without 11.Nf6)",
-    "pgn": "1.c4 Nf6 2.d4 g6 3.Nc3 d6 4.e4 Bg7 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3 f5 11.Nd3 f4 12.Bd2 g5 1/2",
-    "FEN": "r1bq1rk1/pppnn1bp/3p4/3Pp1p1/2P1Pp2/2NN1P2/PP1BB1PP/R2Q1RK1 w - - 0 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2241.svg"
+    "eco": "C50",
+    "name": "Italian Game: Rousseau Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 f5 1/2",
+    "FEN": "r1bqkbnr/pppp2pp/2n5/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq f6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2241.svg"
 }

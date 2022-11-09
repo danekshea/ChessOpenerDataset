@@ -1,8 +1,8 @@
 {
     "tokenid": 1580,
-    "eco": "D03",
-    "name": "Torre Attack: Tartakower Variation",
-    "pgn": "1.d4 d5 2.Nf3 Nf6 3.Bg5 1/2",
-    "FEN": "rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1580.svg"
+    "eco": "C14",
+    "name": "French Defense: Classical Variation, Rubinstein Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2 1/2",
+    "FEN": "rnb1k2r/pppnqppp/4p3/3pP3/3P4/2N5/PPPQ1PPP/R3KBNR b KQkq - 1 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1580.svg"
 }

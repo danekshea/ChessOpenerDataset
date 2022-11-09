@@ -1,8 +1,8 @@
 {
     "tokenid": 68,
-    "eco": "A05",
-    "name": "Reti Opening",
-    "pgn": "1.Nf3 Nf6 1/2",
-    "FEN": "rnbqkb1r/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/68.svg"
+    "eco": "A00",
+    "name": "Kadas Opening: Schneider Gambit",
+    "pgn": "1. h4 g5 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/8/6p1/7P/8/PPPPPPP1/RNBQKBNR w KQkq g6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/68.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 97,
-    "eco": "A07",
-    "name": "Reti: King's Indian Attack (with...c5)",
-    "pgn": "1.g3 d5 2.Bg2 Nf6 3.Nf3 g6 4.O-O Bg7 5.d3 O-O 6.Nc3 c5 7.Rb1 Nc6 8.a3 a5 1/2",
-    "FEN": "r1bq1rk1/1p2ppbp/2n2np1/p1pp4/8/P1NP1NP1/1PP1PPBP/1RBQ1RK1 w - a6 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/97.svg"
+    "eco": "A00",
+    "name": "Polish Opening: Tartakower Gambit, Brinckmann Variation",
+    "pgn": "1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Nc6 5. f4 Qe7 6. f5 g6 1/2",
+    "FEN": "r1b1k1nr/ppppq2p/2n2pp1/4pP2/1bB1P3/8/PBPP2PP/RN1QK1NR w KQkq - 0 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/97.svg"
 }

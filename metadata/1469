@@ -1,8 +1,8 @@
 {
     "tokenid": 1469,
-    "eco": "C77",
-    "name": "Ruy Lopez: Treybal (Bayreuth) Variation: (Exchange Deferred)",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Bxc6 1/2",
-    "FEN": "r1bqkb1r/1ppp1ppp/p1B2n2/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1469.svg"
+    "eco": "C00",
+    "name": "French Defense: Reversed Philidor Formation",
+    "pgn": "1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. Be2 1/2",
+    "FEN": "r1bqkb1r/ppp2ppp/2n1pn2/3p4/4P3/3P1N2/PPPNBPPP/R1BQK2R b KQkq - 5 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1469.svg"
 }

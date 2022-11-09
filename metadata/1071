@@ -1,8 +1,8 @@
 {
     "tokenid": 1071,
-    "eco": "C15",
-    "name": "French: Winawer: Kondratiyev Variation",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 c5 5.exd5 Qxd5 6.Bd2 1/2",
-    "FEN": "rnb1k1nr/pp3ppp/4p3/2pq4/1b1P4/2NB4/PPPB1PPP/R2QK1NR b KQkq - 1 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1071.svg"
+    "eco": "B19",
+    "name": "Caro-Kann Defense: Classical Variation, Seirawan Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 1 1/2",
+    "FEN": "r2qkb1r/pp1nppp1/2p2n1p/7P/3P4/3Q1NN1/PPP2PP1/R1B1K2R w KQkq - 1 11",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1071.svg"
 }

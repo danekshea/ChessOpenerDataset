@@ -1,8 +1,8 @@
 {
     "tokenid": 1826,
-    "eco": "D55",
-    "name": "QGD: Pillsbury Attack",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 b6 7.Bd3 Bb7 8.cxd5 exd5 9.Ne5 1/2",
-    "FEN": "rn1q1rk1/pbp1bppp/1p3n2/3pN1B1/3P4/2NBP3/PP3PPP/R2QK2R b KQ - 1 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1826.svg"
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Bishop's Gambit, Bledow Countergambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Nf6 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/5n2/3B4/4Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1826.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 27,
     "eco": "A00",
-    "name": "Lasker Simul Special",
-    "pgn": "1.g3 h5 1/2",
-    "FEN": "rnbqkbnr/ppppppp1/8/7p/8/6P1/PPPPPP1P/RNBQKBNR w KQkq h6 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/27.svg"
+    "name": "Grob Opening: Grob Gambit Declined",
+    "pgn": "1. g4 d5 2. Bg2 c6 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/2p5/3p4/6P1/8/PPPPPPBP/RNBQK1NR w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/27.svg"
 }

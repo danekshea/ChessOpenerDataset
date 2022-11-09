@@ -1,8 +1,8 @@
 {
     "tokenid": 1239,
-    "eco": "C41",
-    "name": "Philidor: Exchange Variation",
-    "pgn": "1.e4 e5 2.Nf3 d6 3.d4 exd4 1/2",
-    "FEN": "rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1239.svg"
+    "eco": "B34",
+    "name": "Sicilian Defense: Accelerated Dragon, Exchange Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 1/2",
+    "FEN": "r1bqkbnr/pp1ppp1p/2N3p1/8/4P3/8/PPP2PPP/RNBQKB1R b KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1239.svg"
 }

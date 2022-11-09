@@ -1,8 +1,8 @@
 {
     "tokenid": 479,
-    "eco": "B00/10",
-    "name": "KP: Nimzovich: 3...d6 (Miles)",
-    "pgn": "1.e4 Nc6 2.Nf3 d6 3.d4 Nf6 4.Nc3 Bg4 5.Be3 e6 6.Be2 Be7 7.O-O O-O 1/2",
-    "FEN": "r2q1rk1/ppp1bppp/2nppn2/8/3PP1b1/2N1BN2/PPP1BPPP/R2Q1RK1 w - - 4 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/479.svg"
+    "eco": "A42",
+    "name": "Modern Defense: Kotov Variation",
+    "pgn": "1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 1/2",
+    "FEN": "r1bqk1nr/ppp1ppbp/2np2p1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/479.svg"
 }

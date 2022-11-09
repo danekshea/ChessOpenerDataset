@@ -1,8 +1,8 @@
 {
     "tokenid": 516,
-    "eco": "B04",
-    "name": "Alekhine's Defense: Modern: Keres Variation",
-    "pgn": "1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 Nb6 6.Bb3 Bg7 7.a4 1/2",
-    "FEN": "rnbqk2r/ppp1ppbp/1n1p2p1/4P3/P2P4/1B3N2/1PP2PPP/RNBQK2R b KQkq a3 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/516.svg"
+    "eco": "A45",
+    "name": "Indian Defense: Lazard Gambit",
+    "pgn": "1. d4 Nf6 2. Nd2 e5 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/3P4/8/PPPNPPPP/R1BQKBNR w KQkq e6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/516.svg"
 }

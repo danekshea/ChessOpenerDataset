@@ -1,8 +1,8 @@
 {
     "tokenid": 1223,
-    "eco": "C39",
-    "name": "KGA: Allgaier: Schlechter Defense",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 Nf6 1/2",
-    "FEN": "rnbqkb1r/pppp1p1p/5n2/6N1/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 2 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1223.svg"
+    "eco": "B32",
+    "name": "Sicilian Defense: O'Kelly Variation, Mar\u00f3czy Bind, Geller Line",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 a6 5. c4 e5 1/2",
+    "FEN": "r1bqkbnr/1p1p1ppp/p1n5/4p3/2PNP3/8/PP3PPP/RNBQKB1R w KQkq e6 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1223.svg"
 }

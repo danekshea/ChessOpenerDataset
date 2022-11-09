@@ -1,8 +1,8 @@
 {
     "tokenid": 403,
-    "eco": "A68/03",
-    "name": "Benoni: Four Pawns Attack",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 d6 5.e4 Bg7 6.f4 O-O 7.Nf3 e6 8.Bd3 exd5 9.cxd5 1/2",
-    "FEN": "rnbq1rk1/pp3pbp/3p1np1/2pP4/4PP2/2NB1N2/PP4PP/R1BQK2R b KQ - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/403.svg"
+    "eco": "A36",
+    "name": "English Opening: Symmetrical Variation, Symmetrical Variation",
+    "pgn": "1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 1/2",
+    "FEN": "r1bqk1nr/pp1pppbp/2n3p1/2p5/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 4 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/403.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1005,
-    "eco": "C01",
-    "name": "French: Exchange: Svenonius Variation",
-    "pgn": "1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nc3 Nf6 5.Bg5 1/2",
-    "FEN": "rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR b KQkq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1005.svg"
+    "eco": "B11",
+    "name": "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Retreat Line",
+    "pgn": "1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bh5 1/2",
+    "FEN": "rn1qkbnr/pp2pppp/2p5/3p3b/4P3/2N2N1P/PPPP1PP1/R1BQKB1R w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1005.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1213,
-    "eco": "C39",
-    "name": "KGA: Kieseritsky: Jaenisch Variation",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h5 6.Bc4 Rh7 7.d4 Bh6 8.Nc3 1/2",
-    "FEN": "rnbqk1n1/pppp1p1r/7b/4N2p/2BPPppP/2N5/PPP3P1/R1BQK2R b KQq - 2 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1213.svg"
+    "eco": "B31",
+    "name": "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Lutikov Gambit",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. d4 1/2",
+    "FEN": "r1bqk2r/pp1pppbp/2n2np1/1Bp5/3PP3/2P2N2/PP3PPP/RNBQ1RK1 b kq d3 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1213.svg"
 }

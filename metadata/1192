@@ -1,8 +1,8 @@
 {
     "tokenid": 1192,
-    "eco": "C37",
-    "name": "KGA: King's Knight's Gambit",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 1/2",
-    "FEN": "rnbqkbnr/pppp1p1p/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1192.svg"
+    "eco": "B28",
+    "name": "Sicilian Defense: O'Kelly Variation, Quiet System",
+    "pgn": "1. e4 c5 2. Nf3 a6 3. d3 1/2",
+    "FEN": "rnbqkbnr/1p1ppppp/p7/2p5/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1192.svg"
 }

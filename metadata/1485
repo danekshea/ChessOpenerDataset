@@ -1,8 +1,8 @@
 {
     "tokenid": 1485,
-    "eco": "C80",
-    "name": "Ruy Lopez: Open: Harksen Gambit",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.c4 1/2",
-    "FEN": "r1bqkb1r/2p2ppp/p1n5/1p1pp3/2PPn3/1B3N2/PP3PPP/RNBQ1RK1 b kq c3 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1485.svg"
+    "eco": "C01",
+    "name": "French Defense: Exchange Variation, Bogoljubov Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bg5 Nc6 1/2",
+    "FEN": "r1bqkb1r/ppp2ppp/2n2n2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR w KQkq - 4 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1485.svg"
 }

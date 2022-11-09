@@ -1,8 +1,8 @@
 {
     "tokenid": 2126,
-    "eco": "E63",
-    "name": "King's Indian: Fianchetto: Panno System",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O a6 1/2",
-    "FEN": "r1bq1rk1/1pp1ppbp/p1np1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2126.svg"
+    "eco": "C44",
+    "name": "Scotch Game: G\u00f6ring Gambit, Double Pawn Sacrifice",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/2B1P3/2p2N2/PP3PPP/RNBQK2R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2126.svg"
 }

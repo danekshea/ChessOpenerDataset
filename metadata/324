@@ -1,8 +1,8 @@
 {
     "tokenid": 324,
-    "eco": "A46",
-    "name": "Queen's Pawn: 3.Bf4",
-    "pgn": "1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.e3 Qb6 5.Nc3 a6 6.a3 d6 1/2",
-    "FEN": "rnb1kb1r/1p3ppp/pq1ppn2/2p5/3P1B2/P1N1PN2/1PP2PPP/R2QKB1R w KQkq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/324.svg"
+    "eco": "A15",
+    "name": "English Opening: Anglo-Indian Defense, Scandinavian Defense",
+    "pgn": "1. Nf3 Nf6 2. c4 d5 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/5n2/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq d6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/324.svg"
 }

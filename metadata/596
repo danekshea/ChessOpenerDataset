@@ -1,8 +1,8 @@
 {
     "tokenid": 596,
-    "eco": "B11/01",
-    "name": "Caro-Kann: Two Knights: without 3...Bg4",
-    "pgn": "1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.g3 1/2",
-    "FEN": "rnbqkb1r/pp2pp1p/2p2p2/8/8/5NP1/PPPP1P1P/R1BQKB1R b KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/596.svg"
+    "eco": "A56",
+    "name": "Benoni Defense: Czech Benoni Defense",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 e5 1/2",
+    "FEN": "rnbqkb1r/pp1p1ppp/5n2/2pPp3/2P5/8/PP2PPPP/RNBQKBNR w KQkq e6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/596.svg"
 }

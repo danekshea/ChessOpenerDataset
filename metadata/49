@@ -1,8 +1,8 @@
 {
     "tokenid": 49,
-    "eco": "A03",
-    "name": "Bird's Opening: Lasker Variation",
-    "pgn": "1.f4 d5 2.Nf3 Nf6 3.e3 c5 1/2",
-    "FEN": "rnbqkb1r/pp2pppp/5n2/2pp4/5P2/4PN2/PPPP2PP/RNBQKB1R w KQkq c6 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/49.svg"
+    "eco": "A00",
+    "name": "Hungarian Opening: Myers Defense",
+    "pgn": "1. g3 g5 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/8/6p1/8/6P1/PPPPPP1P/RNBQKBNR w KQkq g6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/49.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 947,
-    "eco": "B85",
-    "name": "Sicilian: Scheveningen: Classical Main Line",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e6 7.Be2 Be7 8.O-O O-O 9.f4 Nc6 10.Be3 Qc7 11.Kh1 Re8 12.Bf3 Rb8 13.g4 Nxd4 14.Bxd4 e5 15.fxe5\n 1/2",
-    "FEN": "1rb1r1k1/1pq1bppp/p2p1n2/4P3/P2BP1P1/2N2B2/1PP4P/R2Q1R1K b - - 0 15",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/947.svg"
+    "eco": "B07",
+    "name": "Lion Defense: Anti-Philidor",
+    "pgn": "1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. f4 1/2",
+    "FEN": "r1bqkb1r/pppnpppp/3p1n2/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq f3 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/947.svg"
 }

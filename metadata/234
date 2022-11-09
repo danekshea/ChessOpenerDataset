@@ -1,8 +1,8 @@
 {
     "tokenid": 234,
-    "eco": "A32",
-    "name": "English: Symmetrical: Modern Line",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 c5 4.Nf3 cxd4 5.Nxd4 Qc7 6.Nc3 a6 1/2",
-    "FEN": "rnb1kb1r/1pqp1ppp/p3pn2/8/2PN4/2N3P1/PP2PP1P/R1BQKB1R w KQkq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/234.svg"
+    "eco": "A06",
+    "name": "Nimzo-Larsen Attack: Norfolk Gambit",
+    "pgn": "1. Nf3 d5 2. b3 c5 3. e4 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/8/2pp4/4P3/1P3N2/P1PP1PPP/RNBQKB1R b KQkq e3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/234.svg"
 }

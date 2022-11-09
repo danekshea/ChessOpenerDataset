@@ -1,8 +1,8 @@
 {
     "tokenid": 1090,
-    "eco": "C20",
-    "name": "King's Pawn Game",
-    "pgn": "1.e4 e5 1/2",
-    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq e6 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1090.svg"
+    "eco": "B20",
+    "name": "Sicilian Defense: Snyder Variation, Queen Fianchetto Variation",
+    "pgn": "1. e4 c5 2. b3 b6 1/2",
+    "FEN": "rnbqkbnr/p2ppppp/1p6/2p5/4P3/1P6/P1PP1PPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1090.svg"
 }

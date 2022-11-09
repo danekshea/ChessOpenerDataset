@@ -1,8 +1,8 @@
 {
     "tokenid": 583,
-    "eco": "B10",
-    "name": "Caro-Kann Defense",
-    "pgn": "1.e4 c6 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/583.svg"
+    "eco": "A53",
+    "name": "Old Indian Defense",
+    "pgn": "1. d4 Nf6 2. c4 d6 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/583.svg"
 }

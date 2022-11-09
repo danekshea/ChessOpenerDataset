@@ -1,8 +1,8 @@
 {
     "tokenid": 602,
-    "eco": "B12/13",
-    "name": "Caro-Kann: Advance Variation",
-    "pgn": "1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 7.h4 h5 8.Nf4 Bh7 9.Nxh5 cxd4 1/2",
-    "FEN": "rn1qkbnr/pp3ppb/4p3/3pP2N/3p2PP/2N5/PPP2P2/R1BQKB1R w KQkq - 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/602.svg"
+    "eco": "A57",
+    "name": "Benko Gambit",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 b5 1/2",
+    "FEN": "rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq b6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/602.svg"
 }

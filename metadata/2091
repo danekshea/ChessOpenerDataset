@@ -1,8 +1,8 @@
 {
     "tokenid": 2091,
-    "eco": "E51",
-    "name": "Nimzo-Indian: 4.e3 O-O 5.Nf3 d5",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 1/2",
-    "FEN": "rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2N1PN2/PP3PPP/R1BQKB1R w KQ d6 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2091.svg"
+    "eco": "C43",
+    "name": "Russian Game: Modern Attack, Tal Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Bb5 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/8/1B2P3/3pn3/5N2/PPP2PPP/RNBQK2R b KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2091.svg"
 }

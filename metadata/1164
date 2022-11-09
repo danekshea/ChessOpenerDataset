@@ -1,8 +1,8 @@
 {
     "tokenid": 1164,
-    "eco": "C33",
-    "name": "KGA: Bishop's Gambit: Lopez-Gianutio Counter-Gambit",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Bc4 f5 1/2",
-    "FEN": "rnbqkbnr/pppp2pp/8/5p2/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq f6 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1164.svg"
+    "eco": "B27",
+    "name": "Pterodactyl Defense: Western, Pterodactyl",
+    "pgn": "1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 Qa5 1/2",
+    "FEN": "rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/2P2N2/PP3PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1164.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 493,
-    "eco": "B01",
-    "name": "Scandinavian Defense: Lasker Variation",
-    "pgn": "1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bg4 6.h3 1/2",
-    "FEN": "rn2kb1r/ppp1pppp/5n2/q7/3P2b1/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/493.svg"
+    "eco": "A43",
+    "name": "Benoni Defense: Old Benoni",
+    "pgn": "1. d4 c5 2. d5 d6 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/493.svg"
 }

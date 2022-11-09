@@ -1,8 +1,8 @@
 {
     "tokenid": 818,
-    "eco": "B51/12",
-    "name": "Sicilian: Canal-Sokolsky Attack: (Nimzovich-Rossolimo, Moscow)",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.c3 Nf6 6.Re1 a6 7.Bf1 Bg4 8.h3 Bh5 1/2",
-    "FEN": "r2qkb1r/1p2pppp/p1np1n2/2p4b/4P3/2P2N1P/PP1P1PP1/RNBQRBK1 w kq - 1 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/818.svg"
+    "eco": "B01",
+    "name": "Scandinavian Defense: Gr\u00fcnfeld Variation",
+    "pgn": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Ne5 c6 7. g4 1/2",
+    "FEN": "rn2kb1r/pp2pppp/2p2n2/q3Nb2/3P2P1/2N5/PPP2P1P/R1BQKB1R b KQkq g3 0 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/818.svg"
 }

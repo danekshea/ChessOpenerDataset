@@ -1,8 +1,8 @@
 {
     "tokenid": 1926,
-    "eco": "D94",
-    "name": "Gruenfeld: 6.Bd3",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 c6 6.Bd3 O-O 7.O-O Bg4 8.h3 Bxf3 9.Qxf3 e6 1/2",
-    "FEN": "rn1q1rk1/pp3pbp/2p1pnp1/3p4/2PP4/2NBPQ1P/PP3PP1/R1B2RK1 w - - 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1926.svg"
+    "eco": "C38",
+    "name": "King's Gambit Accepted: Traditional Variation",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 1/2",
+    "FEN": "rnbqk1nr/pppp1pbp/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R w KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1926.svg"
 }

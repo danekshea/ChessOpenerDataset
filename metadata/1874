@@ -1,8 +1,8 @@
 {
     "tokenid": 1874,
-    "eco": "D76",
-    "name": "Neo-Gruenfeld: 6.cxd5 Nxd5 7.O-O Nb6",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O Nb6 1/2",
-    "FEN": "rnbq1rk1/ppp1ppbp/1n4p1/8/3P4/5NP1/PP2PPBP/RNBQ1RK1 w - - 2 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1874.svg"
+    "eco": "C34",
+    "name": "King's Gambit Accepted: King Knight's Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 1/2",
+    "FEN": "rnbqkbnr/pppp1p1p/8/6p1/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq g6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1874.svg"
 }

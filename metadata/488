@@ -1,8 +1,8 @@
 {
     "tokenid": 488,
-    "eco": "B01",
-    "name": "Scandinavian: Mieses-Kotrvc Gambit",
-    "pgn": "1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.b4 1/2",
-    "FEN": "rnb1kbnr/ppp1pppp/8/q7/1P6/2N5/P1PP1PPP/R1BQKBNR b KQkq b3 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/488.svg"
+    "eco": "A43",
+    "name": "Benoni Defense: Cormorant Gambit",
+    "pgn": "1. d4 c5 2. dxc5 b6 1/2",
+    "FEN": "rnbqkbnr/p2ppppp/1p6/2P5/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/488.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 925,
-    "eco": "B83/09",
-    "name": "Sicilian: Modern Scheveningen: Main Line (with Kh1)",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Nf6 6.Be2 e6 7.O-O Be7 8.Be3 O-O 9.f4 Bd7 10.Kh1 Nxd4 11.Bxd4 Bc6 12.Bd3 Nd7 1/2",
-    "FEN": "r2q1rk1/pp1nbppp/2bpp3/8/3BPP2/2NB4/PPP3PP/R2Q1R1K w - - 3 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/925.svg"
+    "eco": "B06",
+    "name": "Norwegian Defense",
+    "pgn": "1. e4 g6 2. d4 Nf6 3. e5 Nh5 4. g4 Ng7 1/2",
+    "FEN": "rnbqkb1r/ppppppnp/6p1/4P3/3P2P1/8/PPP2P1P/RNBQKBNR w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/925.svg"
 }

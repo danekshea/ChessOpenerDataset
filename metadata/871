@@ -1,8 +1,8 @@
 {
     "tokenid": 871,
-    "eco": "B70/01",
-    "name": "Sicilian: Dragon: 6.Bb5+ (Korchnoi)",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.O-O Bg7 9.Be3 O-O 10.f4 Rc8 1/2",
-    "FEN": "2rq1rk1/pp1nppbp/3p1np1/8/3NPP2/2N1B3/PPP3PP/R2Q1RK1 w - - 1 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/871.svg"
+    "eco": "B03",
+    "name": "Alekhine Defense",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 1/2",
+    "FEN": "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq d3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/871.svg"
 }

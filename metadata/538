@@ -1,8 +1,8 @@
 {
     "tokenid": 538,
-    "eco": "B06/14",
-    "name": "Robatsch Defense: 4.Be2",
-    "pgn": "1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Be2 1/2",
-    "FEN": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/5N2/PPP1BPPP/RNBQK2R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/538.svg"
+    "eco": "A46",
+    "name": "Indian Defense: Czech-Indian",
+    "pgn": "1. d4 Nf6 2. Nf3 c6 1/2",
+    "FEN": "rnbqkb1r/pp1ppppp/2p2n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/538.svg"
 }

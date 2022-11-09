@@ -1,8 +1,8 @@
 {
     "tokenid": 1199,
-    "eco": "C37",
-    "name": "KGA: Muzio Gambit",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O 1/2",
-    "FEN": "rnbqkbnr/pppp1p1p/8/8/2B1Ppp1/5N2/PPPP2PP/RNBQ1RK1 b kq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1199.svg"
+    "eco": "B28",
+    "name": "Sicilian Defense: O'Kelly Variation, Wing Gambit",
+    "pgn": "1. e4 c5 2. Nf3 a6 3. b4 1/2",
+    "FEN": "rnbqkbnr/1p1ppppp/p7/2p5/1P2P3/5N2/P1PP1PPP/RNBQKB1R b KQkq b3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1199.svg"
 }

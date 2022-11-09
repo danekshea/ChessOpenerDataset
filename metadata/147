@@ -1,8 +1,8 @@
 {
     "tokenid": 147,
-    "eco": "A13",
-    "name": "English: Neo-Catalan",
-    "pgn": "1.c4 e6 2.Nf3 d5 3.g3 Nf6 1/2",
-    "FEN": "rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/147.svg"
+    "eco": "A00",
+    "name": "Zukertort Opening: Reversed Mexican Defense",
+    "pgn": "1. Nc3 d5 2. Nf3 1/2",
+    "FEN": "rnbqkbnr/ppp1pppp/8/3p4/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/147.svg"
 }

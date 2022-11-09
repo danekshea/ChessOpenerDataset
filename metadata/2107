@@ -1,8 +1,8 @@
 {
     "tokenid": 2107,
-    "eco": "E60",
-    "name": "King's Indian Defense",
-    "pgn": "1.d4 Nf6 2.c4 g6 1/2",
-    "FEN": "rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2107.svg"
+    "eco": "C44",
+    "name": "Ponziani Opening: Leonhardt Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Nf6 1/2",
+    "FEN": "r1bqkb1r/ppp2ppp/2n2n2/3pp3/Q3P3/2P2N2/PP1P1PPP/RNB1KB1R w KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2107.svg"
 }

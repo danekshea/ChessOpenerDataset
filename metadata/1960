@@ -1,8 +1,8 @@
 {
     "tokenid": 1960,
-    "eco": "E02",
-    "name": "Catalan: Open: 5.Qa4",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Nf3 a6 7.Nc3 1/2",
-    "FEN": "r1bqkb1r/1ppn1ppp/p3pn2/8/Q1pP4/2N2NP1/PP2PPBP/R1B1K2R b KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1960.svg"
+    "eco": "C40",
+    "name": "Elephant Gambit: Paulsen Countergambit",
+    "pgn": "1. e4 e5 2. Nf3 d5 3. exd5 e4 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/8/3P4/4p3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1960.svg"
 }

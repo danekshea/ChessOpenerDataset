@@ -1,8 +1,8 @@
 {
     "tokenid": 1377,
-    "eco": "C55",
-    "name": "Two Knights Defense: Keidanz Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bc5 8.Nxc6 Bxf2+ 9.Kf1 Qh4 1/2",
-    "FEN": "r1b1k2r/ppp2ppp/2N5/1B1pP3/4n2q/8/PPP2bPP/RNBQ1K1R w kq - 2 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1377.svg"
+    "eco": "B76",
+    "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 1/2",
+    "FEN": "r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R w KQ - 3 9",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1377.svg"
 }

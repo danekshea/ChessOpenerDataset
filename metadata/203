@@ -1,8 +1,8 @@
 {
     "tokenid": 203,
-    "eco": "A26",
-    "name": "English: Botvinnik System",
-    "pgn": "1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4 1/2",
-    "FEN": "r1bqk1nr/ppp2pbp/2np2p1/4p3/2P1P3/2NP2P1/PP3PBP/R1BQK1NR b KQkq e3 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/203.svg"
+    "eco": "A04",
+    "name": "Zukertort Opening: Kingside Fianchetto",
+    "pgn": "1. Nf3 g6 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/6p1/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/203.svg"
 }

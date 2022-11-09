@@ -1,8 +1,8 @@
 {
     "tokenid": 276,
-    "eco": "A40",
-    "name": "Modern Defense",
-    "pgn": "1.d4 g6 2.c4 1/2",
-    "FEN": "rnbqkbnr/pppppp1p/6p1/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/276.svg"
+    "eco": "A10",
+    "name": "English Opening: Anglo-Scandinavian Defense, Malvinas Variation",
+    "pgn": "1. c4 d5 2. cxd5 Qxd5 3. Nc3 Qa5 1/2",
+    "FEN": "rnb1kbnr/ppp1pppp/8/q7/8/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/276.svg"
 }

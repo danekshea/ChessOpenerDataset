@@ -1,8 +1,8 @@
 {
     "tokenid": 578,
-    "eco": "B09",
-    "name": "Pirc: Austrian Attack: 6.Bd3",
-    "pgn": "1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 1/2",
-    "FEN": "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2NB1N2/PPP3PP/R1BQK2R b KQ - 4 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/578.svg"
+    "eco": "A52",
+    "name": "Indian Defense: Budapest Defense, Adler Variation",
+    "pgn": "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/8/4P3/2P3n1/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/578.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1676,
-    "eco": "D27",
-    "name": "QGA: Classical (with Nc3)",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.Nf3 e6 4.e3 Nf6 5.Nc3 a6 6.Bxc4 c5 7.a4 Nc6 8.O-O Be7 9.Qe2 cxd4 10.Rd1 e5 1/2",
-    "FEN": "r1bqk2r/1p2bppp/p1n2n2/4p3/P1Bp4/2N1PN2/1P2QPPP/R1BR2K1 w kq - 0 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1676.svg"
+    "eco": "C23",
+    "name": "Bishop's Opening: Calabrese Countergambit",
+    "pgn": "1. e4 e5 2. Bc4 f5 1/2",
+    "FEN": "rnbqkbnr/pppp2pp/8/4pp2/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq f6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1676.svg"
 }

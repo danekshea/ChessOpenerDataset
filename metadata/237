@@ -1,8 +1,8 @@
 {
     "tokenid": 237,
-    "eco": "A33",
-    "name": "English: Symmetrical: Geller Variation",
-    "pgn": "1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.g3 Qb6 1/2",
-    "FEN": "r1b1kb1r/pp1p1ppp/1qn1pn2/8/2PN4/2N3P1/PP2PP1P/R1BQKB1R w KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/237.svg"
+    "eco": "A06",
+    "name": "Zukertort Opening: Ampel Variation",
+    "pgn": "1. Nf3 d5 2. Rg1 1/2",
+    "FEN": "rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKBR1 b Qkq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/237.svg"
 }

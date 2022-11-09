@@ -1,8 +1,8 @@
 {
     "tokenid": 1513,
-    "eco": "C88",
-    "name": "Ruy Lopez: Closed: 7...h6 8.d4",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.d4 1/2",
-    "FEN": "r1bqk2r/2p1bppp/p1np1n2/1p2p3/3PP3/1B3N2/PPP2PPP/RNBQR1K1 b kq d3 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1513.svg"
+    "eco": "C05",
+    "name": "French Defense: Tarrasch Variation, Closed Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 Nf6 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1513.svg"
 }

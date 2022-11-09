@@ -1,8 +1,8 @@
 {
     "tokenid": 635,
-    "eco": "B18",
-    "name": "Caro-Kann: Classical Variation",
-    "pgn": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 1/2",
-    "FEN": "rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/635.svg"
+    "eco": "A65",
+    "name": "Benoni Defense: King's Pawn Line",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 1/2",
+    "FEN": "rnbqkb1r/pp3ppp/3p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/635.svg"
 }

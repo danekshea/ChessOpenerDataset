@@ -1,8 +1,8 @@
 {
     "tokenid": 1266,
-    "eco": "C42",
-    "name": "Petrov: Classical Attack: Jaenisch Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.c4 1/2",
-    "FEN": "r1bqk2r/ppp1bppp/2n5/3p4/2PPn3/3B1N2/PP3PPP/RNBQ1RK1 b kq c3 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1266.svg"
+    "eco": "B40",
+    "name": "Sicilian Defense: Smith-Morra Gambit Deferred",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. c3 1/2",
+    "FEN": "rnbqkbnr/pp1p1ppp/4p3/8/3pP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1266.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 2031,
-    "eco": "E20",
-    "name": "Nimzo-Indian: Romanishin-Kasparov (Steiner) System",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 1/2",
-    "FEN": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N3P1/PP2PP1P/R1BQKBNR b KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2031.svg"
+    "eco": "C41",
+    "name": "Philidor Defense: Nimzowitsch Variation, Rellstab Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/3p4/3QP3/4n3/5N2/PPP2PPP/RNB1KB1R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2031.svg"
 }

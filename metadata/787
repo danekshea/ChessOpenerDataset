@@ -1,8 +1,8 @@
 {
     "tokenid": 787,
-    "eco": "B42",
-    "name": "Sicilian: Kan: Gipslis Variation",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O d6 7.c4 g6 1/2",
-    "FEN": "rnbqkb1r/1p3p1p/p2ppnp1/8/2PNP3/3B4/PP3PPP/RNBQ1RK1 w kq - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/787.svg"
+    "eco": "B00",
+    "name": "Owen Defense: Naselwaus Gambit",
+    "pgn": "1. e4 b6 2. d4 Bb7 3. Bg5 1/2",
+    "FEN": "rn1qkbnr/pbpppppp/1p6/6B1/3PP3/8/PPP2PPP/RN1QKBNR b KQkq - 2 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/787.svg"
 }

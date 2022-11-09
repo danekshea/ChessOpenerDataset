@@ -1,8 +1,8 @@
 {
     "tokenid": 964,
-    "eco": "B91",
-    "name": "Sicilian: Najdorf: Zagreb (Fianchetto) Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 1/2",
-    "FEN": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N3P1/PPP2P1P/R1BQKB1R b KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/964.svg"
+    "eco": "B08",
+    "name": "Pirc Defense: Classical Variation",
+    "pgn": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 1/2",
+    "FEN": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/964.svg"
 }

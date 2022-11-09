@@ -1,8 +1,8 @@
 {
     "tokenid": 1870,
-    "eco": "D73",
-    "name": "Neo-Gruenfeld (with...Nb6)",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.cxd5 Nxd5 6.Nf3 Nb6 1/2",
-    "FEN": "rnbqk2r/ppp1ppbp/1n4p1/8/3P4/5NP1/PP2PPBP/RNBQK2R w KQkq - 2 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1870.svg"
+    "eco": "C34",
+    "name": "King's Gambit Accepted: Fischer Defense, Schulder Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 d6 4. b4 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/3p4/8/1P2Pp2/5N2/P1PP2PP/RNBQKB1R b KQkq b3 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1870.svg"
 }

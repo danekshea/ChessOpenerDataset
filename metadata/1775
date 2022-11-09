@@ -1,8 +1,8 @@
 {
     "tokenid": 1775,
-    "eco": "D46",
-    "name": "QGD: Semi-Slav: Romih Variation",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 Bb4 1/2",
-    "FEN": "r1bqk2r/pp1n1ppp/2p1pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R w KQkq - 3 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1775.svg"
+    "eco": "C30",
+    "name": "King's Gambit Declined: Classical, Soldatenkov Variation",
+    "pgn": "1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. fxe5 1/2",
+    "FEN": "rnbqk1nr/ppp2ppp/3p4/2b1P3/4P3/5N2/PPPP2PP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1775.svg"
 }

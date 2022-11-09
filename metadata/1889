@@ -1,8 +1,8 @@
 {
     "tokenid": 1889,
-    "eco": "D80",
-    "name": "Gruenfeld: Lundin Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Nxe4 dxe4 6.Qd2 c5 1/2",
-    "FEN": "rnbqkb1r/pp2pp1p/6p1/2p3B1/2PPp3/8/PP1QPPPP/R3KBNR w KQkq c6 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1889.svg"
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Double Muzio Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5 8. Bxf7+ 1/2",
+    "FEN": "rnb1kbnr/pppp1B1p/8/4q3/5p2/5Q2/PPPP2PP/RNB2RK1 b kq - 0 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1889.svg"
 }

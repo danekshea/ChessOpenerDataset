@@ -1,8 +1,8 @@
 {
     "tokenid": 851,
-    "eco": "B63/11",
-    "name": "Sicilian: Richter-Rauzer: Rauzer (Fedorowicz)",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.Nb3 Qb6 10.f3 Rd8 11.Nb5 Rd7 1/2",
-    "FEN": "r1b3k1/pp1rbppp/1qnppn2/1N4B1/4P3/1N3P2/PPPQ2PP/2KR1B1R w - - 3 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/851.svg"
+    "eco": "B02",
+    "name": "Alekhine Defense: Krejcik Variation",
+    "pgn": "1. e4 Nf6 2. Bc4 1/2",
+    "FEN": "rnbqkb1r/pppppppp/5n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 2 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/851.svg"
 }

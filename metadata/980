@@ -1,8 +1,8 @@
 {
     "tokenid": 980,
-    "eco": "B97",
-    "name": "Sicilian: Najdorf: 7...Qb6",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 1/2",
-    "FEN": "rnb1kb1r/1p3ppp/pq1ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R w KQkq - 1 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/980.svg"
+    "eco": "B10",
+    "name": "Caro-Kann Defense",
+    "pgn": "1. e4 c6 2. Nc3 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/2p5/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/980.svg"
 }

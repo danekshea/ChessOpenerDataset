@@ -1,8 +1,8 @@
 {
     "tokenid": 378,
-    "eco": "A59",
-    "name": "Benko Gambit: 7.e4",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4 1/2",
-    "FEN": "rn1qkb1r/4pppp/b2p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/378.svg"
+    "eco": "A28",
+    "name": "English Opening: King's English Variation, Four Knights Variation, Bradley Beach Variation",
+    "pgn": "1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 e4 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/8/2PPp3/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/378.svg"
 }

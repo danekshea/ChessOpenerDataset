@@ -1,8 +1,8 @@
 {
     "tokenid": 1967,
-    "eco": "E05/03",
-    "name": "Catalan: Open (Nc3)",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Be7 5.Bg2 O-O 6.Nc3 dxc4 7.O-O 1/2",
-    "FEN": "rnbq1rk1/ppp1bppp/4pn2/8/2pP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1967.svg"
+    "eco": "C40",
+    "name": "King's Pawn Game: Damiano Defense, Damiano Gambit",
+    "pgn": "1. e4 e5 2. Nf3 f6 3. Nxe5 fxe5 4. Qh5+ g6 5. Qxe5+ Qe7 6. Qxh8 1/2",
+    "FEN": "rnb1kbnQ/ppppq2p/6p1/8/4P3/8/PPPP1PPP/RNB1KB1R b KQq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1967.svg"
 }

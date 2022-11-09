@@ -1,8 +1,8 @@
 {
     "tokenid": 104,
-    "eco": "A08",
-    "name": "Reti: King's Indian Attack",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 d5 5.Nbd2 Nf6 6.Bg2 Be7 7.O-O 1/2",
-    "FEN": "r1bqk2r/pp2bppp/2n1pn2/2pp4/4P3/3P1NP1/PPPN1PBP/R1BQ1RK1 b kq - 5 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/104.svg"
+    "eco": "A00",
+    "name": "Valencia Opening",
+    "pgn": "1. d3 e5 2. Nd2 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPPNPPPP/R1BQKBNR b KQkq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/104.svg"
 }

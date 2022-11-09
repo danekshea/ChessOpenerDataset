@@ -1,8 +1,8 @@
 {
     "tokenid": 893,
-    "eco": "B76",
-    "name": "Sicilian: Dragon, Yugoslav Attack: Rauser Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.O-O-O 1/2",
-    "FEN": "r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1BP2/PPPQ2PP/2KR1B1R b - - 4 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/893.svg"
+    "eco": "B04",
+    "name": "Alekhine Defense: Modern Variation, Schmid Variation",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/1n1p4/4P3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/893.svg"
 }

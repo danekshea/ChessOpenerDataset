@@ -1,8 +1,8 @@
 {
     "tokenid": 487,
-    "eco": "B01",
-    "name": "Scandinavian: Kiel Variation",
-    "pgn": "1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb4 1/2",
-    "FEN": "rnbqkb1r/ppp1pppp/8/8/1nPP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/487.svg"
+    "eco": "A43",
+    "name": "Benoni Defense: Benoni-Staunton Gambit",
+    "pgn": "1. d4 c5 2. d5 f5 3. e4 1/2",
+    "FEN": "rnbqkbnr/pp1pp1pp/8/2pP1p2/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/487.svg"
 }

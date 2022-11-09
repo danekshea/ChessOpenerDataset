@@ -1,8 +1,8 @@
 {
     "tokenid": 630,
-    "eco": "B16",
-    "name": "Caro-Kann: Bronstein-Larsen Variation",
-    "pgn": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 1/2",
-    "FEN": "rnbqkb1r/pp2pp1p/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/630.svg"
+    "eco": "A61",
+    "name": "Benoni Defense: Knight's Tour Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 1/2",
+    "FEN": "rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N5/PP1NPPPP/R1BQKB1R b KQkq - 1 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/630.svg"
 }

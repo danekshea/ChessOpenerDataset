@@ -1,8 +1,8 @@
 {
     "tokenid": 1288,
-    "eco": "C44",
-    "name": "Scotch Gambit",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 1/2",
-    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1288.svg"
+    "eco": "B47",
+    "name": "Sicilian Defense: Taimanov Variation, Bastrikov Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 1/2",
+    "FEN": "r1b1kbnr/ppqp1ppp/2n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1288.svg"
 }

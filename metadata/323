@@ -1,8 +1,8 @@
 {
     "tokenid": 323,
-    "eco": "A46",
-    "name": "Queen's Pawn: Andersson System",
-    "pgn": "1.d4 Nf6 2.Nf3 e6 3.g3 c5 4.Bg2 cxd4 5.Nxd4 a6 6.O-O Qc7 7.Nb3 1/2",
-    "FEN": "rnb1kb1r/1pqp1ppp/p3pn2/8/8/1N4P1/PPP1PPBP/RNBQ1RK1 b kq - 3 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/323.svg"
+    "eco": "A15",
+    "name": "English Opening: Anglo-Indian Defense, Romanishin Variation",
+    "pgn": "1. Nf3 Nf6 2. c4 e6 3. g3 a6 1/2",
+    "FEN": "rnbqkb1r/1ppp1ppp/p3pn2/8/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/323.svg"
 }

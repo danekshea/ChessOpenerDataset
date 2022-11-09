@@ -1,8 +1,8 @@
 {
     "tokenid": 1415,
-    "eco": "C65/01",
-    "name": "Ruy Lopez: Berlin Defense: Steinitz Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.c3 g6 6.Nbd2 Bg7 7.Nf1 O-O 8.Ba4 Nd7 9.Ne3 1/2",
-    "FEN": "r1bq1rk1/pppn1pbp/2np2p1/4p3/B3P3/2PPNN2/PP3PPP/R1BQK2R b KQ - 7 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1415.svg"
+    "eco": "B90",
+    "name": "Sicilian Defense: Najdorf Variation, Adams Attack",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 1/2",
+    "FEN": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N4P/PPP2PP1/R1BQKB1R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1415.svg"
 }

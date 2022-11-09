@@ -1,8 +1,8 @@
 {
     "tokenid": 82,
-    "eco": "A06",
-    "name": "Reti: Old Indian Attack",
-    "pgn": "1.Nf3 d5 2.d3 1/2",
-    "FEN": "rnbqkbnr/ppp1pppp/8/3p4/8/3P1N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/82.svg"
+    "eco": "A00",
+    "name": "Polish Opening: Grigorian Variation",
+    "pgn": "1. b4 Nc6 1/2",
+    "FEN": "r1bqkbnr/pppppppp/2n5/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/82.svg"
 }

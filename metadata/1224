@@ -1,8 +1,8 @@
 {
     "tokenid": 1224,
-    "eco": "C40",
-    "name": "King's Knight Opening",
-    "pgn": "1.e4 e5 2.Nf3 1/2",
-    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1224.svg"
+    "eco": "B32",
+    "name": "Sicilian Defense: Open",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 1/2",
+    "FEN": "r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1224.svg"
 }

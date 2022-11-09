@@ -1,8 +1,8 @@
 {
     "tokenid": 1913,
-    "eco": "D90/04",
-    "name": "Gruenfeld: Three Knights Exchange",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.cxd5 Nxd5 6.Bd2 O-O 7.e4 Nb6 8.Be3 Bg4 9.Be2 Nc6 10.d5 1/2",
-    "FEN": "r2q1rk1/ppp1ppbp/1nn3p1/3P4/4P1b1/2N1BN2/PP2BPPP/R2QK2R b KQ - 0 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1913.svg"
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Salvio Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 1/2",
+    "FEN": "rnbqkbnr/pppp1p1p/8/4N3/2B1Ppp1/8/PPPP2PP/RNBQK2R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1913.svg"
 }

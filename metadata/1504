@@ -1,8 +1,8 @@
 {
     "tokenid": 1504,
-    "eco": "C84/02",
-    "name": "Ruy Lopez: Closed Centre (7...Bb7)",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 Bb7 1/2",
-    "FEN": "r2qk2r/1bppbppp/p1n2n2/1p2p3/4P3/1B1P1N2/PPP2PPP/RNBQ1RK1 w kq - 2 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1504.svg"
+    "eco": "C02",
+    "name": "French Defense: Advance Variation, Wade Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 1/2",
+    "FEN": "rn2kbnr/pp1b1ppp/1q2p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1504.svg"
 }

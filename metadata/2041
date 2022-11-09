@@ -1,8 +1,8 @@
 {
     "tokenid": 2041,
-    "eco": "E23",
-    "name": "Nimzo-Indian: Spielmann: 4...c5 5.dxc5 Nc6",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6 1/2",
-    "FEN": "r1bqk2r/pp1p1ppp/2n1pn2/2P5/1bP5/1QN5/PP2PPPP/R1B1KBNR w KQkq - 1 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2041.svg"
+    "eco": "C41",
+    "name": "Philidor Defense: Steinitz Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. c3 1/2",
+    "FEN": "rnbqk1nr/ppp1bppp/3p4/4p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2041.svg"
 }

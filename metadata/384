@@ -1,8 +1,8 @@
 {
     "tokenid": 384,
-    "eco": "A61",
-    "name": "Benoni Defense",
-    "pgn": "1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 1/2",
-    "FEN": "rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/384.svg"
+    "eco": "A29",
+    "name": "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",
+    "pgn": "1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N2NP1/PP1PPP1P/R1BQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/384.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1112,
-    "eco": "C24/08",
-    "name": "Bishop's Opening: Urusov Gambit: 4...Nxe4",
-    "pgn": "1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nxe4 5.Qxd4 Nf6 6.Bg5 Be7 7.Nc3 c6 8.O-O-O d5 1/2",
-    "FEN": "rnbqk2r/pp2bppp/2p2n2/3p2B1/2BQ4/2N2N2/PPP2PPP/2KR3R w kq d6 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1112.svg"
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Kan Formation",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 a6 1/2",
+    "FEN": "rnbqkbnr/1p1p1ppp/p3p3/8/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1112.svg"
 }

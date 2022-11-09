@@ -1,8 +1,8 @@
 {
     "tokenid": 1593,
-    "eco": "D06",
-    "name": "QGD: Symmetrical (Austrian) Defense",
-    "pgn": "1.d4 d5 2.c4 c5 1/2",
-    "FEN": "rnbqkbnr/pp2pppp/8/2pp4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq c6 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1593.svg"
+    "eco": "C15",
+    "name": "French Defense: Winawer Variation, Fingerslip Variation, Kunin Double Gambit",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 1/2",
+    "FEN": "rnb1k1nr/ppp2ppp/4p3/8/1b1qp1Q1/2N5/PPPB1PPP/R3KBNR w KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1593.svg"
 }

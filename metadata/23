@@ -1,8 +1,8 @@
 {
     "tokenid": 23,
     "eco": "A00",
-    "name": "Benko's Opening",
-    "pgn": "1.g3 d5 2.Bg2 Nf6 3.b3 1/2",
-    "FEN": "rnbqkb1r/ppp1pppp/5n2/3p4/8/1P4P1/P1PPPPBP/RNBQK1NR b KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/23.svg"
+    "name": "Grob Opening: Alessi Gambit",
+    "pgn": "1. g4 f5 1/2",
+    "FEN": "rnbqkbnr/ppppp1pp/8/5p2/6P1/8/PPPPPP1P/RNBQKBNR w KQkq f6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/23.svg"
 }

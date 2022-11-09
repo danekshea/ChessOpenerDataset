@@ -1,8 +1,8 @@
 {
     "tokenid": 306,
-    "eco": "A45",
-    "name": "Queen's Pawn Game",
-    "pgn": "1.d4 Nf6 1/2",
-    "FEN": "rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/306.svg"
+    "eco": "A13",
+    "name": "English Opening: Agincourt Defense, Tarrasch Defense",
+    "pgn": "1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. b3 c5 5. Bg2 Nc6 6. O-O Be7 1/2",
+    "FEN": "r1bqk2r/pp2bppp/2n1pn2/2pp4/2P5/1P3NP1/P2PPPBP/RNBQ1RK1 w kq - 4 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/306.svg"
 }

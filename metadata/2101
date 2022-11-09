@@ -1,8 +1,8 @@
 {
     "tokenid": 2101,
-    "eco": "E55",
-    "name": "Nimzo-Indian: 4.e3: Gligoric System, Bronstein",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Nbd7 1/2",
-    "FEN": "r1bq1rk1/pp1n1ppp/4pn2/2p5/1bBP4/2N1PN2/PP3PPP/R1BQ1RK1 w - - 1 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2101.svg"
+    "eco": "C44",
+    "name": "King's Pawn Game: Tayler Opening, Basman Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d4 exd4 5. e5 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/4P3/3p4/5N2/PPP1BPPP/RNBQK2R b KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2101.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 483,
-    "eco": "B01",
-    "name": "Scandinavian Gambit",
-    "pgn": "1.e4 d5 2.exd5 Nf6 3.c4 c6 1/2",
-    "FEN": "rnbqkb1r/pp2pppp/2p2n2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/483.svg"
+    "eco": "A43",
+    "name": "Benoni Defense: Benoni Gambit Accepted",
+    "pgn": "1. d4 c5 2. dxc5 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2P5/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/483.svg"
 }

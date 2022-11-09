@@ -1,8 +1,8 @@
 {
     "tokenid": 559,
-    "eco": "B07",
-    "name": "Pirc: Ufimtsev-Pytel Variation: (Pribyl Defense)",
-    "pgn": "1.e4 d6 2.d4 Nf6 3.Nc3 c6 4.Nf3 Bg4 5.Be2 e6 1/2",
-    "FEN": "rn1qkb1r/pp3ppp/2pppn2/8/3PP1b1/2N2N2/PPP1BPPP/R1BQK2R w KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/559.svg"
+    "eco": "A48",
+    "name": "London System",
+    "pgn": "1. d4 Nf6 2. Nf3 g6 3. Bf4 1/2",
+    "FEN": "rnbqkb1r/pppppp1p/5np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/559.svg"
 }

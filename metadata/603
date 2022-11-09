@@ -1,8 +1,8 @@
 {
     "tokenid": 603,
-    "eco": "B12/19",
-    "name": "Caro-Kann: Advance: (Karpov, Seirawan)",
-    "pgn": "1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.O-O Nc6 7.c3 cxd4 8.cxd4 Nge7 9.a3 Be4 1/2",
-    "FEN": "r2qkb1r/pp2nppp/2n1p3/3pP3/3Pb3/P4N2/1P2BPPP/RNBQ1RK1 w kq - 1 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/603.svg"
+    "eco": "A57",
+    "name": "Benko Gambit Accepted",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 1/2",
+    "FEN": "rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/603.svg"
 }

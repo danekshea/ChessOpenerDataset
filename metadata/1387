@@ -1,8 +1,8 @@
 {
     "tokenid": 1387,
-    "eco": "C57",
-    "name": "Two Knights Defense: Ulvestad Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 b5 1/2",
-    "FEN": "r1bqkb1r/p1p2ppp/2n2n2/1p1Pp1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq b6 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1387.svg"
+    "eco": "B79",
+    "name": "Sicilian Defense: Dragon Variation, Yugoslav Attack",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. h4 Qa5 1 1/2",
+    "FEN": "r4rk1/pp1bppbp/2np1np1/q7/2BNP2P/2N1BP2/PPPQ2P1/R3K2R w KQ - 1 11",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1387.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 665,
-    "eco": "B21",
-    "name": "Sicilian: Grand Prix Attack",
-    "pgn": "1.e4 c5 2.f4 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/665.svg"
+    "eco": "A80",
+    "name": "Dutch Defense: Manhattan Gambit, Anti-Modern",
+    "pgn": "1. d4 f5 2. Qd3 d6 3. g4 1/2",
+    "FEN": "rnbqkbnr/ppp1p1pp/3p4/5p2/3P2P1/3Q4/PPP1PP1P/RNB1KBNR b KQkq g3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/665.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 143,
-    "eco": "A13",
-    "name": "English Opening: Agincourt Variation",
-    "pgn": "1.c4 e6 2.Nf3 d5 1/2",
-    "FEN": "rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq d6 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/143.svg"
+    "eco": "A00",
+    "name": "Ware Opening: Cologne Gambit",
+    "pgn": "1. a4 b6 2. d4 d5 3. Nc3 Nd7 1/2",
+    "FEN": "r1bqkbnr/p1pnpppp/1p6/3p4/P2P4/2N5/1PP1PPPP/R1BQKBNR w KQkq - 2 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/143.svg"
 }

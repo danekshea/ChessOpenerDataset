@@ -1,8 +1,8 @@
 {
     "tokenid": 862,
-    "eco": "B67",
-    "name": "Sicilian: Richter-Rauzer: Rauzer Attack (...a6...Bd7)",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 1/2",
-    "FEN": "r2qkb1r/1p1b1ppp/p1nppn2/6B1/3NP3/2N5/PPPQ1PPP/2KR1B1R w kq - 2 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/862.svg"
+    "eco": "B02",
+    "name": "Alekhine Defense: Steiner Variation",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. b3 1/2",
+    "FEN": "rnbqkb1r/pppppppp/1n6/4P3/2P5/1P6/P2P1PPP/RNBQKBNR b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/862.svg"
 }

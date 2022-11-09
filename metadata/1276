@@ -1,8 +1,8 @@
 {
     "tokenid": 1276,
-    "eco": "C43",
-    "name": "Petrov: Modern (Steinitz) Attack",
-    "pgn": "1.e4 e5 2.Nf3 Nf6 3.d4 1/2",
-    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1276.svg"
+    "eco": "B42",
+    "name": "Sicilian Defense: Kan Variation, Swiss Cheese Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6 1/2",
+    "FEN": "rnbqkbnr/1p1p1p1p/p3p1p1/8/3NP3/3B4/PPP2PPP/RNBQK2R w KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1276.svg"
 }

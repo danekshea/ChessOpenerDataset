@@ -1,8 +1,8 @@
 {
     "tokenid": 1125,
-    "eco": "C26",
-    "name": "Vienna Game",
-    "pgn": "1.e4 e5 2.Nc3 Nf6 3.Bc4 1/2",
-    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1125.svg"
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Declined, Wing Formation",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 Qa5 1/2",
+    "FEN": "rnb1kbnr/pp1ppppp/8/q7/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1125.svg"
 }

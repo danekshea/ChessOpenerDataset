@@ -1,8 +1,8 @@
 {
     "tokenid": 1425,
-    "eco": "C66",
-    "name": "Ruy Lopez: Closed Berlin Defense: Wolf Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 Bd7 6.Nc3 exd4 1/2",
-    "FEN": "r2qkb1r/pppb1ppp/2np1n2/1B6/3pP3/2N2N2/PPP2PPP/R1BQ1RK1 w kq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1425.svg"
+    "eco": "B92",
+    "name": "Sicilian Defense: Najdorf Variation, Opocensky Variation",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 1/2",
+    "FEN": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R b KQkq - 1 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1425.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 2235,
-    "eco": "E98/02",
-    "name": "King's Indian: Orthodox: Aronin-Taimanov (...Ne8)",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Ne8 10.Nd3 f5 11.Bd2 Nf6 12.f3 1/2",
-    "FEN": "r1bq1rk1/ppp1n1bp/3p1np1/3Ppp2/2P1P3/2NN1P2/PP1BB1PP/R2Q1RK1 b - - 0 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2235.svg"
+    "eco": "C50",
+    "name": "Italian Game: Giuoco Pianissimo, Lucchini Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 f5 1/2",
+    "FEN": "r1bqk1nr/pppp2pp/2n5/2b1pp2/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq f6 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2235.svg"
 }

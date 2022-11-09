@@ -1,8 +1,8 @@
 {
     "tokenid": 1003,
-    "eco": "C00/11",
-    "name": "French: Wing Gambit",
-    "pgn": "1.e4 e6 2.Nf3 d5 3.e5 c5 4.b4 1/2",
-    "FEN": "rnbqkbnr/pp3ppp/4p3/2ppP3/1P6/5N2/P1PP1PPP/RNBQKB1R b KQkq b3 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1003.svg"
+    "eco": "B11",
+    "name": "Caro-Kann Defense: Two Knights Attack, Mindeno Variation",
+    "pgn": "1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 1/2",
+    "FEN": "rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1003.svg"
 }

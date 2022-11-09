@@ -1,8 +1,8 @@
 {
     "tokenid": 1074,
-    "eco": "C15",
-    "name": "French: Winawer: Alekhine Gambit, (Kan)",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Nge2 dxe4 5.a3 Bxc3+ 6.Nxc3 Nc6 1/2",
-    "FEN": "r1bqk1nr/ppp2ppp/2n1p3/8/3Pp3/P1N5/1PP2PPP/R1BQKB1R w KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1074.svg"
+    "eco": "B20",
+    "name": "Sicilian Defense",
+    "pgn": "1. e4 c5 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1074.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1820,
-    "eco": "D53/01",
-    "name": "QGD: 4.Bg5 Be7",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Nf3 O-O 1/2",
-    "FEN": "rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQ - 6 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1820.svg"
+    "eco": "C32",
+    "name": "King's Gambit Declined: Falkbeer Countergambit, Tarrasch Variation",
+    "pgn": "1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 Bf5 8. g4 O-O 1/2",
+    "FEN": "rn1q1rk1/ppp2ppp/8/2bP1b2/4nPP1/5N2/PPP1Q2P/RNB1KB1R w KQ - 1 9",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1820.svg"
 }

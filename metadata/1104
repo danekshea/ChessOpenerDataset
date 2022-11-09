@@ -1,8 +1,8 @@
 {
     "tokenid": 1104,
-    "eco": "C23",
-    "name": "Bishop's Opening: Classical Variation",
-    "pgn": "1.e4 e5 2.Bc4 Bc5 1/2",
-    "FEN": "rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1104.svg"
+    "eco": "B21",
+    "name": "Sicilian Defense: McDonnell Attack, Tal Gambit",
+    "pgn": "1. e4 c5 2. f4 d5 3. exd5 Nf6 1/2",
+    "FEN": "rnbqkb1r/pp2pppp/5n2/2pP4/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1104.svg"
 }

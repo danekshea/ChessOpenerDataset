@@ -1,8 +1,8 @@
 {
     "tokenid": 1089,
-    "eco": "C19/05",
-    "name": "French: Winawer, Advance, Main Line",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7 7.Nf3 Ne7 8.a4 b6 9.Bb5+ 1/2",
-    "FEN": "rnb1k2r/p1q1nppp/1p2p3/1BppP3/P2P4/2P2N2/2P2PPP/R1BQK2R b KQkq - 1 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1089.svg"
+    "eco": "B20",
+    "name": "Sicilian Defense: Snyder Variation",
+    "pgn": "1. e4 c5 2. b3 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1089.svg"
 }

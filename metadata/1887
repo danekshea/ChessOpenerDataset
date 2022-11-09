@@ -1,8 +1,8 @@
 {
     "tokenid": 1887,
-    "eco": "D80",
-    "name": "Gruenfeld Defense",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 1/2",
-    "FEN": "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq d6 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1887.svg"
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Australian Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. h4 1/2",
+    "FEN": "rnbqkbnr/pppp1p1p/8/8/2B1PppP/5N2/PPPP2P1/RNBQK2R b KQkq h3 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1887.svg"
 }

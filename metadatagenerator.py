@@ -3,10 +3,14 @@ import chess
 import chess.svg
 from contextlib import redirect_stdout
 import subprocess
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 #function for generating metadata from P3eco.txt opener dataset
 def p3ecotextgenerator():
-    tokenid = 7
+    tokenid = 1
     tokens = {}
 
     #Prefixes for ECO
@@ -50,12 +54,12 @@ def p3ecotextgenerator():
 
                 #create SVGs of board states
                 board = chess.Board(FEN)
-                with open('metadata/images/' + str(tokenid) + '.svg', 'w') as f:
+                with open('images/' + str(tokenid) + '.svg', 'w') as f:
                     with redirect_stdout(f):
                             print(chess.svg.board(board, size=350))
 
                 #create token metadata and write to individual files
-                tokens[tokenid] = {'tokenid': tokenid, 'eco': econame[0], 'name': econame[1], 'pgn': pgn, 'FEN': FEN, 'image_url': 'https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/' + str(tokenid) + '.svg'}
+                tokens[tokenid] = {'tokenid': tokenid, 'eco': econame[0], 'name': econame[1], 'pgn': pgn, 'FEN': FEN, 'image_url': 'ipfs://' + os.getenv('IMAGE_CID') + '/' + str(tokenid) + '.svg'}
 
                 #write metadata JSON files
                 with open('metadata/' + str(tokenid), 'w') as outfile:
@@ -65,7 +69,7 @@ def p3ecotextgenerator():
 
 #function for generating metadata from raw data/niklasfchessopenings.txt
 def niklasfchessopeninggenerator():
-    tokenid = 7
+    tokenid = 1
     tokens = {}
     
     #Open file of openers
@@ -97,7 +101,7 @@ def niklasfchessopeninggenerator():
                     print(chess.svg.board(board, size=350))
 
         #create token metadata and write to individual files
-        tokens[tokenid] = {'tokenid': tokenid, 'eco': eco, 'name': name, 'pgn': pgn, 'FEN': FEN, 'image_url': 'https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/' + str(tokenid) + '.svg'}
+        tokens[tokenid] = {'tokenid': tokenid, 'eco': eco, 'name': name, 'pgn': pgn, 'FEN': FEN, 'image_url': 'ipfs://' + os.getenv('IMAGE_CID') + '/' + str(tokenid) + '.svg'}
 
         #write metadata JSON files
         with open('metadata/' + str(tokenid), 'w') as outfile:

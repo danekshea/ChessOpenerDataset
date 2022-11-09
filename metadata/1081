@@ -1,8 +1,8 @@
 {
     "tokenid": 1081,
-    "eco": "C18/06",
-    "name": "French: Winawer: Advance 7.h4",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.h4 Nbc6 8.h5 1/2",
-    "FEN": "r1bqk2r/pp2nppp/2n1p3/2ppP2P/3P4/P1P5/2P2PP1/R1BQKBNR b KQkq - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1081.svg"
+    "eco": "B20",
+    "name": "Sicilian Defense: Keres Variation",
+    "pgn": "1. e4 c5 2. Ne2 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPPNPPP/RNBQKB1R b KQkq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1081.svg"
 }

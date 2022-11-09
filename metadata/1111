@@ -1,8 +1,8 @@
 {
     "tokenid": 1111,
-    "eco": "C24",
-    "name": "Bishop's Opening: Urusov Gambit: Panov Variation",
-    "pgn": "1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 d5 5.exd5 Bb4+ 6.c3 Qe7+ 1/2",
-    "FEN": "rnb1k2r/ppp1qppp/5n2/3P4/1bBp4/2P2N2/PP3PPP/RNBQK2R w KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1111.svg"
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Accepted, Fianchetto Defense",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 1/2",
+    "FEN": "r1bqkbnr/pp1ppp1p/2n3p1/8/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1111.svg"
 }

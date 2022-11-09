@@ -1,8 +1,8 @@
 {
     "tokenid": 816,
-    "eco": "B50/07",
-    "name": "Sicilian: Four Knights Fianchetto Variation",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.Nc3 d6 4.g3 Nc6 5.Bg2 Nf6 1/2",
-    "FEN": "r1bqkb1r/pp3ppp/2nppn2/2p5/4P3/2N2NP1/PPPP1PBP/R1BQK2R w KQkq - 3 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/816.svg"
+    "eco": "B01",
+    "name": "Scandinavian Defense: Bronstein Variation",
+    "pgn": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 1/2",
+    "FEN": "rnb1kb1r/1pp1pppp/p2q1n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/816.svg"
 }

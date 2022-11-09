@@ -1,8 +1,8 @@
 {
     "tokenid": 760,
-    "eco": "B37",
-    "name": "Sicilian: Accelerated Fianchetto: Maroczy Bind 5...Bg7",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 1/2",
-    "FEN": "r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/760.svg"
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Kennedy Variation, Paulsen Attack",
+    "pgn": "1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nf3 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/8/4n3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/760.svg"
 }

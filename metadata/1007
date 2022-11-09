@@ -1,8 +1,8 @@
 {
     "tokenid": 1007,
-    "eco": "C01",
-    "name": "French: Exchange: 3.Nc3",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 1/2",
-    "FEN": "rnbqk1nr/ppp2ppp/8/3p4/1b1P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1007.svg"
+    "eco": "B12",
+    "name": "Caro-Kann Defense",
+    "pgn": "1. e4 c6 2. d4 d5 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1007.svg"
 }

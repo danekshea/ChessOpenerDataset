@@ -1,8 +1,8 @@
 {
     "tokenid": 332,
-    "eco": "A47",
-    "name": "Queen's Indian: Bf4",
-    "pgn": "1.d4 Nf6 2.Nf3 b6 3.Bf4 e6 4.e3 Bb7 5.Nbd2 Be7 6.h3 c5 1/2",
-    "FEN": "rn1qk2r/pb1pbppp/1p2pn2/2p5/3P1B2/4PN1P/PPPN1PP1/R2QKB1R w KQkq c6 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/332.svg"
+    "eco": "A16",
+    "name": "English Opening: Anglo-Indian Defense, Anglo-Gr\u00fcnfeld Variation",
+    "pgn": "1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nb6 1/2",
+    "FEN": "rnbqkb1r/ppp1pp1p/1n4p1/8/8/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 2 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/332.svg"
 }

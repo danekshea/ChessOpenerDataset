@@ -1,8 +1,8 @@
 {
     "tokenid": 64,
-    "eco": "A04",
-    "name": "Reti: King's Indian Attack",
-    "pgn": "1.Nf3 g6 2.g3 Bg7 3.Bg2 e5 4.O-O Nc6 5.e4 d6 6.d3 Nge7 7.c3 O-O 8.Nbd2 h6 9.b4 1/2",
-    "FEN": "r1bq1rk1/ppp1npb1/2np2pp/4p3/1P2P3/2PP1NP1/P2N1PBP/R1BQ1RK1 b - b3 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/64.svg"
+    "eco": "A00",
+    "name": "Kadas Opening: Kadas Gambit",
+    "pgn": "1. h4 c5 2. b4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/1P5P/8/P1PPPPP1/RNBQKBNR b KQkq b3 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/64.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1522,
-    "eco": "C89",
-    "name": "Ruy Lopez: Marshall: Main Line, Spassky",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3\n 15.Be3 Bg4 16.Qd3 Rae8 17.Nd2 Re6 18.a4 Qh5 1/2",
-    "FEN": "5rk1/5ppp/p1pbr3/1p1n3q/P2P2b1/1BPQB1P1/1P1N1P1P/R3R1K1 w - - 1 19",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1522.svg"
+    "eco": "C07",
+    "name": "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/5N2/PPPN1PPP/R1BQKB1R b KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1522.svg"
 }

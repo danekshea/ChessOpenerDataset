@@ -1,8 +1,8 @@
 {
     "tokenid": 1950,
-    "eco": "E00",
-    "name": "Catalan Opening",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Bb4+ 5.Bd2 1/2",
-    "FEN": "rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/5NP1/PP1BPP1P/RN1QKB1R b KQkq - 3 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1950.svg"
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Kieseritzky Gambit, Paulsen Defense Deferred",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bg7 1/2",
+    "FEN": "rnbqk2r/ppp2pbp/5n2/3PN3/2B2ppP/8/PPPP2P1/RNBQK2R w KQkq - 1 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1950.svg"
 }

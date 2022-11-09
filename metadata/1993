@@ -1,8 +1,8 @@
 {
     "tokenid": 1993,
-    "eco": "E11",
-    "name": "Bogo-Indian Defense: Gruenfeld Variation",
-    "pgn": "1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 1/2",
-    "FEN": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 3 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1993.svg"
+    "eco": "C40",
+    "name": "Latvian Gambit: Mayet Attack, Poisoned Pawn Variation",
+    "pgn": "1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 1/2",
+    "FEN": "rnb1kbnr/pppp2pp/8/4N3/2BPp3/8/PPP2PqP/RNBQK2R w KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1993.svg"
 }

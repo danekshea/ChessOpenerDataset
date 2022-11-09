@@ -1,8 +1,8 @@
 {
     "tokenid": 1031,
-    "eco": "C07/17",
-    "name": "French: Tarrasch: Open Variation (Shamkovich)",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.exd5 Qxd5 6.Bc4 Qd6 7.O-O Nf6 8.Nb3 Nc6 9.Nbxd4 Nxd4 10.Nxd4 a6 11.Re1 Qc7 1/2",
-    "FEN": "r1b1kb1r/1pq2ppp/p3pn2/8/2BN4/8/PPP2PPP/R1BQR1K1 w kq - 2 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1031.svg"
+    "eco": "B13",
+    "name": "Caro-Kann Defense: Exchange Variation, Bulla Attack",
+    "pgn": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. g4 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/8/3p4/3P2P1/8/PPP2P1P/RNBQKBNR b KQkq g3 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1031.svg"
 }

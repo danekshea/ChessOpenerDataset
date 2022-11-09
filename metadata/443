@@ -1,8 +1,8 @@
 {
     "tokenid": 443,
-    "eco": "A87/09",
-    "name": "Dutch: Leningrad: Main Variation (7...Qe8)",
-    "pgn": "1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.d5 Na6 9.Rb1 Nc5 1/2",
-    "FEN": "r1b1qrk1/ppp1p1bp/3p1np1/2nP1p2/2P5/2N2NP1/PP2PPBP/1RBQ1RK1 w - - 3 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/443.svg"
+    "eco": "A40",
+    "name": "Kangaroo Defense: Keres Defense, Transpositional Variation",
+    "pgn": "1. d4 e6 2. c4 Bb4+ 3. Nc3 1/2",
+    "FEN": "rnbqk1nr/pppp1ppp/4p3/8/1bPP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/443.svg"
 }

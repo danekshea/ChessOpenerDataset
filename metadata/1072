@@ -1,8 +1,8 @@
 {
     "tokenid": 1072,
-    "eco": "C15",
-    "name": "French: Winawer: Alekhine (Maroczy) Gambit",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Nge2 1/2",
-    "FEN": "rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP1NPPP/R1BQKB1R b KQkq - 3 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1072.svg"
+    "eco": "B19",
+    "name": "Caro-Kann Defense: Classical Variation, Spassky Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5 1/2",
+    "FEN": "r2qkbnr/pp1nppp1/2p3bp/7P/3P4/5NN1/PPP2PP1/R1BQKB1R b KQkq - 0 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1072.svg"
 }

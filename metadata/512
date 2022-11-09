@@ -1,8 +1,8 @@
 {
     "tokenid": 512,
-    "eco": "B03",
-    "name": "Alekhine's Defense: Balogh Variation",
-    "pgn": "1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Bc4 1/2",
-    "FEN": "rnbqkb1r/ppp1pppp/3p4/3nP3/2BP4/8/PPP2PPP/RNBQK1NR b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/512.svg"
+    "eco": "A45",
+    "name": "Indian Defense: Gibbins-Wiedenhagen Gambit Accepted",
+    "pgn": "1. d4 Nf6 2. g4 Nxg4 1/2",
+    "FEN": "rnbqkb1r/pppppppp/8/8/3P2n1/8/PPP1PP1P/RNBQKBNR w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/512.svg"
 }

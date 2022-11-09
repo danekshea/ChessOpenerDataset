@@ -1,8 +1,8 @@
 {
     "tokenid": 716,
-    "eco": "B30",
-    "name": "Sicilian Defense",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.g3 b6 4.Bg2 1/2",
-    "FEN": "r1bqkbnr/p2ppppp/1pn5/2p5/4P3/5NP1/PPPP1PBP/RNBQK2R b KQkq - 1 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/716.svg"
+    "eco": "A96",
+    "name": "Dutch Defense: Classical Variation, Huisl Variation",
+    "pgn": "1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Ne4 1/2",
+    "FEN": "rnbq1rk1/ppp1b1pp/3pp3/5p2/2PPn3/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/716.svg"
 }

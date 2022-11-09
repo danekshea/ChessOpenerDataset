@@ -1,8 +1,8 @@
 {
     "tokenid": 669,
-    "eco": "B22/16",
-    "name": "Sicilian: Alapin: (...d5 exd5...Qxd5)",
-    "pgn": "1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 cxd4 5.cxd4 Nc6 6.Nf3 e6 7.Nc3 1/2",
-    "FEN": "r1b1kbnr/pp3ppp/2n1p3/3q4/3P4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/669.svg"
+    "eco": "A80",
+    "name": "Dutch Defense: Spielmann Gambit",
+    "pgn": "1. d4 f5 2. Nc3 Nf6 3. g4 1/2",
+    "FEN": "rnbqkb1r/ppppp1pp/5n2/5p2/3P2P1/2N5/PPP1PP1P/R1BQKBNR b KQkq g3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/669.svg"
 }

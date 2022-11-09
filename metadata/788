@@ -1,8 +1,8 @@
 {
     "tokenid": 788,
-    "eco": "B43",
-    "name": "Sicilian: Kan: 5.Nc3",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 1/2",
-    "FEN": "rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/788.svg"
+    "eco": "B00",
+    "name": "Owen Defense: Smith Gambit",
+    "pgn": "1. e4 b6 2. d4 Bb7 3. Nf3 1/2",
+    "FEN": "rn1qkbnr/pbpppppp/1p6/8/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/788.svg"
 }

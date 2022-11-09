@@ -1,8 +1,8 @@
 {
     "tokenid": 1238,
-    "eco": "C41",
-    "name": "Philidor's Defense",
-    "pgn": "1.e4 e5 2.Nf3 d6 3.d4 1/2",
-    "FEN": "rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1238.svg"
+    "eco": "B33",
+    "name": "Sicilian Defense: Open",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 1/2",
+    "FEN": "r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1238.svg"
 }

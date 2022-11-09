@@ -1,8 +1,8 @@
 {
     "tokenid": 1923,
-    "eco": "D93",
-    "name": "Gruenfeld with Bf4 e3 (Qb3)",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Qb3 c6 7.Nf3 Qa5 1/2",
-    "FEN": "rnb2rk1/pp2ppbp/2p2np1/q2p4/2PP1B2/1QN1PN2/PP3PPP/R3KB1R w KQ - 2 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1923.svg"
+    "eco": "C38",
+    "name": "King's Gambit Accepted: Mayet Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 d6 6. c3 1/2",
+    "FEN": "rnbqk1nr/ppp2pbp/3p4/6p1/2BPPp2/2P2N2/PP4PP/RNBQK2R b KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1923.svg"
 }

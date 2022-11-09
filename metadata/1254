@@ -1,8 +1,8 @@
 {
     "tokenid": 1254,
-    "eco": "C41",
-    "name": "Philidor: Nimzovich: Sozin Variation",
-    "pgn": "1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7 5.Bc4 Be7 6.O-O O-O 7.Qe2 c6 8.a4 exd4 1/2",
-    "FEN": "r1bq1rk1/pp1nbppp/2pp1n2/8/P1BpP3/2N2N2/1PP1QPPP/R1B2RK1 w - - 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1254.svg"
+    "eco": "B40",
+    "name": "Sicilian Defense: French Variation, Normal",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 1/2",
+    "FEN": "rnbqkb1r/pp1p1ppp/4pn2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1254.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1041,
-    "eco": "C10",
-    "name": "French: Marshall Variation",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 c5 1/2",
-    "FEN": "rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq c6 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1041.svg"
+    "eco": "B13",
+    "name": "Caro-Kann Defense: Panov-Botvinnik, Herzog Defense",
+    "pgn": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. d5 Na5 1/2",
+    "FEN": "r1bqkb1r/pp2pppp/5n2/n2P2B1/2p5/2N5/PP3PPP/R2QKBNR w KQkq - 1 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1041.svg"
 }

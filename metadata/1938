@@ -1,8 +1,8 @@
 {
     "tokenid": 1938,
-    "eco": "D95",
-    "name": "Gruenfeld: Botvinnik Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3 e6 1/2",
-    "FEN": "rnbq1rk1/ppp2pbp/4pnp1/3p4/2PP4/1QN1PN2/PP3PPP/R1B1KB1R w KQ - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1938.svg"
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 1/2",
+    "FEN": "rnbqkb1r/pppp1p1p/5n2/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 2 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1938.svg"
 }

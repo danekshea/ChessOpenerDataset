@@ -1,8 +1,8 @@
 {
     "tokenid": 1466,
-    "eco": "C77",
-    "name": "Ruy Lopez: Morphy Defense",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 1/2",
-    "FEN": "r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1466.svg"
+    "eco": "C00",
+    "name": "French Defense: Pelikan Variation",
+    "pgn": "1. e4 e6 2. Nc3 d5 3. f4 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/4p3/3p4/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq f3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1466.svg"
 }

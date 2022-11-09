@@ -1,8 +1,8 @@
 {
     "tokenid": 359,
-    "eco": "A53",
-    "name": "Old Indian: Bg4",
-    "pgn": "1.d4 Nf6 2.Nf3 d6 3.c4 Bg4 4.Nc3 1/2",
-    "FEN": "rn1qkb1r/ppp1pppp/3p1n2/8/2PP2b1/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/359.svg"
+    "eco": "A22",
+    "name": "English Opening: King's English Variation, Two Knights Variation, Reversed Dragon",
+    "pgn": "1. c4 e5 2. Nc3 Nf6 3. g3 d5 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/5n2/3pp3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq d6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/359.svg"
 }

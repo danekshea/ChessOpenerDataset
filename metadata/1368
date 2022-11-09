@@ -1,8 +1,8 @@
 {
     "tokenid": 1368,
-    "eco": "C54",
-    "name": "Giuoco Piano: Krause Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Bd2 Nxe4 8.Bxb4 Nxb4 9.Bxf7+ Kxf7 10.Qb3+ d5 11.Ne5+ Kf6 12.f3 1/2",
-    "FEN": "r1bq3r/ppp3pp/5k2/3pN3/1n1Pn3/1Q3P2/PP4PP/RN2K2R b KQ - 0 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1368.svg"
+    "eco": "B74",
+    "name": "Sicilian Defense: Dragon Variation, Classical Variation, Bernard Defense",
+    "pgn": "1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Bg7 7. O-O O-O 8. Be3 Nc6 9. Nb3 Be6 10. f4 Na5 1 1/2",
+    "FEN": "r2q1rk1/pp2ppbp/3pbnp1/n7/4PP2/1NN1B3/PPP1B1PP/R2Q1RK1 w - - 1 11",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1368.svg"
 }

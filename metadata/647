@@ -1,8 +1,8 @@
 {
     "tokenid": 647,
-    "eco": "B20",
-    "name": "Sicilian: Wing Gambit: Carlsbad Variation",
-    "pgn": "1.e4 c5 2.b4 cxb4 3.a3 bxa3 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/8/4P3/p7/2PP1PPP/RNBQKBNR w KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/647.svg"
+    "eco": "A74",
+    "name": "Benoni Defense: Classical Variation, Full Line",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O a6 10. a4 1/2",
+    "FEN": "rnbq1rk1/1p3pbp/p2p1np1/2pP4/P3P3/2N2N2/1P2BPPP/R1BQ1RK1 b - a3 0 10",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/647.svg"
 }

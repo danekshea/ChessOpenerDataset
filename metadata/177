@@ -1,8 +1,8 @@
 {
     "tokenid": 177,
-    "eco": "A20",
-    "name": "English: Nimzovich: Flohr Variation",
-    "pgn": "1.c4 e5 2.Nf3 e4 1/2",
-    "FEN": "rnbqkbnr/pppp1ppp/8/8/2P1p3/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/177.svg"
+    "eco": "A02",
+    "name": "Bird Opening: Platz Gambit",
+    "pgn": "1. f4 e5 2. fxe5 Ne7 1/2",
+    "FEN": "rnbqkb1r/ppppnppp/8/4P3/8/8/PPPPP1PP/RNBQKBNR w KQkq - 1 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/177.svg"
 }

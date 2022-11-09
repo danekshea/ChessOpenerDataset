@@ -1,8 +1,8 @@
 {
     "tokenid": 989,
-    "eco": "B99/16",
-    "name": "Sicilian: Najdorf: 7...Be7, Main Line",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qc7 8.Qf3 Be7 9.O-O-O Nbd7 10.g4 b5 11.Bxf6 Nxf6 12.g5 Nd7 13.f5 Bxg5+ 1/2",
-    "FEN": "r1b1k2r/2qn1ppp/p2pp3/1p3Pb1/3NP3/2N2Q2/PPP4P/2KR1B1R w kq - 0 14",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/989.svg"
+    "eco": "B10",
+    "name": "Caro-Kann Defense: Breyer Variation, Stein Attack",
+    "pgn": "1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. b4 1/2",
+    "FEN": "rnbq1rk1/pp2npbp/2p3p1/3pp3/1P2P3/3P1NP1/P1PN1PBP/R1BQ1RK1 b - b3 0 8",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/989.svg"
 }

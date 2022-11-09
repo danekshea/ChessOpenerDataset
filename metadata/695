@@ -1,8 +1,8 @@
 {
     "tokenid": 695,
-    "eco": "B23",
-    "name": "Sicilian: Chameleon Variation",
-    "pgn": "1.e4 c5 2.Nc3 Nc6 3.Nge2 1/2",
-    "FEN": "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPPNPPP/R1BQKB1R b KQkq - 3 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/695.svg"
+    "eco": "A86",
+    "name": "Dutch Defense: Fianchetto Variation",
+    "pgn": "1. d4 f5 2. c4 Nf6 3. g3 1/2",
+    "FEN": "rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/695.svg"
 }

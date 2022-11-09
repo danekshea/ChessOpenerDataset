@@ -1,8 +1,8 @@
 {
     "tokenid": 38,
-    "eco": "A01",
-    "name": "Nimzovich-Larsen Attack: English Variation",
-    "pgn": "1.b3 c5 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/8/1P6/P1PPPPPP/RNBQKBNR w KQkq c6 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/38.svg"
+    "eco": "A00",
+    "name": "Grob Opening: Spike, Hurst Attack",
+    "pgn": "1. g4 e5 2. Bg2 d5 3. c4 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/8/3pp3/2P3P1/8/PP1PPPBP/RNBQK1NR b KQkq c3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/38.svg"
 }

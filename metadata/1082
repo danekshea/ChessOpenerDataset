@@ -1,8 +1,8 @@
 {
     "tokenid": 1082,
-    "eco": "C18/07",
-    "name": "French: Winawer: Advance (without 7...Qc7)",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 1/2",
-    "FEN": "rnbqk2r/pp2nppp/4p3/2ppP3/3P2Q1/P1P5/2P2PPP/R1B1KBNR b KQkq - 2 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1082.svg"
+    "eco": "B20",
+    "name": "Sicilian Defense: King David's Opening",
+    "pgn": "1. e4 c5 2. Ke2 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPPKPPP/RNBQ1BNR b kq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1082.svg"
 }

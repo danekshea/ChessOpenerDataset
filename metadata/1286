@@ -1,8 +1,8 @@
 {
     "tokenid": 1286,
-    "eco": "C44",
-    "name": "Scotch: Goering Gambit",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3 Bb4 1/2",
-    "FEN": "r1bqk1nr/pppp1ppp/2n5/8/1b2P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 1 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1286.svg"
+    "eco": "B45",
+    "name": "Sicilian Defense: Taimanov Variation, Normal Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 1/2",
+    "FEN": "r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1286.svg"
 }

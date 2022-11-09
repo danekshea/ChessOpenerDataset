@@ -1,8 +1,8 @@
 {
     "tokenid": 885,
-    "eco": "B73/02",
-    "name": "Sicilian: Dragon, Classical: 8.O-O O-O 9.f4",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.f4 1/2",
-    "FEN": "r1bq1rk1/pp2ppbp/2np1np1/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b - f3 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/885.svg"
+    "eco": "B03",
+    "name": "Alekhine Defense: Hunt Variation",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. c5 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/1n1p4/2P1P3/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/885.svg"
 }

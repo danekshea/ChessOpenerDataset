@@ -1,8 +1,8 @@
 {
     "tokenid": 836,
-    "eco": "B57",
-    "name": "Sicilian: Sozin",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 1/2",
-    "FEN": "r1bqkb1r/pp2pppp/2np1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 4 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/836.svg"
+    "eco": "B01",
+    "name": "Scandinavian Defense: Portuguese Variation, Portuguese Gambit",
+    "pgn": "1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. Bb5+ Nbd7 5. f3 Bf5 1/2",
+    "FEN": "r2qkb1r/pppnpppp/5n2/1B1P1b2/3P4/5P2/PPP3PP/RNBQK1NR w KQkq - 1 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/836.svg"
 }

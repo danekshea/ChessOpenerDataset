@@ -1,8 +1,8 @@
 {
     "tokenid": 1124,
-    "eco": "C26",
-    "name": "Vienna: Paulsen-Mieses Variation",
-    "pgn": "1.e4 e5 2.Nc3 Nf6 3.g3 1/2",
-    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1124.svg"
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 d5 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/8/3p4/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq d6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1124.svg"
 }

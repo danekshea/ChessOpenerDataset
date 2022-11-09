@@ -1,8 +1,8 @@
 {
     "tokenid": 1651,
-    "eco": "D20",
-    "name": "QGA: 3.e4",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.e4 1/2",
-    "FEN": "rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq e3 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1651.svg"
+    "eco": "C21",
+    "name": "Center Game: Kieseritzky Variation",
+    "pgn": "1. e4 e5 2. d4 exd4 3. Nf3 c5 1/2",
+    "FEN": "rnbqkbnr/pp1p1ppp/8/2p5/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq c6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1651.svg"
 }

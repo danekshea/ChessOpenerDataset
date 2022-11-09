@@ -1,8 +1,8 @@
 {
     "tokenid": 1680,
-    "eco": "D29",
-    "name": "QGA: Classical: 8...Bb7",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5 8.Bb3 Bb7 1/2",
-    "FEN": "rn1qkb1r/1b3ppp/p3pn2/1pp5/3P4/1B2PN2/PP2QPPP/RNB2RK1 w kq - 2 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1680.svg"
+    "eco": "C23",
+    "name": "Bishop's Opening: Lewis Countergambit",
+    "pgn": "1. e4 e5 2. Bc4 Bc5 3. c3 d5 1/2",
+    "FEN": "rnbqk1nr/ppp2ppp/8/2bpp3/2B1P3/2P5/PP1P1PPP/RNBQK1NR w KQkq d6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1680.svg"
 }

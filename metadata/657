@@ -1,8 +1,8 @@
 {
     "tokenid": 657,
-    "eco": "B21",
-    "name": "Sicilian: Smith-Morra Gambit",
-    "pgn": "1.e4 c5 2.d4 1/2",
-    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/657.svg"
+    "eco": "A80",
+    "name": "Dutch Defense: Hopton Attack",
+    "pgn": "1. d4 f5 2. Bg5 1/2",
+    "FEN": "rnbqkbnr/ppppp1pp/8/5pB1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/657.svg"
 }

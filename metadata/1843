@@ -1,8 +1,8 @@
 {
     "tokenid": 1843,
-    "eco": "D61",
-    "name": "QGD: Orthodox Defense: Rubinstein Variation",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Qc2 1/2",
-    "FEN": "r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/R3KB1R b KQ - 4 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1843.svg"
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Bishop's Gambit, Kieseritzky Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 b5 1/2",
+    "FEN": "rnbqkbnr/p1pp1ppp/8/1p6/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq b6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1843.svg"
 }

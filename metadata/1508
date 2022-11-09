@@ -1,8 +1,8 @@
 {
     "tokenid": 1508,
-    "eco": "C86",
-    "name": "Ruy Lopez: Worrall Attack",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 1/2",
-    "FEN": "r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPPQPPP/RNB2RK1 b kq - 5 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1508.svg"
+    "eco": "C03",
+    "name": "French Defense: Tarrasch Variation, Haberditz Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 f5 1/2",
+    "FEN": "rnbqkbnr/ppp3pp/4p3/3p1p2/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq f6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1508.svg"
 }

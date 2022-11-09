@@ -1,8 +1,8 @@
 {
     "tokenid": 1088,
-    "eco": "C19",
-    "name": "French: Winawer: Advance, Main Line",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 1/2",
-    "FEN": "rnbqk2r/pp2nppp/4p3/2ppP3/3P4/P1P2N2/2P2PPP/R1BQKB1R b KQkq - 2 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1088.svg"
+    "eco": "B20",
+    "name": "Sicilian Defense: Myers Attack",
+    "pgn": "1. e4 c5 2. h4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P2P/8/PPPP1PP1/RNBQKBNR b KQkq h3 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1088.svg"
 }

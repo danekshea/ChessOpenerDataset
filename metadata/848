@@ -1,8 +1,8 @@
 {
     "tokenid": 848,
-    "eco": "B62",
-    "name": "Sicilian: Richter-Rauzer: Margate (Alekhine) Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Bb5 1/2",
-    "FEN": "r1bqkb1r/pp3ppp/2nppn2/1B4B1/3NP3/2N5/PPP2PPP/R2QK2R b KQkq - 1 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/848.svg"
+    "eco": "B02",
+    "name": "Alekhine Defense: Hunt Variation, Matsukevich Gambit",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 Nxc3 6. dxc3 d6 7. Bg5 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/3p4/2P1P1B1/8/2P5/PP3PPP/R2QKBNR b KQkq - 1 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/848.svg"
 }

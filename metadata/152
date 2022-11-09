@@ -1,8 +1,8 @@
 {
     "tokenid": 152,
-    "eco": "A14",
-    "name": "English: Neo-Catalan Declined",
-    "pgn": "1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O 1/2",
-    "FEN": "rnbqk2r/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1 b kq - 4 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/152.svg"
+    "eco": "A01",
+    "name": "Nimzo-Larsen Attack: Graz Attack",
+    "pgn": "1. b3 d5 2. Ba3 1/2",
+    "FEN": "rnbqkbnr/ppp1pppp/8/3p4/8/BP6/P1PPPPPP/RN1QKBNR b KQkq - 1 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/152.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 227,
-    "eco": "A30",
-    "name": "English: Symmetrical: Hedgehog",
-    "pgn": "1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6 9.Rd1 a6 10.b3 Nbd7 1/2",
-    "FEN": "r2qk2r/1b1nbppp/pp1ppn2/8/2PQ4/1PN2NP1/P3PPBP/R1BR2K1 w kq - 1 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/227.svg"
+    "eco": "A05",
+    "name": "Zukertort Opening",
+    "pgn": "1. Nf3 Nf6 2. Nc3 Nc6 1/2",
+    "FEN": "r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 4 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/227.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 528,
-    "eco": "B06/09",
-    "name": "Pirc-Robatsch: 4.Be3 a6",
-    "pgn": "1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 a6 5.Qd2 b5 1/2",
-    "FEN": "rnbqk1nr/2p1ppbp/p2p2p1/1p6/3PP3/2N1B3/PPPQ1PPP/R3KBNR w KQkq b6 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/528.svg"
+    "eco": "A45",
+    "name": "Trompowsky Attack: Borg Variation",
+    "pgn": "1. d4 Nf6 2. Bg5 Ne4 3. Bf4 g5 1/2",
+    "FEN": "rnbqkb1r/pppppp1p/8/6p1/3PnB2/8/PPP1PPPP/RN1QKBNR w KQkq g6 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/528.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 1903,
-    "eco": "D86",
-    "name": "Gruenfeld: Exchange: Simagin's Improved Variation",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 Nc6 1/2",
-    "FEN": "r1bq1rk1/ppp1ppbp/2n3p1/8/2BPP3/2P5/P3NPPP/R1BQK2R w KQ - 5 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1903.svg"
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Muzio Gambit, Brentano Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O d5 1/2",
+    "FEN": "rnbqkbnr/ppp2p1p/8/3p4/2B1Ppp1/5N2/PPPP2PP/RNBQ1RK1 w kq d6 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1903.svg"
 }

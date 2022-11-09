@@ -1,8 +1,8 @@
 {
     "tokenid": 1135,
-    "eco": "C30",
-    "name": "King's Gambit",
-    "pgn": "1.e4 e5 2.f4 1/2",
-    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1135.svg"
+    "eco": "B22",
+    "name": "Sicilian Defense: Alapin Variation, Stoltz Attack",
+    "pgn": "1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3 1/2",
+    "FEN": "r1bqkb1r/pp1ppppp/1nn5/2p1P3/8/1BP2N2/PP1P1PPP/RNBQK2R b KQkq - 6 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1135.svg"
 }

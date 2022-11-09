@@ -1,8 +1,8 @@
 {
     "tokenid": 555,
-    "eco": "B07",
-    "name": "Pirc-Robatsch",
-    "pgn": "1.e4 d6 2.d4 Nf6 3.Nc3 c6 4.f4 g6 1/2",
-    "FEN": "rnbqkb1r/pp2pp1p/2pp1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR w KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/555.svg"
+    "eco": "A47",
+    "name": "Marienbad System",
+    "pgn": "1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 1/2",
+    "FEN": "rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq c6 0 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/555.svg"
 }

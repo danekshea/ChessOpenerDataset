@@ -1,8 +1,8 @@
 {
     "tokenid": 810,
-    "eco": "B50",
-    "name": "Sicilian: Kopec System",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Bd3 1/2",
-    "FEN": "rnbqkb1r/pp2pppp/3p1n2/2p5/4P3/2PB1N2/PP1P1PPP/RNBQK2R b KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/810.svg"
+    "eco": "B01",
+    "name": "Scandinavian Defense: Anderssen Counterattack, Collijn Variation",
+    "pgn": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. Nf3 Bg4 1/2",
+    "FEN": "rn2kbnr/ppp2ppp/8/q3p3/3P2b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/810.svg"
 }

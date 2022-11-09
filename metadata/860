@@ -1,8 +1,8 @@
 {
     "tokenid": 860,
-    "eco": "B66/26",
-    "name": "Sicilian: Richter-Rauzer: Rauzer Attack (6...a6)",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 a6 7.Qd2 e6 8.O-O-O h6 9.Be3 Bd7 10.f3 b5 1/2",
-    "FEN": "r2qkb1r/3b1pp1/p1nppn1p/1p6/3NP3/2N1BP2/PPPQ2PP/2KR1B1R w kq b6 0 11",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/860.svg"
+    "eco": "B02",
+    "name": "Alekhine Defense: Scandinavian Variation, Myers Gambit",
+    "pgn": "1. e4 Nf6 2. Nc3 d5 3. d3 dxe4 4. Bg5 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/5n2/6B1/4p3/2NP4/PPP2PPP/R2QKBNR b KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/860.svg"
 }

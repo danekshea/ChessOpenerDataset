@@ -1,8 +1,8 @@
 {
     "tokenid": 495,
-    "eco": "B02",
-    "name": "Alekhine's Defense: Maroczy Variation",
-    "pgn": "1.e4 Nf6 2.d3 1/2",
-    "FEN": "rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/495.svg"
+    "eco": "A43",
+    "name": "Benoni Defense: Old Benoni, Schmid Variation",
+    "pgn": "1. d4 c5 2. d5 d6 3. Nc3 g6 1/2",
+    "FEN": "rnbqkbnr/pp2pp1p/3p2p1/2pP4/8/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/495.svg"
 }

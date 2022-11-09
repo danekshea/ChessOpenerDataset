@@ -1,8 +1,8 @@
 {
     "tokenid": 1664,
-    "eco": "D25",
-    "name": "QGA: 4.e3",
-    "pgn": "1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 1/2",
-    "FEN": "rnbqkb1r/ppp1pppp/5n2/8/2pP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1664.svg"
+    "eco": "C21",
+    "name": "Danish Gambit Accepted: Svenonius Defense",
+    "pgn": "1. e4 e5 2. d4 exd4 3. c3 Ne7 1/2",
+    "FEN": "rnbqkb1r/ppppnppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1664.svg"
 }

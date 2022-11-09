@@ -1,8 +1,8 @@
 {
     "tokenid": 2131,
-    "eco": "E66",
-    "name": "King's Indian: Fianchetto: Yugoslav Panno",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c5 7.O-O Nc6 8.d5 Na5 9.Nd2 a6 10.Qc2 Rb8 11.b3 b5 1/2",
-    "FEN": "1rbq1rk1/4ppbp/p2p1np1/nppP4/2P5/1PN3P1/P1QNPPBP/R1B2RK1 w - b6 0 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2131.svg"
+    "eco": "C44",
+    "name": "Scotch Game: Napoleon Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxd4 exd4 5. Bc4 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/8/8/2BpP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2131.svg"
 }

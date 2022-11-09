@@ -1,8 +1,8 @@
 {
     "tokenid": 736,
-    "eco": "B32",
-    "name": "Sicilian: Flohr (Lady Godiva) Variation",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qc7 1/2",
-    "FEN": "r1b1kbnr/ppqppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/736.svg"
+    "eco": "B00",
+    "name": "King's Pawn",
+    "pgn": "1. e4 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/736.svg"
 }

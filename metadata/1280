@@ -1,8 +1,8 @@
 {
     "tokenid": 1280,
-    "eco": "C43",
-    "name": "Petrov: Modern Attack: Trifunovic Variation",
-    "pgn": "1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Bd6 6.O-O O-O 7.c4 Bxe5 1/2",
-    "FEN": "rnbq1rk1/ppp2ppp/8/3pb3/2PPn3/3B4/PP3PPP/RNBQ1RK1 w - - 0 8",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1280.svg"
+    "eco": "B43",
+    "name": "Sicilian Defense: Kan Variation, Wing Attack, Spraggett Attack",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Nf3 1/2",
+    "FEN": "rnb1kbnr/3p1ppp/pq2p3/1p6/4P3/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 3 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1280.svg"
 }

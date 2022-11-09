@@ -1,0 +1,8 @@
+{
+    "tokenid": 2667,
+    "eco": "D00",
+    "name": "Queen's Pawn Game: Steinitz Countergambit",
+    "pgn": "1. d4 d5 2. Bf4 c5 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/8/2pp4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq c6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2667.svg"
+}

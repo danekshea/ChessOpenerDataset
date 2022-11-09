@@ -1,8 +1,8 @@
 {
     "tokenid": 801,
-    "eco": "B47/12",
-    "name": "Sicilian: Taimanov: early f4",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.f4 a6 7.Be3 b5 8.Be2 Nxd4 9.Qxd4 Bb7 10.Bf3 Rc8 11.a3 Be7 1/2",
-    "FEN": "2r1k1nr/1bqpbppp/p3p3/1p6/3QPP2/P1N1BB2/1PP3PP/R3K2R w KQk - 1 12",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/801.svg"
+    "eco": "B00",
+    "name": "St. George Defense: San Jorge Variation",
+    "pgn": "1. e4 a6 2. d4 b5 3. Nf3 Bb7 4. Bd3 d6 5. O-O g6 6. c3 Bg7 1/2",
+    "FEN": "rn1qk1nr/1bp1ppbp/p2p2p1/1p6/3PP3/2PB1N2/PP3PPP/RNBQ1RK1 w kq - 1 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/801.svg"
 }

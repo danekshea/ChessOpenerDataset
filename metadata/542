@@ -1,8 +1,8 @@
 {
     "tokenid": 542,
-    "eco": "B06",
-    "name": "Norwegian Defense",
-    "pgn": "1.e4 g6 2.d4 Nf6 3.e5 Nh5 4.g4 Ng7 1/2",
-    "FEN": "rnbqkb1r/ppppppnp/6p1/4P3/3P2P1/8/PPP2P1P/RNBQKBNR w KQkq - 1 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/542.svg"
+    "eco": "A46",
+    "name": "Indian Defense: Polish Variation",
+    "pgn": "1. d4 Nf6 2. Nf3 b5 1/2",
+    "FEN": "rnbqkb1r/p1pppppp/5n2/1p6/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq b6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/542.svg"
 }

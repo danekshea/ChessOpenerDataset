@@ -1,8 +1,8 @@
 {
     "tokenid": 497,
-    "eco": "B02",
-    "name": "Alekhine's Defense: Two Pawns Attack: Mikenas Variation",
-    "pgn": "1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Bc4 e6 6.Nc3 d6 1/2",
-    "FEN": "rnbqkb1r/ppp2ppp/3pp3/2PnP3/2B5/2N5/PP1P1PPP/R1BQK1NR w KQkq - 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/497.svg"
+    "eco": "A43",
+    "name": "Benoni Defense: Woozle",
+    "pgn": "1. d4 c5 2. d5 Nf6 3. Nc3 Qa5 1/2",
+    "FEN": "rnb1kb1r/pp1ppppp/5n2/q1pP4/8/2N5/PPP1PPPP/R1BQKBNR w KQkq - 3 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/497.svg"
 }

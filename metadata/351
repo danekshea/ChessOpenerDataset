@@ -1,8 +1,8 @@
 {
     "tokenid": 351,
-    "eco": "A52",
-    "name": "Budapest: Alekhine Variation",
-    "pgn": "1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4 1/2",
-    "FEN": "rnbqkb1r/pppp1ppp/8/4P3/2P1P1n1/8/PP3PPP/RNBQKBNR b KQkq e3 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/351.svg"
+    "eco": "A21",
+    "name": "English Opening: King's English Variation, Keres Defense",
+    "pgn": "1. c4 e5 2. Nc3 d6 3. g3 c6 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/2pp4/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/351.svg"
 }

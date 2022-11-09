@@ -1,8 +1,8 @@
 {
     "tokenid": 2150,
-    "eco": "E71",
-    "name": "King's Indian: Makagonov System: 5.h3",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Bg5 c5 1/2",
-    "FEN": "rnbq1rk1/pp2ppbp/3p1np1/2p3B1/2PPP3/2N4P/PP3PP1/R2QKBNR w KQ c6 0 7",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2150.svg"
+    "eco": "C45",
+    "name": "Scotch Game: Classical Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 1/2",
+    "FEN": "r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2150.svg"
 }

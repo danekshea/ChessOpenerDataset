@@ -1,8 +1,8 @@
 {
     "tokenid": 1886,
-    "eco": "D79/07",
-    "name": "Neo-Gruenfeld: 6.cxd5",
-    "pgn": "1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.c4 c6 5.d4 d5 6.cxd5 cxd5 7.Nc3 O-O 8.Ne5 Nc6 9.O-O e6 10.Nxc6 bxc6 11.Na4 Nd7 12.Bf4 Ba6 13.Rc1 1/2",
-    "FEN": "r2q1rk1/p2n1pbp/b1p1p1p1/3p4/N2P1B2/6P1/PP2PPBP/2RQ1RK1 b - - 5 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1886.svg"
+    "eco": "C36",
+    "name": "King's Gambit Accepted: Modern Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/8/3P4/5p2/5N2/PPPP2PP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1886.svg"
 }

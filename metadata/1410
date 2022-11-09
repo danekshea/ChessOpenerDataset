@@ -1,8 +1,8 @@
 {
     "tokenid": 1410,
-    "eco": "C64",
-    "name": "Ruy Lopez: Classical (Cordel) Defense",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 1/2",
-    "FEN": "r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1410.svg"
+    "eco": "B88",
+    "name": "Sicilian Defense: Sozin Attack, Leonhardt Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 1/2",
+    "FEN": "r1bqkb1r/pp3ppp/2nppn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 7",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1410.svg"
 }

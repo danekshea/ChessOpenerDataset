@@ -1,8 +1,8 @@
 {
     "tokenid": 804,
-    "eco": "B47/12",
-    "name": "Sicilian: Taimanov: Flohr Variation",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.O-O Nf6 8.Kh1 Nxd4 9.Qxd4 Bc5 10.Qd3 h5 11.f4 Ng4 12.e5 d6 1/2",
-    "FEN": "r1b1k2r/1pq2pp1/p2pp3/2b1P2p/5Pn1/2NQ4/PPP1B1PP/R1B2R1K w kq - 0 13",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/804.svg"
+    "eco": "B00",
+    "name": "Ware Defense",
+    "pgn": "1. e4 a5 1/2",
+    "FEN": "rnbqkbnr/1ppppppp/8/p7/4P3/8/PPPP1PPP/RNBQKBNR w KQkq a6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/804.svg"
 }

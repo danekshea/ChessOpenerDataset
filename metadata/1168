@@ -1,8 +1,8 @@
 {
     "tokenid": 1168,
-    "eco": "C33",
-    "name": "KGA: Bishop's Gambit: Jaenisch Variation",
-    "pgn": "1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 c6 1/2",
-    "FEN": "rnbqkb1r/pp1p1ppp/2p2n2/8/2B1Pp2/2N5/PPPP2PP/R1BQK1NR w KQkq - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1168.svg"
+    "eco": "B27",
+    "name": "Sicilian Defense: Brussels Gambit",
+    "pgn": "1. e4 c5 2. Nf3 f5 1/2",
+    "FEN": "rnbqkbnr/pp1pp1pp/8/2p2p2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq f6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1168.svg"
 }

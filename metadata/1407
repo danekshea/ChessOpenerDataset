@@ -1,8 +1,8 @@
 {
     "tokenid": 1407,
-    "eco": "C62",
-    "name": "Ruy Lopez: Old Steinitz Defense: Nimzovich Attack",
-    "pgn": "1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.Nc3 Nf6 6.Bxc6 1/2",
-    "FEN": "r2qkb1r/pppb1ppp/2Bp1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1407.svg"
+    "eco": "B86",
+    "name": "Sicilian Defense: Sozin Attack",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 1/2",
+    "FEN": "rnbqkb1r/pp3ppp/3ppn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1407.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 767,
-    "eco": "B40",
-    "name": "Sicilian Defense",
-    "pgn": "1.e4 c5 2.Nf3 e6 1/2",
-    "FEN": "rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/767.svg"
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Pirc Connection",
+    "pgn": "1. e4 Nc6 2. Nc3 g6 1/2",
+    "FEN": "r1bqkbnr/pppppp1p/2n3p1/8/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/767.svg"
 }

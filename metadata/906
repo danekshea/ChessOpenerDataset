@@ -1,8 +1,8 @@
 {
     "tokenid": 906,
-    "eco": "B79/05",
-    "name": "Sicilian: Dragon, Yugoslav Attack: (...Qa5 O-O-O)",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Bc4 Nc6 9.Bb3 Bd7 10.Qd2 Qa5 11.O-O-O Rfc8 12.h4 Ne5 13.Kb1 Nc4 14.Bxc4 Rxc4 15.Nb3\n 1/2",
-    "FEN": "r5k1/pp1bppbp/3p1np1/q7/2r1P2P/1NN1BP2/PPPQ2P1/1K1R3R b - - 1 15",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/906.svg"
+    "eco": "B06",
+    "name": "Modern Defense: Fianchetto Gambit",
+    "pgn": "1. e4 g6 2. d4 f5 1/2",
+    "FEN": "rnbqkbnr/ppppp2p/6p1/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq f6 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/906.svg"
 }

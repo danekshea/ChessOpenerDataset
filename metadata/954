@@ -1,8 +1,8 @@
 {
     "tokenid": 954,
-    "eco": "B88",
-    "name": "Sicilian: Sozin: Fischer Variation",
-    "pgn": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 Nc6 7.Bb3 Be7 8.Be3 O-O 9.f4 1/2",
-    "FEN": "r1bq1rk1/pp2bppp/2nppn2/8/3NPP2/1BN1B3/PPP3PP/R2QK2R b KQ f3 0 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/954.svg"
+    "eco": "B07",
+    "name": "Pirc Defense",
+    "pgn": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 1/2",
+    "FEN": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/954.svg"
 }

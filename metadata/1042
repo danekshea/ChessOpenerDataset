@@ -1,8 +1,8 @@
 {
     "tokenid": 1042,
-    "eco": "C10",
-    "name": "French: Fort Knox Variation",
-    "pgn": "1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 1/2",
-    "FEN": "rn1qkbnr/ppp2ppp/2b1p3/8/3PN3/5N2/PPP2PPP/R1BQKB1R w KQkq - 3 6",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1042.svg"
+    "eco": "B14",
+    "name": "Caro-Kann Defense: Panov Attack",
+    "pgn": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 1/2",
+    "FEN": "rnbqkb1r/pp3ppp/4pn2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1042.svg"
 }

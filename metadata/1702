@@ -1,8 +1,8 @@
 {
     "tokenid": 1702,
-    "eco": "D31",
-    "name": "QGD: Charousek (Petrosian) Variation",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 Be7 1/2",
-    "FEN": "rnbqk1nr/ppp1bppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1702.svg"
+    "eco": "C24",
+    "name": "Bishop's Opening: Ponziani Gambit",
+    "pgn": "1. e4 e5 2. Bc4 Nf6 3. d4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq d3 0 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1702.svg"
 }

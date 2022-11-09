@@ -1,8 +1,8 @@
 {
     "tokenid": 1713,
-    "eco": "D34",
-    "name": "QGD: Tarrasch: Prague Variation 9.Bg5",
-    "pgn": "1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5 1/2",
-    "FEN": "r1bq1rk1/pp2bppp/2n2n2/2pp2B1/3P4/2N2NP1/PP2PPBP/R2Q1RK1 b - - 6 9",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/1713.svg"
+    "eco": "C25",
+    "name": "Vienna Game: Max Lange Defense",
+    "pgn": "1. e4 e5 2. Nc3 Nc6 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/1713.svg"
 }

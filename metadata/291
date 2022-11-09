@@ -1,8 +1,8 @@
 {
     "tokenid": 291,
-    "eco": "A42",
-    "name": "Modern Defense: Averbakh System",
-    "pgn": "1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4 1/2",
-    "FEN": "rnbqk1nr/ppp1ppbp/3p2p1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 4",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/291.svg"
+    "eco": "A12",
+    "name": "R\u00e9ti Opening: Anglo-Slav Variation, Bogoljubov Variation",
+    "pgn": "1. Nf3 d5 2. c4 c6 3. b3 Bg4 1/2",
+    "FEN": "rn1qkbnr/pp2pppp/2p5/3p4/2P3b1/1P3N2/P2PPPPP/RNBQKB1R w KQkq - 1 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/291.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 794,
-    "eco": "B45",
-    "name": "Sicilian: Taimanov Variation",
-    "pgn": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 1/2",
-    "FEN": "r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/794.svg"
+    "eco": "B00",
+    "name": "Pirc Defense: Roscher Gambit",
+    "pgn": "1. e4 d6 2. d4 Nf6 3. Nf3 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 3",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/794.svg"
 }

@@ -1,8 +1,8 @@
 {
     "tokenid": 2226,
-    "eco": "E94/27",
-    "name": "King's Indian: Orthodox (...d5)",
-    "pgn": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nbd7 8.O-O Nc5 9.Qc2 a5 10.Ne1 1/2",
-    "FEN": "r1bq1rk1/1pp2pbp/3p1np1/p1nPp3/2P1P3/2N5/PPQ1BPPP/R1B1NRK1 b - - 1 10",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/2226.svg"
+    "eco": "C50",
+    "name": "Giuoco Piano",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 1/2",
+    "FEN": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/2226.svg"
 }

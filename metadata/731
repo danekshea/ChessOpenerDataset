@@ -1,8 +1,8 @@
 {
     "tokenid": 731,
-    "eco": "B32",
-    "name": "Sicilian: Nimzovich Variation",
-    "pgn": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 d5 1/2",
-    "FEN": "r1bqkbnr/pp2pppp/2n5/3p4/3NP3/8/PPP2PPP/RNBQKB1R w KQkq d6 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/731.svg"
+    "eco": "B00",
+    "name": "Goldsmith Defense",
+    "pgn": "1. e4 h5 1/2",
+    "FEN": "rnbqkbnr/ppppppp1/8/7p/4P3/8/PPPP1PPP/RNBQKBNR w KQkq h6 0 2",
+    "image_url": "ipfs://bafybeihvaea4hd2heyb73jtwkqvkp54db3lhcblxnb22h5zbpkwrzs2n2q/731.svg"
 }
