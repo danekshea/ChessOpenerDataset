@@ -96,7 +96,7 @@ def niklasfchessopeninggenerator():
 
         #create SVGs of board states
         board = chess.Board(FEN)
-        with open('metadata/images/' + str(tokenid) + '.svg', 'w') as f:
+        with open('images/' + str(tokenid) + '.svg', 'w') as f:
             with redirect_stdout(f):
                     print(chess.svg.board(board, size=350))
 
